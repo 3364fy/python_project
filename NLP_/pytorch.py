@@ -35,7 +35,7 @@ print(y)
 x.copy_(y)
 print(x)
 
-print(x[:,1])
+
 
 
 
