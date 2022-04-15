@@ -17,3 +17,4 @@ x=x.new_ones(5,3,dtype=torch.double)
 print(x,x.size())
 y=torch.randn_like(x,dtype=torch.float)
 print(y)
+
