@@ -1,5 +1,6 @@
 from __future__ import print_function
 import torch
+import numpy as np
 
 x=torch.empty(5,3)
 print(x)
@@ -52,6 +53,38 @@ print(x.item())
 
 a=torch.ones(5)
 print(a)
+
+#将Torch Tensor转换为Numpy array
+b=a.numpy()
+print(b)
+
+#对其中一个进行加法操作。另一个也随之被改变
+a.add_(1)
+print(a,b)
+
+#将Numpy array转换为Torch Tensor
+a=np.ones(5)
+b=torch.from_numpy(a)
+np.add(a,1,out=a)
+print(a,b)
+
+#所有在CPU上的Tensor，除了CharTensor，都可以转换为Numpy array 并可以反向转换
+#关于CharTensor，Tensor可以用.to()方法来将其移动到任意设备上
+
+#如果服务器上已经安装了GPU和CUDA
+if torch.cuda.is_available():
+    #定义一个设备对象，这里指定成CUDA，即使用GPU
+    device=torch.device('cuda')
+    #直接在GPU上创建一个Tensor
+    y=torch.ones_like(x,device=device)
+    #将在CPU上面的x张量移动到GPU上面
+    x=x.to(device)
+    #x和y都在GPU上，才能支持加法运算
+    z=x+y
+    #此时的张量z在GPU上
+    print(z)
+    #也可以将z转移到CPU上面，并同时指定张量元素的数据类型
+    print(z.to('cpu',torch.double))
 
 
 
