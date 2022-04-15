@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/song" />
+      <excludeFolder url="file://$MODULE_DIR$/tang" />
+      <excludeFolder url="file://$MODULE_DIR$/风格/all_poets" />
+      <excludeFolder url="file://$MODULE_DIR$/模型/训练诗集" />
+      <excludeFolder url="file://$MODULE_DIR$/模型/训练集分词" />
+      <excludeFolder url="file://$MODULE_DIR$/模型/测试诗集" />
+      <excludeFolder url="file://$MODULE_DIR$/模型/测试集分词" />
+      <excludeFolder url="file://$MODULE_DIR$" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
