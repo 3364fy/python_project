@@ -1,0 +1,16 @@
+absl-py==1.0.0
+astor==0.8.1
+dataclasses==0.8
+gast==0.5.3
+grpcio==1.42.0
+importlib-metadata==4.8.2
+Markdown==3.3.6
+numpy==1.14.5
+protobuf==3.19.1
+six==1.16.0
+tensorboard==1.10.0
+tensorflow==1.10.0
+termcolor==1.1.0
+typing-extensions==4.0.1
+Werkzeug==2.0.2
+zipp==3.6.0
