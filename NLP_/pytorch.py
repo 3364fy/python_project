@@ -28,3 +28,7 @@ print(result)
 
 y.add_(x)
 print(y)
+
+y.sub_(x)
+print(y)
+
