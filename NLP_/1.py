@@ -18,3 +18,5 @@ print(x,x.size())
 y=torch.randn_like(x,dtype=torch.float)
 print(y)
 
+print(x+y)
+
