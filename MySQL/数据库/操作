@@ -1,0 +1,6 @@
+E:\New Folder\bin>mysqld.exe --install
+mysql -uroot -p33649464
+use fy #切换数据库
+show tables; #显示所有表
+desc api_userinfo; #打开表
+select * from api_userinfo; #查看表中内容

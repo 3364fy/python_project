@@ -1,0 +1,40 @@
+cd web后端
+cd web后端/firstweb
+cd web后端/secondweb
+django-admin startproject proname
+python manage.py startapp appname
+
+setting: INSTALLED_APPS
+'secondapp'
+
+Create your models
+class 类名(models.Model):
+    列1名称 = models.字符特征(null=True,blank=True,Max_length=最大长度)
+        def __str__(self):
+        return str(self.列1名称)
+python manage.py makemigrations
+
+python manage.py migrate
+
+setting: TEMPLATES
+'DIRS': [os.path.join(BASE_DIR,'templates').replace('\\','/')],
+
+python manage.py createsuperuser
+
+admin:
+from firstapp.models import class1
+admin.site.register(class1)
+python manage.py makemigrations
+python manage.py migrate
+
+database
+'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'bjpowernode',
+        'HOST':'127.0.0.1',
+        'USER':'root',
+        'PASSWORD':'33649464'
+    }
+}
+
+python manage.py runserver

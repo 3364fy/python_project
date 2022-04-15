@@ -1,0 +1,4205 @@
+Gender,EHP,credit_history,Experience,annual_claims,Marital_Status,type,Miles,size,credit,,target
+F,522,656,1,0,Married,Car,14749,5,Fair,,1
+F,691,704,16,0,Married,Car,15389,6,Good,,1
+M,133,691,15,0,Married,Van,9956,3,Good,,1
+M,146,720,9,0,Married,Van,77323,3,Good,,1
+M,128,771,33,1,Married,Van,14183,4,Very Good,,1
+F,144,722,18,1,Married,Truck,12208,8,Good,,1
+F,151,788,31,3,Married,Truck,13957,2,Very Good,,1
+F,88,747,21,1,Single,Car,14200,5,Very Good,,1
+F,653,717,34,0,Married,Car,17084,1,Good,,1
+F,120,785,19,1,Married,Truck,6101,1,Very Good,,0
+M,150,836,20,1,Single,Utility,9485,8,Exceptional,,1
+F,423,718,5,3,Single,Truck,11898,2,Good,,0
+F,104,793,36,1,Single,Car,12385,6,Very Good,,1
+F,87,577,2,1,Married,Truck,41473,4,Very Poor,,1
+M,191,635,5,0,Single,Car,11869,5,Fair,,1
+M,138,734,18,1,Married,Truck,9280,3,Good,,1
+M,94,644,6,2,Married,Truck,92463,2,Fair,,1
+F,82,686,22,1,Married,Car,6986,4,Good,,1
+M,338,640,1,3,Married,Car,95547,4,Fair,,1
+F,213,733,8,3,Single,Truck,13484,2,Good,,0
+M,86,728,22,1,Married,Van,12879,1,Good,,1
+M,137,681,13,1,Married,Utility,11199,3,Good,,0
+M,154,771,24,1,Married,Van,13608,3,Very Good,,1
+M,120,768,16,1,Married,Van,7058,1,Very Good,,0
+F,144,737,24,1,Married,Car,6086,8,Good,,1
+F,125,792,18,1,Married,Car,16610,7,Very Good,,1
+M,110,542,2,2,Single,Car,13115,3,Very Poor,,0
+M,116,718,39,0,Married,Truck,14992,6,Good,,1
+M,93,798,17,0,Single,Utility,10791,8,Very Good,,1
+F,130,709,24,0,Married,Car,7110,3,Good,,1
+M,122,618,5,3,Single,Car,20376,8,Fair,,0
+F,306,721,6,2,Single,Truck,14587,3,Good,,0
+M,159,676,1,0,Married,Truck,11207,5,Good,,1
+M,135,762,11,1,Single,Utility,5138,6,Very Good,,0
+M,160,764,13,0,Single,Utility,12088,8,Very Good,,0
+F,80,760,15,0,Married,Truck,12429,7,Very Good,,1
+F,153,706,16,0,Married,Car,12734,3,Good,,0
+M,484,608,1,0,Married,Van,5999,7,Fair,,1
+M,207,681,3,2,Married,Car,14617,6,Good,,1
+F,142,773,16,0,Married,Truck,10067,5,Very Good,,1
+M,95,712,7,0,Married,Van,25244,7,Good,,1
+M,120,689,8,0,Married,Truck,7411,5,Good,,1
+M,84,783,18,1,Married,Truck,8081,3,Very Good,,1
+M,153,628,4,3,Single,Car,84879,8,Fair,,1
+M,250,647,3,1,Married,Car,10189,3,Fair,,1
+M,453,366,1,2,Single,Utility,21049,3,Very Poor,,0
+M,118,708,12,0,Married,Utility,7697,3,Good,,1
+M,271,618,5,1,Married,Car,12240,3,Fair,,1
+F,154,773,24,1,Married,Car,12067,2,Very Good,,0
+M,154,615,2,3,Single,Car,82075,1,Fair,,1
+F,177,389,6,2,Single,Van,13846,1,Very Poor,,0
+M,135,688,13,0,Single,Utility,7022,6,Good,,0
+F,85,673,1,0,Married,Truck,12441,6,Good,,1
+M,122,799,32,0,Married,Utility,5226,4,Very Good,,1
+F,83,729,13,0,Married,Car,62711,2,Good,,1
+F,93,768,1,0,Married,Car,21940,5,Very Good,,1
+M,89,751,8,0,Single,Utility,12659,2,Very Good,,0
+F,101,778,16,3,Married,Truck,15742,4,Very Good,,0
+M,96,379,5,3,Married,Truck,22730,8,Very Poor,,0
+F,301,504,8,2,Single,Truck,21202,7,Very Poor,,0
+M,99,743,30,1,Married,Truck,5295,3,Very Good,,1
+M,106,778,24,1,Married,Van,9020,3,Very Good,,1
+F,117,744,17,1,Married,Car,9949,5,Very Good,,1
+M,80,750,10,1,Single,Utility,7817,4,Very Good,,1
+F,500,379,8,2,Single,Van,12901,8,Very Poor,,1
+F,104,732,10,0,Married,Car,30654,3,Good,,1
+F,136,676,26,0,Married,Car,7307,4,Good,,1
+F,645,700,1,0,Married,Truck,16334,5,Good,,1
+F,123,671,17,1,Married,Car,5853,1,Good,,1
+F,125,677,14,0,Married,Car,12769,1,Good,,1
+F,209,352,7,2,Single,Truck,12645,5,Very Poor,,1
+F,107,788,24,3,Married,Truck,5541,2,Very Good,,1
+M,314,682,8,1,Married,Van,58125,5,Good,,0
+F,258,724,9,0,Married,Car,12654,3,Good,,1
+F,93,793,19,0,Married,Truck,21613,1,Very Good,,1
+F,105,714,28,0,Single,Car,7862,4,Good,,1
+F,487,653,8,2,Single,Truck,11572,2,Fair,,1
+F,405,620,7,2,Single,Truck,12670,5,Fair,,1
+M,154,697,20,0,Married,Utility,5355,1,Good,,1
+F,101,751,11,0,Single,Car,14319,4,Very Good,,1
+F,150,757,29,1,Married,Truck,14733,2,Very Good,,0
+F,139,683,15,0,Single,Car,9019,5,Good,,1
+F,380,586,5,3,Single,Truck,14762,2,Fair,,1
+M,95,708,26,0,Married,Van,9855,6,Good,,1
+M,182,732,2,2,Single,Car,24269,2,Good,,1
+M,107,815,25,0,Single,Utility,14529,3,Exceptional,,0
+M,96,766,8,1,Single,Utility,7827,7,Very Good,,1
+M,237,532,2,2,Single,Car,11116,1,Very Poor,,0
+F,123,791,16,0,Married,Truck,6844,1,Very Good,,1
+M,108,767,18,0,Single,Utility,6975,7,Very Good,,1
+M,99,739,13,1,Married,Utility,12080,3,Good,,0
+F,400,715,24,1,Married,Car,20219,5,Good,,1
+M,152,757,9,0,Married,Truck,9779,8,Very Good,,0
+M,97,308,5,3,Married,Truck,10383,5,Very Poor,,0
+M,92,737,24,0,Married,Truck,13952,8,Good,,1
+M,215,713,5,0,Married,Van,76849,5,Good,,1
+F,102,726,22,0,Married,Car,6332,8,Good,,1
+M,136,769,11,0,Married,Van,14930,1,Very Good,,0
+F,175,634,7,0,Single,Van,13368,6,Fair,,1
+M,81,559,8,0,Married,Van,36937,1,Very Poor,,0
+F,180,323,7,3,Single,Van,24679,1,Very Poor,,1
+M,207,685,2,1,Married,Car,11074,8,Good,,0
+F,111,791,7,0,Married,Car,23437,3,Very Good,,1
+F,349,319,7,2,Single,Truck,12572,3,Very Poor,,1
+F,116,795,20,0,Married,Car,13353,3,Very Good,,0
+F,297,409,6,3,Single,Utility,18418,5,Very Poor,,1
+F,303,401,5,2,Single,Utility,12443,5,Very Poor,,1
+M,100,751,12,1,Married,Van,6028,5,Very Good,,0
+M,156,466,6,3,Married,Truck,22168,8,Very Poor,,1
+F,408,478,5,2,Single,Truck,14887,7,Very Poor,,1
+M,158,789,21,1,Single,Utility,12804,5,Very Good,,0
+F,119,762,22,1,Married,Car,5698,1,Very Good,,1
+M,123,825,21,0,Single,Utility,9827,4,Exceptional,,1
+M,81,537,3,1,Married,Truck,71925,4,Very Poor,,1
+F,87,750,20,1,Married,Truck,9421,3,Very Good,,1
+M,293,611,1,2,Married,Car,32794,1,Fair,,1
+M,126,675,10,0,Single,Utility,5048,4,Good,,1
+F,288,614,6,0,Single,Truck,11821,6,Fair,,1
+M,92,781,11,0,Married,Utility,5417,1,Very Good,,1
+F,154,719,17,1,Married,Car,12022,3,Good,,0
+M,386,462,3,3,Married,Car,14847,3,Very Poor,,0
+M,116,759,24,1,Married,Van,6579,6,Very Good,,0
+F,491,692,36,1,Married,Truck,8662,1,Good,,1
+F,264,585,7,0,Single,Truck,13371,2,Fair,,1
+F,113,789,3,0,Married,Car,13154,7,Very Good,,0
+M,86,688,25,0,Single,Utility,11908,6,Good,,1
+F,627,682,9,0,Married,Car,18561,5,Good,,1
+M,95,699,14,1,Married,Van,63466,4,Good,,1
+M,90,685,15,0,Married,Van,10101,2,Good,,0
+F,83,321,8,1,Married,Car,65489,1,Very Poor,,0
+M,432,596,1,0,Married,Truck,6449,7,Fair,,1
+F,132,793,19,1,Single,Car,7180,8,Very Good,,1
+M,447,654,3,0,Married,Van,13139,7,Fair,,0
+F,130,783,15,0,Married,Car,11894,2,Very Good,,0
+M,478,645,5,1,Married,Car,14649,5,Fair,,1
+M,106,687,24,1,Married,Car,12017,1,Good,,0
+M,153,709,28,0,Married,Truck,9653,6,Good,,0
+M,83,691,5,0,Single,Utility,5478,2,Good,,0
+M,169,675,4,2,Single,Car,13294,6,Good,,0
+M,146,683,14,1,Married,Van,5414,3,Good,,1
+M,132,421,1,3,Single,Car,12305,1,Very Poor,,1
+M,440,695,4,1,Married,Car,12906,8,Good,,0
+F,104,672,22,0,Married,Car,14672,8,Good,,1
+M,364,610,2,1,Married,Car,25670,5,Fair,,0
+M,157,686,19,0,Married,Truck,10277,4,Good,,0
+F,443,666,8,3,Single,Truck,11164,8,Fair,,1
+F,143,672,23,2,Married,Car,5042,3,Good,,0
+M,159,758,17,1,Married,Van,11911,8,Very Good,,1
+F,394,591,5,0,Married,Car,9172,7,Fair,,1
+M,114,730,20,0,Married,Van,11844,4,Good,,0
+M,85,689,20,0,Married,Truck,10084,8,Good,,1
+M,119,707,19,0,Married,Van,13799,5,Good,,1
+F,121,745,15,0,Married,Car,9178,6,Very Good,,0
+F,666,762,5,1,Married,Truck,10416,5,Very Good,,0
+M,468,495,4,2,Married,Car,14782,5,Very Poor,,1
+F,179,489,7,3,Single,Van,13974,5,Very Poor,,0
+M,184,670,4,2,Single,Car,11529,4,Good,,1
+F,253,738,6,1,Married,Car,71430,3,Good,,1
+F,435,691,6,3,Single,Truck,12331,6,Good,,0
+F,126,638,6,2,Single,Van,48426,8,Fair,,1
+F,127,689,19,0,Married,Car,8685,6,Good,,1
+F,118,736,6,1,Single,Car,58173,5,Good,,0
+F,104,781,17,1,Single,Car,11114,3,Very Good,,1
+F,84,507,5,0,Single,Car,40282,5,Very Poor,,1
+M,383,644,2,3,Married,Car,69612,5,Fair,,1
+F,427,736,36,0,Married,Truck,10173,2,Good,,1
+F,122,726,19,0,Single,Car,10094,3,Good,,1
+M,118,816,18,1,Single,Utility,5985,6,Exceptional,,1
+M,107,643,3,2,Single,Car,86878,2,Fair,,1
+M,446,422,2,1,Married,Car,14174,6,Very Poor,,1
+M,161,511,8,2,Married,Truck,13553,3,Very Poor,,1
+M,94,778,39,4,Single,Utility,6639,2,Very Good,,0
+F,108,740,38,0,Married,Truck,7779,5,Very Good,,1
+M,101,705,1,3,Single,Car,24601,7,Good,,1
+F,399,696,6,2,Single,Truck,12990,3,Good,,1
+M,105,556,1,3,Single,Car,10832,5,Very Poor,,1
+M,126,672,17,4,Single,Utility,10138,7,Good,,1
+M,107,418,5,3,Single,Car,12073,5,Very Poor,,0
+F,230,529,2,0,Married,Truck,55116,7,Very Poor,,1
+M,100,306,6,2,Married,Truck,12414,4,Very Poor,,1
+M,125,710,25,1,Married,Car,6493,6,Good,,0
+M,94,798,18,0,Married,Van,11031,4,Very Good,,0
+F,332,639,7,0,Single,Truck,12406,4,Fair,,1
+F,410,583,8,2,Single,Truck,14450,4,Fair,,1
+M,114,772,18,0,Single,Utility,10441,2,Very Good,,1
+M,245,522,3,1,Married,Van,52474,6,Very Poor,,1
+M,151,445,3,3,Single,Car,16575,3,Very Poor,,1
+F,114,689,10,1,Married,Truck,71076,1,Good,,0
+M,424,448,5,2,Married,Car,13230,7,Very Poor,,1
+F,126,758,20,0,Married,Car,14469,8,Very Good,,1
+M,389,656,4,0,Single,Car,11802,8,Fair,,0
+M,164,439,7,2,Married,Truck,12074,7,Very Poor,,1
+F,111,672,13,1,Married,Car,6017,7,Good,,0
+M,415,675,1,2,Married,Car,14857,8,Good,,1
+M,82,673,27,1,Married,Van,11713,6,Good,,1
+F,435,599,5,3,Single,Van,18451,5,Fair,,1
+F,157,765,19,0,Married,Car,7908,7,Very Good,,1
+F,104,737,11,0,Married,Truck,11294,1,Good,,1
+M,90,716,21,1,Married,Van,14783,5,Good,,0
+F,123,783,36,0,Married,Car,6199,7,Very Good,,1
+M,87,762,32,1,Married,Van,6293,5,Very Good,,1
+F,122,684,2,0,Married,Truck,5404,6,Good,,1
+F,106,784,9,1,Single,Car,7037,8,Very Good,,1
+M,179,665,8,4,Married,Truck,13730,4,Fair,,0
+F,110,710,13,1,Married,Truck,8219,4,Good,,1
+M,102,741,17,0,Married,Truck,12313,8,Very Good,,0
+M,101,725,6,0,Single,Utility,14248,5,Good,,1
+M,143,778,31,0,Married,Van,8641,3,Very Good,,1
+M,124,783,30,4,Single,Utility,12722,2,Very Good,,0
+F,98,698,19,0,Married,Truck,13975,2,Good,,1
+M,440,708,4,3,Married,Car,11951,3,Good,,1
+M,157,732,20,0,Married,Utility,9906,3,Good,,0
+M,155,779,25,0,Single,Utility,11967,8,Very Good,,1
+F,125,724,5,0,Married,Car,34728,4,Good,,1
+M,81,798,25,1,Married,Truck,6520,6,Very Good,,0
+F,99,672,7,2,Single,Van,12120,2,Good,,1
+M,152,726,16,0,Married,Truck,7659,1,Good,,1
+M,88,783,21,0,Married,Van,14516,3,Very Good,,1
+F,157,758,22,3,Married,Truck,22816,6,Very Good,,1
+F,143,729,18,1,Married,Car,8136,8,Good,,1
+F,103,741,15,1,Married,Car,6740,4,Very Good,,1
+F,400,591,7,2,Single,Truck,11614,4,Fair,,0
+F,138,716,10,0,Married,Car,12758,2,Good,,0
+F,102,720,21,1,Married,Car,12877,8,Good,,1
+F,112,791,10,1,Married,Car,13495,6,Very Good,,0
+F,344,382,1,1,Married,Car,73053,5,Very Poor,,1
+F,324,581,5,0,Single,Van,12580,6,Fair,,1
+F,159,671,7,1,Married,Car,57773,7,Good,,1
+F,489,721,5,3,Single,Truck,10577,1,Good,,1
+M,107,711,5,0,Married,Truck,57981,4,Good,,1
+M,114,766,5,0,Married,Van,11026,6,Very Good,,1
+M,159,726,38,0,Single,Utility,6145,5,Good,,1
+M,228,586,4,0,Single,Utility,11896,7,Fair,,1
+F,126,687,25,0,Married,Car,14501,3,Good,,1
+M,86,796,28,1,Married,Van,11598,7,Very Good,,1
+M,126,691,25,0,Married,Van,10274,1,Good,,0
+F,190,606,6,1,Single,Van,13969,8,Fair,,1
+M,81,792,28,0,Married,Van,14567,2,Very Good,,0
+F,112,746,25,0,Married,Car,22201,4,Very Good,,0
+F,100,680,17,2,Married,Car,10113,1,Good,,1
+M,498,717,3,2,Married,Car,11262,2,Good,,0
+F,127,697,19,0,Married,Car,9815,2,Good,,1
+M,428,643,4,3,Married,Car,24996,5,Fair,,1
+F,146,679,29,0,Married,Car,20922,4,Good,,1
+M,159,648,5,3,Married,Truck,64274,3,Fair,,0
+M,88,758,21,0,Married,Van,5155,5,Very Good,,0
+F,133,670,17,1,Married,Car,8303,5,Good,,0
+M,152,690,24,0,Married,Truck,9921,2,Good,,0
+M,512,700,39,1,Married,Truck,7475,8,Good,,1
+F,157,790,23,0,Married,Truck,19980,5,Very Good,,0
+F,585,699,15,0,Married,Car,22144,6,Good,,1
+F,82,705,17,1,Married,Truck,7035,2,Good,,0
+F,235,581,8,0,Single,Van,10054,7,Fair,,1
+F,118,769,26,3,Married,Truck,11524,8,Very Good,,1
+F,236,413,5,2,Single,Truck,13660,3,Very Poor,,0
+F,100,697,22,1,Married,Car,5305,4,Good,,1
+M,118,706,13,1,Married,Van,8537,7,Good,,1
+F,451,825,6,3,Single,Truck,24680,6,Exceptional,,1
+F,176,653,8,0,Single,Van,10656,1,Fair,,0
+M,195,736,4,2,Single,Car,14615,1,Good,,1
+F,140,682,36,1,Married,Car,6729,7,Good,,1
+F,180,695,5,0,Married,Truck,30489,7,Good,,0
+F,84,676,14,1,Married,Car,29040,2,Good,,0
+F,80,707,17,1,Single,Car,6833,3,Good,,1
+F,128,740,10,0,Single,Car,6569,6,Very Good,,0
+M,89,687,23,0,Married,Van,9875,7,Good,,0
+M,121,742,13,0,Married,Truck,10680,2,Very Good,,1
+M,80,758,15,0,Single,Utility,12033,6,Very Good,,1
+M,135,418,6,3,Married,Truck,12449,5,Very Poor,,1
+M,159,744,13,1,Single,Utility,6750,3,Very Good,,1
+M,286,547,1,2,Married,Car,20516,4,Very Poor,,1
+F,248,730,3,1,Single,Car,82250,6,Good,,0
+M,186,681,4,2,Single,Car,11300,8,Good,,0
+F,94,682,5,1,Married,Truck,7713,5,Good,,1
+F,149,763,16,0,Single,Car,13073,7,Very Good,,1
+F,125,693,13,1,Married,Truck,8687,2,Good,,0
+M,100,850,8,3,Married,Truck,22917,7,Exceptional,,0
+F,134,725,28,0,Married,Car,7424,3,Good,,0
+F,357,710,20,0,Married,Truck,23337,5,Good,,1
+F,107,686,35,1,Married,Car,12593,7,Good,,0
+F,98,697,22,2,Married,Car,14982,3,Good,,1
+M,111,678,35,1,Married,Van,7292,5,Good,,1
+F,94,707,23,1,Married,Car,9247,6,Good,,1
+M,104,678,15,0,Married,Truck,13996,6,Good,,1
+M,148,769,12,1,Married,Truck,8677,8,Very Good,,0
+M,93,752,10,1,Married,Utility,9644,3,Very Good,,1
+M,112,690,13,0,Married,Utility,7471,7,Good,,0
+F,119,701,15,0,Married,Car,7488,8,Good,,0
+M,108,706,26,1,Single,Utility,14443,3,Good,,1
+F,158,682,9,2,Married,Car,7907,8,Good,,0
+F,128,670,15,1,Married,Truck,8388,4,Good,,1
+M,106,675,13,1,Married,Van,8420,2,Good,,1
+M,154,738,16,1,Married,Van,5028,6,Good,,0
+F,299,714,3,1,Single,Car,49056,7,Good,,1
+M,90,757,12,4,Single,Utility,6871,6,Very Good,,1
+M,108,717,5,2,Married,Truck,12783,3,Good,,1
+M,220,616,4,1,Married,Car,14376,5,Fair,,1
+M,159,700,7,1,Single,Utility,12078,6,Good,,1
+M,245,640,5,1,Married,Car,11045,1,Fair,,1
+M,253,678,3,3,Single,Utility,10251,4,Good,,1
+F,96,798,13,0,Single,Car,14599,7,Very Good,,1
+F,150,683,28,0,Single,Car,10002,8,Good,,1
+F,148,772,40,0,Married,Car,6944,8,Very Good,,1
+M,159,777,17,0,Married,Van,13156,8,Very Good,,1
+F,118,759,3,1,Married,Truck,5219,5,Very Good,,0
+M,143,728,19,4,Single,Utility,10681,4,Good,,1
+F,156,756,5,0,Married,Truck,8520,7,Very Good,,1
+M,143,797,11,1,Married,Van,13599,4,Very Good,,1
+M,158,691,4,2,Single,Car,11421,3,Good,,1
+F,185,711,3,1,Single,Car,73342,2,Good,,1
+M,135,787,5,0,Married,Van,6416,1,Very Good,,1
+M,583,758,4,1,Married,Truck,14658,1,Very Good,,1
+M,376,460,3,3,Married,Car,13759,6,Very Poor,,0
+F,361,686,8,2,Single,Truck,12256,1,Good,,1
+F,81,712,36,0,Single,Car,12453,3,Good,,1
+M,119,850,11,4,Single,Utility,6615,2,Exceptional,,1
+F,118,648,5,3,Single,Van,43159,1,Fair,,1
+M,80,701,10,1,Single,Utility,5625,5,Good,,1
+F,130,724,6,3,Single,Van,13267,6,Good,,0
+M,80,782,25,0,Married,Van,6721,8,Very Good,,1
+M,111,675,9,1,Married,Van,8473,1,Good,,0
+F,111,723,20,0,Married,Car,13172,4,Good,,0
+F,388,708,6,3,Single,Truck,13638,7,Good,,0
+F,149,753,6,1,Married,Car,8424,7,Very Good,,0
+F,138,797,20,3,Married,Truck,16809,7,Very Good,,1
+M,495,610,3,0,Married,Car,12566,7,Fair,,1
+M,111,680,25,1,Married,Van,8085,3,Good,,1
+M,127,790,21,0,Single,Utility,6150,3,Very Good,,0
+F,673,681,37,0,Married,Car,13812,2,Good,,1
+F,98,674,18,1,Married,Car,12630,5,Good,,1
+M,143,721,21,0,Married,Truck,6357,7,Good,,1
+M,152,777,6,1,Married,Utility,7154,2,Very Good,,1
+F,127,782,14,0,Married,Car,19490,3,Very Good,,0
+M,374,727,1,2,Married,Car,14068,3,Good,,1
+M,136,716,18,0,Married,Utility,8428,7,Good,,0
+M,141,677,7,0,Married,Van,37789,7,Good,,1
+F,102,690,7,0,Single,Car,6210,6,Good,,1
+F,355,583,3,3,Single,Truck,12332,6,Fair,,1
+M,199,545,1,3,Single,Car,13285,2,Very Poor,,1
+F,471,461,8,3,Single,Truck,10132,3,Very Poor,,1
+M,452,369,2,2,Married,Car,13681,2,Very Poor,,1
+M,141,726,19,1,Married,Van,6920,2,Good,,1
+M,145,788,10,0,Married,Van,14892,3,Very Good,,1
+F,111,735,29,1,Single,Car,11696,1,Good,,1
+F,316,584,7,1,Single,Utility,13403,8,Fair,,0
+F,95,683,4,1,Married,Car,31241,7,Good,,0
+M,85,716,19,0,Married,Van,5094,3,Good,,1
+F,135,779,31,0,Married,Truck,11835,3,Very Good,,0
+F,122,741,10,0,Married,Car,9772,2,Very Good,,1
+F,300,339,7,2,Single,Truck,12364,8,Very Poor,,1
+F,123,692,9,1,Married,Truck,45817,8,Good,,1
+M,93,727,14,0,Married,Utility,9727,7,Good,,1
+M,104,671,32,1,Married,Van,11229,5,Good,,1
+M,129,743,15,1,Married,Van,9932,6,Very Good,,1
+F,147,686,19,1,Married,Car,16323,1,Good,,1
+F,86,786,14,1,Married,Truck,11705,4,Very Good,,1
+F,245,674,5,1,Married,Car,71509,7,Good,,1
+F,622,735,24,0,Married,Car,20670,4,Good,,1
+M,219,551,1,3,Married,Car,10307,1,Very Poor,,1
+F,138,701,14,0,Married,Car,52676,4,Good,,1
+M,233,509,2,2,Married,Car,14878,7,Very Poor,,1
+M,120,500,14,3,Married,Truck,12862,5,Very Poor,,1
+M,94,772,25,1,Married,Van,9747,5,Very Good,,1
+M,150,769,14,1,Married,Van,10087,3,Very Good,,1
+F,112,729,18,1,Married,Car,7093,1,Good,,0
+M,140,687,37,0,Married,Truck,12705,3,Good,,1
+M,120,732,20,1,Single,Utility,6385,5,Good,,1
+M,99,795,18,1,Married,Van,11713,8,Very Good,,0
+F,656,678,6,1,Married,Car,23696,7,Good,,0
+M,85,689,15,1,Married,Van,14751,5,Good,,1
+F,148,696,25,2,Married,Car,5751,7,Good,,1
+M,276,690,5,3,Married,Car,12829,4,Good,,1
+M,91,650,6,2,Married,Truck,39145,6,Fair,,1
+M,88,578,6,0,Married,Utility,87360,5,Very Poor,,1
+M,121,767,21,1,Married,Van,13675,8,Very Good,,1
+M,109,672,18,0,Married,Van,10067,8,Good,,1
+F,120,754,11,3,Married,Truck,17264,3,Very Good,,1
+M,133,703,21,1,Married,Van,7794,6,Good,,1
+M,141,684,36,1,Married,Van,7452,5,Good,,0
+F,100,783,5,0,Married,Car,14946,2,Very Good,,0
+F,678,674,23,0,Married,Car,16132,4,Good,,0
+F,423,601,6,2,Single,Truck,10263,4,Fair,,1
+F,169,360,1,1,Married,Car,89696,2,Very Poor,,1
+F,472,702,7,3,Single,Truck,13267,8,Good,,1
+M,258,667,3,0,Single,Utility,13703,5,Fair,,1
+M,91,681,22,1,Married,Van,5392,3,Good,,1
+F,326,547,2,0,Married,Truck,41406,5,Very Poor,,1
+M,91,770,8,0,Married,Van,13576,1,Very Good,,1
+F,296,616,8,0,Single,Utility,12378,4,Fair,,1
+F,125,752,3,0,Married,Truck,21084,8,Very Good,,1
+M,124,756,16,0,Married,Van,7443,3,Very Good,,1
+F,210,591,5,0,Single,Truck,10061,2,Fair,,0
+M,106,692,13,1,Married,Utility,14090,5,Good,,0
+F,219,690,5,2,Single,Truck,10071,3,Good,,0
+M,155,487,2,2,Single,Car,14019,1,Very Poor,,1
+M,141,690,6,1,Married,Van,13054,7,Good,,1
+M,209,733,1,3,Married,Car,12222,8,Good,,1
+F,104,625,7,2,Single,Van,63214,3,Fair,,1
+F,197,690,6,1,Married,Car,81271,1,Good,,0
+F,308,644,7,0,Single,Truck,12353,8,Fair,,1
+F,217,739,7,2,Single,Truck,10210,6,Good,,1
+M,199,642,1,2,Single,Car,40071,6,Fair,,1
+M,149,486,8,4,Married,Truck,12292,3,Very Poor,,1
+F,539,670,6,0,Married,Car,23041,7,Good,,1
+F,135,756,30,1,Married,Car,15703,8,Very Good,,1
+M,530,772,7,1,Married,Truck,11909,4,Very Good,,0
+M,157,727,19,1,Married,Truck,7835,2,Good,,1
+M,497,677,3,3,Single,Utility,14113,5,Good,,1
+F,402,710,8,2,Single,Truck,10492,3,Good,,0
+F,149,775,17,1,Married,Car,17537,1,Very Good,,1
+F,100,671,24,1,Married,Car,10041,2,Good,,1
+M,353,429,4,3,Married,Car,12805,1,Very Poor,,1
+F,676,730,37,1,Married,Car,10428,4,Good,,1
+M,136,783,15,0,Married,Truck,10066,2,Very Good,,1
+M,137,692,5,0,Married,Van,35641,1,Good,,1
+F,153,678,10,0,Married,Car,5521,1,Good,,1
+M,138,768,12,0,Single,Utility,5055,2,Very Good,,1
+M,92,752,5,1,Single,Utility,5647,1,Very Good,,1
+F,420,621,5,2,Single,Utility,12208,6,Fair,,1
+M,106,756,10,0,Married,Van,9581,8,Very Good,,1
+M,142,716,31,1,Married,Truck,8357,7,Good,,1
+M,144,690,22,1,Single,Utility,12585,4,Good,,1
+F,321,736,7,0,Married,Car,86492,4,Good,,1
+M,103,697,32,1,Married,Van,13265,3,Good,,1
+M,134,791,18,0,Married,Van,14581,6,Very Good,,0
+M,108,705,14,0,Married,Van,8074,3,Good,,1
+F,81,706,13,0,Married,Car,50858,2,Good,,1
+M,101,712,10,1,Married,Truck,93164,4,Good,,1
+M,107,778,37,1,Married,Van,11272,1,Very Good,,1
+M,124,543,8,2,Married,Truck,13583,4,Very Poor,,0
+M,114,798,11,1,Single,Utility,6723,8,Very Good,,0
+F,643,692,35,0,Married,Car,5331,7,Good,,0
+F,123,687,7,1,Married,Truck,6099,6,Good,,1
+F,265,669,6,0,Single,Truck,13651,3,Fair,,1
+M,158,684,9,0,Married,Truck,11402,2,Good,,1
+F,359,313,6,3,Single,Truck,10262,7,Very Poor,,1
+M,343,660,5,1,Married,Car,23576,5,Fair,,1
+F,124,761,10,0,Married,Truck,6768,2,Very Good,,0
+F,156,781,16,1,Married,Car,6397,7,Very Good,,1
+F,507,752,5,0,Married,Car,5955,5,Very Good,,1
+M,289,593,1,3,Single,Car,75925,2,Fair,,0
+F,134,692,8,1,Married,Truck,28297,4,Good,,0
+M,116,676,35,1,Married,Van,11042,7,Good,,1
+F,125,791,13,1,Married,Truck,5924,2,Very Good,,1
+M,132,776,15,1,Married,Utility,14400,3,Very Good,,0
+M,138,770,17,1,Married,Van,13283,2,Very Good,,0
+M,126,730,7,1,Married,Truck,66803,5,Good,,1
+M,161,373,5,4,Married,Truck,14176,2,Very Poor,,1
+F,124,765,1,1,Married,Car,16839,2,Very Good,,0
+M,152,791,39,1,Married,Van,7211,4,Very Good,,0
+M,97,580,6,3,Married,Truck,67799,8,Fair,,1
+F,158,710,8,0,Married,Car,71822,7,Good,,0
+F,106,792,5,3,Married,Truck,19687,2,Very Good,,0
+M,423,468,4,2,Married,Car,16067,1,Very Poor,,0
+F,125,643,8,3,Single,Van,71513,1,Fair,,1
+M,244,694,2,3,Single,Utility,11367,1,Good,,0
+M,98,696,10,1,Married,Van,57521,6,Good,,1
+M,86,755,37,0,Married,Truck,10278,6,Very Good,,1
+M,119,746,5,0,Single,Utility,14342,4,Very Good,,1
+F,128,794,25,1,Married,Car,24500,5,Very Good,,0
+M,459,687,2,3,Single,Car,10016,4,Good,,1
+F,101,779,12,0,Married,Car,12803,2,Very Good,,1
+M,245,627,1,2,Married,Car,21050,4,Fair,,1
+M,396,631,2,3,Married,Car,29946,8,Fair,,0
+M,92,786,31,0,Married,Utility,12706,8,Very Good,,1
+M,116,676,34,1,Married,Van,6311,4,Good,,0
+M,217,596,4,0,Married,Car,13120,3,Fair,,1
+M,300,668,2,3,Single,Car,84148,3,Fair,,1
+M,271,676,1,2,Married,Car,11071,6,Good,,1
+M,97,783,18,1,Married,Van,5695,3,Very Good,,1
+F,137,779,21,0,Married,Car,8294,5,Very Good,,0
+M,343,431,2,3,Married,Car,10973,2,Very Poor,,1
+M,93,659,7,3,Married,Truck,67776,3,Fair,,1
+M,459,681,2,1,Married,Car,14163,5,Good,,1
+F,489,599,7,3,Single,Truck,13610,4,Fair,,0
+F,128,799,7,0,Married,Car,21135,1,Very Good,,1
+F,108,670,28,0,Married,Car,13054,4,Good,,1
+M,253,827,2,2,Married,Car,10002,8,Exceptional,,1
+F,125,734,22,1,Single,Car,7579,4,Good,,1
+M,447,622,3,3,Single,Car,11347,6,Fair,,0
+M,111,394,3,2,Single,Car,14369,8,Very Poor,,1
+F,155,698,23,0,Married,Car,9101,3,Good,,0
+M,412,636,4,0,Married,Car,14238,2,Fair,,1
+M,619,681,38,1,Married,Van,5319,7,Good,,0
+M,420,675,5,2,Married,Car,14924,2,Good,,1
+F,520,723,38,1,Married,Truck,8929,2,Good,,0
+M,194,670,4,2,Single,Car,10688,3,Good,,1
+M,171,701,3,2,Single,Car,12188,8,Good,,0
+M,124,843,16,1,Single,Utility,6517,5,Exceptional,,1
+F,142,790,14,1,Single,Car,5980,6,Very Good,,1
+M,116,741,23,1,Married,Van,9453,4,Very Good,,1
+M,146,728,14,1,Married,Van,12341,7,Good,,1
+F,80,776,12,0,Married,Car,6438,7,Very Good,,1
+F,409,694,8,2,Single,Truck,11647,7,Good,,1
+F,122,673,20,0,Married,Car,5633,2,Good,,0
+F,97,688,28,0,Married,Truck,7561,1,Good,,0
+F,106,712,14,0,Married,Car,14335,5,Good,,1
+M,117,688,3,0,Married,Van,10729,6,Good,,1
+M,201,828,2,2,Single,Car,10043,1,Exceptional,,0
+F,116,677,9,1,Married,Car,48153,4,Good,,1
+M,534,696,39,1,Married,Car,7627,8,Good,,1
+F,157,784,18,1,Married,Car,15855,8,Very Good,,0
+F,386,715,7,3,Single,Truck,14043,8,Good,,1
+F,457,687,30,1,Married,Car,20251,7,Good,,1
+F,116,726,14,1,Married,Truck,10206,7,Good,,1
+F,633,674,14,0,Married,Car,18930,8,Good,,1
+M,147,614,4,3,Single,Car,51453,6,Fair,,0
+F,271,695,6,3,Single,Truck,14383,3,Good,,1
+F,160,720,15,1,Married,Truck,13982,6,Good,,0
+F,158,778,27,0,Married,Car,22721,8,Very Good,,0
+F,143,693,9,0,Married,Car,93984,8,Good,,1
+M,173,739,4,3,Single,Car,12510,8,Good,,1
+F,338,641,5,1,Single,Truck,13456,5,Fair,,1
+F,361,704,32,1,Married,Truck,7197,7,Good,,0
+M,97,697,7,1,Married,Utility,82814,1,Good,,1
+F,380,646,7,3,Single,Truck,13038,3,Fair,,1
+F,328,686,6,2,Single,Truck,12403,2,Good,,1
+F,228,590,6,2,Single,Van,22240,4,Fair,,1
+M,166,703,5,3,Single,Car,10602,2,Good,,1
+M,159,771,3,0,Single,Utility,7602,5,Very Good,,1
+F,154,673,3,1,Married,Car,6406,2,Good,,0
+M,163,729,5,2,Married,Truck,13805,7,Good,,1
+M,126,763,24,0,Married,Van,11106,1,Very Good,,1
+F,98,607,7,2,Single,Truck,36323,6,Fair,,1
+M,104,796,25,0,Married,Van,7964,4,Very Good,,1
+M,173,314,3,2,Single,Car,11768,7,Very Poor,,0
+M,677,767,3,1,Married,Truck,13214,5,Very Good,,1
+F,533,735,5,0,Married,Car,15380,3,Good,,1
+M,81,694,36,1,Married,Van,9313,1,Good,,1
+M,280,314,3,1,Married,Car,14621,7,Very Poor,,0
+M,130,752,20,1,Married,Van,13505,2,Very Good,,1
+F,154,739,30,0,Single,Car,7595,4,Good,,1
+M,411,590,5,0,Married,Car,14366,5,Fair,,0
+F,449,695,37,1,Single,Car,11724,7,Good,,0
+F,274,675,5,0,Married,Car,81890,1,Good,,0
+M,146,789,19,1,Single,Utility,13094,1,Very Good,,1
+M,175,676,2,3,Single,Car,14697,3,Good,,1
+M,122,716,17,1,Married,Van,5015,7,Good,,1
+M,475,611,1,1,Married,Car,99277,4,Fair,,0
+F,378,607,1,0,Married,Car,13474,7,Fair,,1
+F,251,701,5,2,Single,Truck,11609,3,Good,,1
+F,425,626,8,2,Single,Van,16059,1,Fair,,0
+M,159,727,16,0,Married,Van,12596,6,Good,,1
+M,142,774,35,1,Married,Van,8492,4,Very Good,,1
+M,496,648,5,0,Married,Car,20294,7,Fair,,0
+F,401,819,7,2,Single,Truck,18999,7,Exceptional,,1
+M,358,693,5,3,Married,Car,12173,8,Good,,1
+M,141,673,35,0,Single,Utility,8901,8,Good,,1
+M,140,674,22,0,Married,Van,9754,2,Good,,0
+M,194,699,5,3,Single,Car,13140,4,Good,,1
+F,91,783,18,1,Married,Car,10235,4,Very Good,,1
+M,198,631,4,1,Single,Car,11536,7,Fair,,0
+F,138,628,7,2,Single,Van,33701,4,Fair,,0
+M,166,560,1,3,Single,Car,10360,6,Very Poor,,1
+M,136,424,3,2,Single,Car,13237,5,Very Poor,,1
+M,149,754,30,1,Married,Van,14961,3,Very Good,,1
+M,338,658,5,1,Single,Car,10129,2,Fair,,1
+F,137,792,8,0,Married,Truck,5517,6,Very Good,,1
+F,115,750,6,0,Married,Truck,5553,5,Very Good,,1
+M,156,770,23,0,Married,Truck,11206,8,Very Good,,0
+M,284,819,2,2,Single,Utility,11600,7,Exceptional,,0
+M,107,675,5,1,Married,Van,6252,3,Good,,0
+M,82,742,16,1,Married,Van,10880,5,Very Good,,0
+M,282,812,1,3,Single,Car,12847,7,Exceptional,,1
+M,149,780,20,0,Married,Van,9143,3,Very Good,,0
+M,151,674,18,0,Single,Utility,5346,7,Good,,0
+M,202,617,4,1,Married,Car,11035,1,Fair,,1
+M,382,338,2,2,Single,Utility,20751,1,Very Poor,,1
+M,103,719,11,0,Married,Van,6082,4,Good,,1
+F,83,733,10,0,Married,Car,36138,4,Good,,1
+F,358,687,7,3,Single,Truck,14648,3,Good,,1
+F,314,737,5,1,Married,Car,33891,4,Good,,1
+F,126,752,14,1,Married,Car,20174,2,Very Good,,0
+M,140,719,18,1,Married,Truck,11247,7,Good,,1
+F,102,670,17,1,Married,Car,8611,2,Good,,1
+F,274,680,25,0,Married,Car,6613,5,Good,,1
+F,121,786,11,0,Married,Car,12443,1,Very Good,,1
+F,141,752,5,0,Married,Car,7825,6,Very Good,,1
+M,258,560,3,2,Single,Car,12482,4,Very Poor,,1
+F,149,789,17,3,Married,Truck,18283,5,Very Good,,1
+M,140,726,28,0,Married,Van,8133,6,Good,,1
+F,107,678,17,0,Single,Car,11605,6,Good,,1
+M,141,657,6,2,Married,Truck,38443,7,Fair,,1
+M,142,695,12,0,Married,Truck,8335,8,Good,,1
+M,177,459,1,3,Single,Car,11607,6,Very Poor,,1
+M,444,661,2,1,Married,Car,92241,6,Fair,,1
+F,98,509,5,2,Single,Van,11375,2,Very Poor,,0
+M,481,617,4,0,Single,Car,12674,7,Fair,,1
+M,591,693,39,1,Married,Van,9020,2,Good,,1
+M,402,710,3,3,Single,Utility,13014,8,Good,,0
+M,133,745,3,0,Married,Van,12487,1,Very Good,,1
+M,107,715,18,1,Single,Utility,5346,7,Good,,1
+M,99,526,7,3,Married,Truck,14438,5,Very Poor,,1
+F,109,677,9,2,Married,Car,38288,6,Good,,1
+M,157,402,5,3,Single,Car,12965,7,Very Poor,,1
+F,150,694,18,1,Single,Car,9821,3,Good,,0
+M,95,797,15,1,Single,Utility,6375,1,Very Good,,0
+M,136,733,5,1,Married,Van,39748,5,Good,,1
+M,106,767,31,0,Married,Van,11287,3,Very Good,,1
+F,122,766,20,0,Married,Truck,10664,7,Very Good,,1
+F,691,719,39,0,Married,Truck,12826,5,Good,,1
+M,93,773,20,1,Married,Truck,5623,1,Very Good,,1
+F,398,549,5,2,Single,Truck,11426,1,Very Poor,,1
+F,470,335,6,2,Single,Truck,11566,8,Very Poor,,1
+F,116,799,21,1,Married,Car,21430,7,Very Good,,1
+F,349,672,8,0,Married,Car,94941,5,Good,,0
+M,140,689,25,0,Married,Van,7934,4,Good,,0
+F,122,749,28,1,Married,Truck,20203,2,Very Good,,1
+F,110,671,11,0,Married,Truck,13033,2,Good,,0
+M,130,687,5,2,Married,Truck,11307,8,Good,,0
+F,117,765,19,0,Single,Car,13779,1,Very Good,,1
+F,114,674,23,0,Married,Truck,14142,6,Good,,0
+F,109,726,5,0,Single,Car,54915,3,Good,,0
+F,159,678,3,0,Married,Car,9954,1,Good,,0
+M,117,676,10,1,Married,Truck,66358,5,Good,,1
+F,151,769,17,1,Married,Car,22231,6,Very Good,,1
+M,260,543,4,3,Single,Utility,10436,7,Very Poor,,1
+M,81,703,16,0,Married,Van,12535,7,Good,,1
+M,144,791,21,1,Married,Truck,7802,8,Very Good,,0
+M,176,616,5,0,Single,Car,12192,3,Fair,,0
+F,80,560,6,0,Married,Truck,41480,4,Very Poor,,0
+M,365,603,1,3,Married,Car,66675,4,Fair,,1
+M,326,820,1,3,Single,Car,13023,8,Exceptional,,0
+F,152,776,25,0,Married,Truck,6838,2,Very Good,,1
+M,416,470,2,2,Married,Car,12034,2,Very Poor,,0
+F,133,695,19,0,Married,Truck,7409,5,Good,,1
+M,152,723,19,0,Married,Van,7068,4,Good,,1
+M,141,770,10,1,Single,Utility,14403,7,Very Good,,1
+F,360,706,8,3,Single,Utility,13787,4,Good,,1
+M,462,669,3,3,Married,Car,10703,1,Fair,,1
+M,135,677,21,0,Married,Van,5413,2,Good,,1
+F,114,673,17,0,Married,Truck,13802,7,Good,,1
+F,105,716,19,1,Married,Truck,7621,5,Good,,0
+F,92,701,14,1,Married,Car,9657,4,Good,,1
+F,450,735,20,0,Married,Car,24902,1,Good,,1
+F,122,755,21,1,Married,Car,16494,5,Very Good,,1
+F,313,613,6,0,Single,Truck,10643,3,Fair,,1
+F,324,843,8,3,Single,Utility,20811,6,Exceptional,,0
+M,157,692,22,0,Married,Truck,6482,3,Good,,1
+F,203,383,6,3,Single,Truck,14729,5,Very Poor,,1
+F,362,732,7,2,Single,Truck,12336,6,Good,,0
+M,113,793,40,0,Married,Van,8361,7,Very Good,,1
+F,136,773,2,3,Married,Truck,20829,7,Very Good,,0
+F,324,409,5,2,Single,Truck,10463,7,Very Poor,,1
+M,228,692,1,2,Single,Utility,23929,8,Good,,1
+M,432,328,2,0,Married,Car,13762,7,Very Poor,,1
+M,159,709,20,1,Married,Car,5499,8,Good,,1
+M,132,733,13,0,Married,Van,50789,3,Good,,1
+F,478,702,7,2,Single,Truck,13657,3,Good,,1
+M,139,786,19,0,Married,Van,14896,3,Very Good,,1
+M,297,651,2,3,Single,Utility,83848,4,Fair,,1
+M,142,303,4,2,Single,Car,11677,4,Very Poor,,0
+M,127,679,25,1,Married,Van,12696,6,Good,,0
+M,142,790,16,0,Single,Utility,10295,1,Very Good,,1
+F,124,672,25,1,Married,Car,8909,5,Good,,0
+M,158,606,2,2,Single,Car,62265,4,Fair,,1
+M,696,628,2,0,Married,Truck,10317,7,Fair,,1
+M,134,394,5,2,Single,Car,11311,2,Very Poor,,1
+M,110,840,1,2,Single,Car,12649,7,Exceptional,,1
+M,98,642,2,2,Single,Car,21589,6,Fair,,1
+M,168,696,4,0,Married,Van,63875,3,Good,,0
+M,88,774,12,0,Married,Truck,10113,4,Very Good,,1
+F,160,765,15,1,Married,Car,5616,2,Very Good,,0
+F,129,717,16,0,Single,Car,13399,4,Good,,1
+M,141,764,17,0,Married,Van,6946,6,Very Good,,0
+F,453,684,38,0,Married,Car,19233,3,Good,,1
+F,208,723,7,3,Single,Truck,10187,4,Good,,1
+F,130,768,19,1,Married,Car,6845,7,Very Good,,1
+M,84,715,34,1,Married,Van,7348,5,Good,,1
+M,87,727,17,0,Married,Truck,9218,5,Good,,1
+M,272,539,2,1,Married,Truck,56513,8,Very Poor,,1
+M,89,760,10,0,Single,Utility,13444,8,Very Good,,1
+M,227,503,2,0,Married,Van,90175,7,Very Poor,,1
+M,113,677,16,0,Married,Utility,7854,2,Good,,0
+F,334,731,5,2,Single,Truck,14346,7,Good,,1
+F,121,726,18,0,Married,Truck,13891,7,Good,,1
+F,158,797,32,1,Married,Truck,14044,3,Very Good,,1
+M,222,500,1,0,Married,Truck,87515,4,Very Poor,,1
+M,277,329,1,2,Married,Car,13513,8,Very Poor,,1
+M,324,652,5,1,Single,Utility,10572,2,Fair,,0
+F,90,794,13,1,Married,Truck,7754,7,Very Good,,0
+M,169,544,3,2,Single,Car,14696,2,Very Poor,,1
+M,139,829,40,1,Single,Utility,7270,5,Exceptional,,0
+M,118,718,36,0,Single,Utility,14476,1,Good,,1
+M,134,701,5,3,Married,Truck,11399,7,Good,,1
+M,154,677,13,0,Married,Van,12482,3,Good,,1
+M,136,795,28,1,Married,Van,13355,7,Very Good,,1
+M,252,615,3,1,Single,Utility,12819,2,Fair,,0
+F,97,721,27,1,Married,Truck,13542,7,Good,,0
+F,168,706,6,2,Single,Van,12223,2,Good,,1
+M,138,748,9,0,Single,Utility,8347,6,Very Good,,1
+M,162,704,2,3,Single,Car,14473,2,Good,,1
+M,84,709,26,0,Married,Van,8366,3,Good,,1
+M,408,589,2,3,Married,Car,65041,6,Fair,,1
+M,100,689,3,3,Single,Car,13426,7,Good,,1
+M,442,646,5,3,Married,Car,13354,1,Fair,,1
+M,92,795,20,0,Single,Utility,12040,3,Very Good,,1
+M,84,781,17,1,Married,Van,14799,6,Very Good,,1
+F,452,332,6,2,Single,Truck,14412,8,Very Poor,,0
+F,107,723,6,0,Married,Car,79060,4,Good,,0
+M,166,657,5,0,Single,Car,12157,1,Fair,,1
+F,697,736,1,0,Married,Truck,16934,3,Good,,1
+M,104,592,4,3,Single,Car,77911,4,Fair,,1
+F,130,769,17,0,Married,Car,8768,6,Very Good,,0
+M,348,525,1,2,Single,Utility,11412,4,Very Poor,,0
+M,80,793,36,0,Married,Utility,13333,5,Very Good,,1
+F,122,365,7,2,Single,Van,13668,3,Very Poor,,1
+F,88,727,11,1,Married,Car,52948,2,Good,,1
+F,133,785,10,3,Married,Truck,6919,7,Very Good,,1
+M,173,496,2,3,Single,Car,10291,1,Very Poor,,1
+M,411,606,1,0,Married,Car,93960,7,Fair,,0
+F,357,661,7,2,Single,Truck,14505,6,Fair,,0
+F,95,722,31,1,Single,Car,5039,4,Good,,1
+F,104,678,22,1,Married,Car,16253,6,Good,,1
+M,102,672,23,0,Married,Truck,7884,4,Good,,1
+F,100,674,12,1,Married,Car,12827,6,Good,,1
+F,155,756,14,1,Married,Car,10069,6,Very Good,,1
+M,197,370,7,2,Married,Truck,10120,1,Very Poor,,1
+F,130,701,18,1,Married,Truck,10727,5,Good,,0
+M,163,572,6,3,Married,Truck,11065,1,Very Poor,,1
+M,194,634,2,2,Single,Car,45787,8,Fair,,1
+M,487,722,3,3,Married,Car,13164,6,Good,,0
+F,96,624,6,3,Single,Van,15555,5,Fair,,0
+M,404,594,3,0,Married,Car,12122,8,Fair,,1
+M,118,732,28,1,Married,Utility,11446,3,Good,,1
+M,100,713,17,0,Married,Truck,6065,7,Good,,1
+M,124,747,24,1,Married,Van,14908,5,Very Good,,1
+M,123,823,1,3,Single,Car,13179,7,Exceptional,,1
+M,227,461,1,3,Single,Car,10249,4,Very Poor,,1
+F,253,738,4,1,Married,Car,28184,5,Good,,1
+F,88,683,8,3,Married,Truck,20162,8,Good,,0
+M,142,750,14,0,Single,Utility,13367,5,Very Good,,1
+M,471,684,2,3,Single,Car,10017,2,Good,,1
+M,140,769,17,1,Married,Truck,6176,2,Very Good,,0
+F,240,696,7,1,Married,Truck,45397,7,Good,,1
+F,82,768,11,0,Married,Car,21178,3,Very Good,,1
+F,244,549,1,1,Married,Truck,34145,3,Very Poor,,1
+F,145,726,38,1,Married,Car,5178,2,Good,,1
+M,132,776,17,0,Married,Van,7438,2,Very Good,,1
+M,118,749,25,4,Single,Utility,5343,6,Very Good,,1
+F,153,783,16,1,Married,Car,15780,8,Very Good,,0
+M,406,645,4,1,Married,Car,14572,8,Fair,,1
+F,443,628,6,2,Single,Truck,12789,1,Fair,,1
+M,172,608,8,0,Married,Truck,12362,5,Fair,,1
+M,489,510,5,2,Married,Car,11528,8,Very Poor,,1
+F,96,743,18,1,Married,Truck,5416,2,Very Good,,0
+M,144,676,13,1,Married,Truck,12061,4,Good,,1
+M,149,785,5,1,Single,Utility,9730,6,Very Good,,1
+M,95,783,16,1,Married,Van,10739,4,Very Good,,0
+F,81,674,25,0,Married,Car,10539,7,Good,,1
+M,87,703,20,1,Married,Van,13025,7,Good,,0
+F,139,742,6,1,Married,Car,10528,7,Very Good,,0
+M,109,786,16,1,Married,Van,6848,1,Very Good,,1
+F,522,716,20,0,Married,Truck,19494,5,Good,,1
+F,118,787,25,3,Married,Truck,24434,6,Very Good,,1
+M,228,647,2,0,Married,Car,46074,2,Fair,,1
+M,104,772,15,1,Married,Van,5999,1,Very Good,,1
+F,172,654,6,2,Single,Van,20432,3,Fair,,1
+F,156,750,16,1,Married,Car,22039,4,Very Good,,0
+F,114,684,20,1,Married,Car,14850,6,Good,,0
+F,117,799,20,1,Married,Car,12467,5,Very Good,,1
+F,95,755,10,1,Married,Truck,16811,7,Very Good,,1
+F,120,731,19,0,Married,Truck,8263,4,Good,,1
+M,121,757,20,1,Married,Truck,7646,3,Very Good,,0
+M,160,798,16,1,Married,Truck,12240,2,Very Good,,1
+F,241,827,5,3,Single,Truck,20472,2,Exceptional,,1
+F,138,680,17,0,Married,Car,10964,6,Good,,1
+M,149,793,18,1,Married,Van,7912,6,Very Good,,1
+F,486,623,7,3,Single,Truck,11920,3,Fair,,0
+M,138,403,1,3,Single,Car,10153,1,Very Poor,,1
+M,138,779,38,0,Married,Truck,5459,5,Very Good,,1
+F,157,730,10,0,Single,Car,14201,3,Good,,0
+F,89,737,22,1,Married,Car,13766,7,Good,,1
+F,548,666,1,1,Single,Car,9955,4,Fair,,1
+F,409,603,1,1,Married,Truck,8248,4,Fair,,0
+F,195,658,6,1,Single,Van,14323,3,Fair,,1
+M,138,746,9,1,Married,Van,10735,1,Very Good,,1
+F,130,723,32,0,Married,Car,6179,4,Good,,0
+M,159,735,16,1,Married,Van,5220,3,Good,,1
+M,104,780,11,1,Married,Truck,7861,8,Very Good,,1
+M,124,693,26,1,Married,Van,10654,3,Good,,1
+F,91,783,15,1,Married,Car,24182,4,Very Good,,1
+F,105,713,16,1,Single,Car,6849,3,Good,,1
+M,124,762,32,0,Married,Truck,6601,6,Very Good,,1
+F,142,779,26,0,Married,Car,12635,8,Very Good,,1
+M,114,717,4,0,Single,Utility,13249,7,Good,,1
+F,394,442,6,3,Single,Truck,10043,3,Very Poor,,1
+M,275,555,1,1,Married,Van,41224,2,Very Poor,,1
+F,118,735,20,3,Married,Truck,7853,7,Good,,1
+M,489,753,7,1,Married,Van,10028,2,Very Good,,0
+F,621,670,22,0,Married,Truck,22709,7,Good,,1
+F,122,709,29,1,Single,Car,11727,8,Good,,1
+M,96,700,7,3,Married,Truck,11742,3,Good,,1
+M,318,476,1,3,Married,Car,14612,1,Very Poor,,1
+M,620,597,1,0,Married,Van,9275,3,Fair,,1
+M,92,678,24,0,Married,Van,11968,1,Good,,1
+M,113,749,32,1,Married,Van,6623,8,Very Good,,0
+M,126,381,5,3,Married,Truck,14085,6,Very Poor,,1
+M,143,596,1,3,Single,Car,77446,4,Fair,,0
+M,127,724,30,0,Married,Van,12391,3,Good,,1
+M,85,775,13,1,Married,Truck,7685,8,Very Good,,0
+F,180,515,2,1,Single,Car,56427,4,Very Poor,,1
+F,158,799,16,0,Married,Car,16074,1,Very Good,,1
+F,97,688,15,1,Married,Truck,21771,8,Good,,1
+M,170,464,7,2,Married,Truck,10597,5,Very Poor,,0
+F,298,847,8,2,Single,Van,15942,5,Exceptional,,1
+M,140,712,22,0,Married,Van,6081,4,Good,,1
+M,155,757,39,0,Married,Van,14592,4,Very Good,,0
+F,157,708,25,1,Married,Car,7720,3,Good,,0
+M,130,758,30,0,Married,Van,5367,6,Very Good,,1
+F,383,658,8,3,Single,Truck,11287,8,Fair,,1
+F,118,722,39,1,Single,Car,5644,3,Good,,1
+F,117,774,23,1,Married,Car,24470,6,Very Good,,0
+M,278,665,5,0,Single,Utility,12782,4,Fair,,1
+F,122,670,12,1,Married,Truck,8371,3,Good,,1
+M,181,399,5,2,Single,Car,21699,3,Very Poor,,0
+F,141,755,22,1,Married,Truck,19157,5,Very Good,,0
+F,128,794,21,3,Married,Truck,7938,6,Very Good,,0
+M,144,702,10,1,Married,Van,7228,4,Good,,0
+M,147,778,3,0,Married,Van,11275,1,Very Good,,1
+F,127,521,8,3,Single,Van,10061,4,Very Poor,,0
+M,129,426,5,3,Married,Truck,14676,5,Very Poor,,1
+M,84,686,15,0,Married,Van,14266,8,Good,,1
+F,120,730,10,1,Married,Car,91636,4,Good,,0
+F,91,730,25,1,Married,Truck,5843,3,Good,,1
+M,146,738,40,1,Married,Van,14476,1,Good,,1
+F,316,725,6,3,Single,Truck,11464,2,Good,,1
+F,132,680,10,1,Married,Car,6069,5,Good,,1
+M,108,711,20,1,Married,Van,11734,4,Good,,1
+M,253,739,5,2,Married,Car,12031,2,Good,,0
+F,89,552,3,1,Married,Truck,76271,6,Very Poor,,0
+M,104,838,12,1,Single,Utility,12777,7,Exceptional,,1
+F,147,674,37,0,Married,Car,6116,1,Good,,1
+M,112,674,16,1,Married,Truck,13527,5,Good,,1
+F,134,703,22,0,Married,Truck,5983,4,Good,,0
+M,133,704,36,0,Single,Utility,13631,7,Good,,0
+F,364,688,8,3,Single,Truck,14359,1,Good,,1
+M,483,658,5,1,Married,Car,10302,4,Fair,,0
+F,80,794,25,0,Married,Car,23489,3,Very Good,,1
+F,99,739,39,1,Married,Car,6972,1,Good,,1
+F,191,328,8,2,Single,Van,11923,5,Very Poor,,0
+F,111,799,18,1,Married,Car,23635,2,Very Good,,1
+M,96,717,21,0,Married,Van,6407,2,Good,,0
+F,635,732,12,0,Married,Car,23958,5,Good,,1
+F,153,791,3,0,Married,Truck,11506,2,Very Good,,1
+F,244,691,26,0,Married,Car,5119,4,Good,,1
+F,96,674,1,0,Married,Car,23261,2,Good,,0
+M,209,683,3,0,Married,Van,61511,8,Good,,0
+M,106,810,28,1,Single,Utility,6785,5,Exceptional,,1
+F,95,676,29,1,Married,Truck,10663,2,Good,,0
+F,176,429,7,3,Single,Van,10573,3,Very Poor,,1
+M,97,724,18,0,Married,Truck,13204,6,Good,,0
+M,159,327,8,2,Married,Truck,12009,6,Very Poor,,1
+F,136,723,14,0,Married,Car,8018,5,Good,,1
+M,105,746,13,0,Married,Van,7295,6,Very Good,,1
+F,514,706,16,0,Married,Car,18424,2,Good,,1
+M,104,779,39,0,Married,Van,11354,4,Very Good,,1
+M,195,627,1,3,Single,Car,69094,1,Fair,,1
+F,202,701,4,2,Married,Car,33666,4,Good,,1
+M,179,663,4,0,Single,Car,14404,7,Fair,,0
+M,179,698,7,0,Married,Truck,45339,3,Good,,1
+F,129,733,10,1,Married,Car,57744,4,Good,,1
+F,126,796,20,2,Married,Car,10714,1,Very Good,,1
+F,128,662,5,2,Single,Truck,69818,5,Fair,,1
+M,171,572,3,0,Married,Van,91146,3,Very Poor,,1
+M,128,783,13,0,Married,Van,7002,2,Very Good,,0
+M,94,676,15,0,Married,Van,14085,2,Good,,1
+F,357,662,5,3,Single,Truck,14422,6,Fair,,1
+F,151,792,20,0,Married,Car,7736,8,Very Good,,1
+F,160,694,12,2,Married,Car,10734,3,Good,,0
+M,151,783,25,0,Single,Utility,10022,4,Very Good,,0
+F,127,722,16,1,Married,Car,9985,4,Good,,1
+M,142,766,24,1,Married,Truck,5344,8,Very Good,,1
+M,323,566,5,3,Married,Car,19179,3,Very Poor,,1
+M,133,723,7,1,Single,Utility,14562,7,Good,,1
+F,152,679,15,0,Married,Car,12796,3,Good,,1
+F,87,707,22,0,Single,Car,10687,7,Good,,1
+M,114,520,3,2,Single,Car,10828,7,Very Poor,,1
+F,91,742,14,0,Married,Car,12405,4,Very Good,,1
+F,88,703,15,0,Married,Truck,9568,6,Good,,1
+M,139,676,15,0,Married,Truck,9327,7,Good,,1
+M,141,676,18,1,Married,Van,5684,2,Good,,1
+F,85,767,30,0,Married,Truck,16345,3,Very Good,,1
+M,94,732,24,0,Single,Utility,11495,8,Good,,0
+M,186,800,7,4,Married,Truck,21616,8,Exceptional,,1
+F,83,797,25,3,Married,Truck,17334,3,Very Good,,0
+M,97,763,22,1,Married,Utility,7466,6,Very Good,,1
+M,124,790,17,1,Married,Van,8889,1,Very Good,,0
+M,183,706,4,2,Single,Car,12868,2,Good,,1
+F,296,613,5,1,Single,Truck,12740,2,Fair,,1
+M,208,607,4,0,Married,Car,24251,1,Fair,,1
+M,110,758,20,0,Married,Truck,12634,6,Very Good,,1
+M,115,765,20,1,Married,Utility,7540,6,Very Good,,1
+M,120,715,17,0,Married,Van,8248,1,Good,,1
+F,369,528,6,2,Single,Truck,13552,1,Very Poor,,1
+M,407,645,1,3,Single,Utility,78724,8,Fair,,0
+M,138,828,13,0,Single,Utility,14821,4,Exceptional,,1
+M,144,431,3,2,Single,Car,10948,8,Very Poor,,1
+F,259,581,6,1,Single,Truck,10864,1,Fair,,1
+F,111,728,5,2,Single,Van,14914,3,Good,,0
+M,159,789,17,0,Married,Van,5081,6,Very Good,,1
+F,157,785,16,0,Married,Truck,6305,5,Very Good,,1
+F,141,785,5,0,Married,Car,17720,1,Very Good,,1
+F,266,676,7,3,Single,Truck,10852,8,Good,,1
+F,154,779,14,0,Married,Car,18902,1,Very Good,,0
+M,86,720,14,1,Married,Van,36481,1,Good,,1
+F,146,688,13,1,Married,Car,13659,8,Good,,1
+M,135,816,20,1,Single,Utility,9029,4,Exceptional,,0
+F,101,786,16,0,Married,Car,12594,2,Very Good,,1
+M,140,780,30,1,Married,Van,8498,2,Very Good,,0
+F,135,726,5,3,Single,Van,10546,8,Good,,0
+F,115,799,13,1,Married,Car,5776,7,Very Good,,0
+F,80,750,12,1,Married,Car,14635,3,Very Good,,1
+F,298,706,12,1,Married,Car,14463,1,Good,,0
+M,89,677,19,0,Married,Van,12991,4,Good,,1
+M,197,621,3,0,Single,Car,12775,1,Fair,,1
+M,426,300,5,2,Married,Car,14468,4,Very Poor,,0
+M,158,770,25,0,Single,Utility,13462,6,Very Good,,1
+F,247,662,5,1,Single,Truck,14585,6,Fair,,0
+M,93,687,10,1,Single,Utility,10499,1,Good,,1
+F,158,738,13,1,Married,Truck,9073,7,Good,,0
+F,143,681,22,1,Married,Car,11837,7,Good,,0
+F,148,791,16,0,Single,Car,14115,7,Very Good,,0
+M,114,619,5,1,Married,Truck,11631,3,Fair,,1
+F,98,797,3,0,Married,Car,12471,6,Very Good,,0
+F,254,599,7,0,Single,Truck,11913,5,Fair,,0
+M,145,794,22,1,Married,Truck,12014,1,Very Good,,1
+F,826,626,3,0,Single,Car,9496,2,Fair,,1
+F,135,693,24,1,Single,Car,8582,1,Good,,1
+F,118,688,17,1,Married,Truck,10931,6,Good,,1
+M,84,795,17,1,Single,Utility,13970,5,Very Good,,1
+F,162,671,5,1,Married,Car,60226,7,Good,,1
+M,329,738,2,3,Married,Car,14672,1,Good,,1
+M,155,700,40,0,Married,Van,13845,3,Good,,1
+M,155,744,30,1,Married,Van,12977,7,Very Good,,0
+M,87,687,10,1,Married,Van,11514,1,Good,,1
+M,455,671,3,2,Married,Car,12653,1,Good,,1
+F,341,347,6,2,Single,Truck,12683,8,Very Poor,,1
+M,141,783,5,0,Married,Truck,12397,2,Very Good,,1
+M,218,731,5,2,Married,Car,14210,4,Good,,1
+M,154,726,21,0,Married,Van,7020,3,Good,,1
+M,122,734,20,0,Married,Van,8139,7,Good,,0
+M,96,793,10,0,Married,Utility,8920,2,Very Good,,1
+M,141,795,19,0,Single,Utility,8478,2,Very Good,,0
+M,89,752,9,0,Married,Van,5576,3,Very Good,,1
+F,289,708,8,1,Married,Car,51048,3,Good,,1
+M,86,744,22,0,Single,Utility,14847,3,Very Good,,0
+F,203,391,7,2,Single,Truck,13277,3,Very Poor,,0
+F,124,781,20,0,Married,Truck,9376,7,Very Good,,0
+F,127,685,14,1,Married,Car,35589,3,Good,,1
+M,394,827,4,2,Married,Car,15264,6,Exceptional,,1
+F,454,673,1,1,Married,Car,21469,7,Good,,0
+M,82,750,20,0,Married,Van,12099,2,Very Good,,1
+M,132,688,30,1,Single,Utility,10852,6,Good,,0
+F,102,799,15,0,Married,Truck,9242,1,Very Good,,1
+F,102,676,39,0,Married,Car,9579,4,Good,,0
+M,144,740,13,1,Single,Utility,7347,6,Very Good,,1
+F,140,785,31,0,Single,Car,11005,1,Very Good,,1
+M,157,767,20,1,Single,Utility,6167,3,Very Good,,0
+F,117,712,17,0,Married,Truck,8431,1,Good,,0
+M,160,712,17,1,Married,Van,13232,3,Good,,1
+F,245,544,1,1,Married,Car,64500,6,Very Poor,,1
+M,147,770,9,0,Single,Utility,13035,2,Very Good,,1
+M,126,755,32,1,Married,Van,12549,6,Very Good,,1
+F,398,564,6,3,Single,Truck,10582,8,Very Poor,,1
+M,177,683,5,2,Married,Truck,11974,8,Good,,1
+M,152,787,10,0,Married,Van,5108,7,Very Good,,0
+M,81,690,10,0,Married,Truck,73702,3,Good,,1
+F,137,776,10,0,Married,Truck,5690,8,Very Good,,0
+F,110,690,7,1,Married,Car,13732,7,Good,,1
+M,107,683,22,0,Married,Van,12853,6,Good,,1
+F,191,682,21,1,Married,Car,5681,8,Good,,1
+M,157,675,14,0,Married,Van,10737,1,Good,,1
+F,130,675,15,1,Married,Car,21896,8,Good,,1
+M,87,676,16,1,Married,Van,10314,4,Good,,0
+M,100,743,14,1,Married,Van,8069,1,Very Good,,1
+M,142,670,17,1,Married,Utility,7984,5,Good,,0
+M,149,740,5,0,Married,Utility,8401,4,Very Good,,1
+M,89,541,8,0,Married,Truck,71118,7,Very Poor,,1
+F,158,782,5,1,Married,Car,8625,2,Very Good,,1
+F,84,778,19,0,Married,Car,8591,1,Very Good,,1
+M,378,645,3,1,Married,Car,10306,3,Fair,,1
+F,112,769,31,0,Single,Car,8314,5,Very Good,,0
+F,97,783,36,1,Married,Truck,13248,3,Very Good,,1
+M,110,743,19,1,Married,Utility,12984,2,Very Good,,1
+M,160,668,6,3,Married,Truck,60081,8,Fair,,0
+F,441,455,3,3,Single,Truck,12007,3,Very Poor,,1
+M,236,656,1,1,Married,Car,42300,5,Fair,,0
+F,346,303,5,2,Single,Truck,12770,1,Very Poor,,1
+M,133,739,15,0,Married,Van,5587,5,Good,,1
+F,151,779,35,1,Married,Truck,14730,6,Very Good,,1
+M,159,771,29,1,Married,Van,13281,3,Very Good,,1
+M,127,771,23,1,Married,Van,10432,4,Very Good,,1
+F,99,726,4,0,Married,Car,40477,7,Good,,0
+F,384,322,8,2,Single,Truck,10102,5,Very Poor,,1
+M,692,601,1,1,Married,Truck,14753,6,Fair,,1
+F,459,734,8,2,Single,Truck,10444,5,Good,,1
+M,469,691,1,3,Married,Car,12806,4,Good,,0
+F,83,725,36,1,Married,Car,13057,1,Good,,1
+F,122,672,2,1,Married,Car,6382,7,Good,,0
+M,92,769,3,0,Married,Van,9210,6,Very Good,,1
+F,691,707,8,1,Married,Car,15029,5,Good,,0
+M,267,523,3,1,Married,Utility,77125,3,Very Poor,,0
+M,907,611,3,1,Married,Van,14079,4,Fair,,1
+F,133,774,7,0,Married,Truck,11083,5,Very Good,,1
+M,151,690,12,1,Married,Truck,6442,8,Good,,1
+F,85,744,19,0,Married,Car,10406,3,Very Good,,0
+M,96,673,17,0,Married,Van,11161,3,Good,,1
+M,147,794,18,1,Married,Van,10654,4,Very Good,,1
+M,130,680,24,1,Married,Van,8516,2,Good,,1
+M,136,773,11,1,Married,Van,9422,8,Very Good,,1
+F,517,695,21,0,Married,Car,22742,3,Good,,0
+M,80,789,10,0,Married,Van,10614,8,Very Good,,1
+M,130,768,20,1,Married,Van,13689,2,Very Good,,1
+M,136,759,18,0,Married,Truck,12142,5,Very Good,,1
+F,233,346,6,2,Single,Utility,19915,8,Very Poor,,0
+F,116,747,18,0,Married,Truck,13047,3,Very Good,,0
+F,92,695,12,1,Married,Car,10627,8,Good,,1
+M,99,745,21,1,Married,Truck,11183,8,Very Good,,1
+F,190,512,2,1,Married,Truck,73861,5,Very Poor,,1
+F,470,647,8,2,Single,Truck,10958,2,Fair,,1
+F,454,664,6,3,Single,Truck,10984,2,Fair,,1
+M,144,760,24,0,Married,Van,6770,2,Very Good,,1
+F,438,701,6,3,Single,Truck,13082,3,Good,,1
+F,95,670,18,1,Married,Car,5608,6,Good,,1
+F,152,736,33,2,Married,Car,5086,7,Good,,0
+M,99,691,22,0,Married,Utility,6459,2,Good,,1
+M,88,787,38,0,Married,Van,10581,5,Very Good,,0
+F,106,670,24,1,Single,Car,8532,8,Good,,1
+F,313,737,7,3,Single,Truck,11978,3,Good,,1
+F,110,714,10,1,Married,Truck,92321,7,Good,,1
+M,324,341,1,2,Married,Car,18298,6,Very Poor,,1
+F,95,771,15,0,Single,Car,6013,2,Very Good,,1
+M,101,678,14,1,Married,Van,11590,7,Good,,0
+F,146,725,35,1,Married,Truck,7387,2,Good,,1
+M,88,773,18,0,Married,Van,5860,3,Very Good,,1
+M,121,728,10,1,Single,Utility,14309,7,Good,,1
+M,83,758,15,1,Married,Van,6710,3,Very Good,,1
+M,335,700,5,1,Married,Van,61590,1,Good,,1
+M,144,799,29,0,Married,Van,12070,3,Very Good,,1
+F,137,758,16,0,Married,Car,20219,8,Very Good,,1
+M,117,679,7,1,Single,Utility,10466,3,Good,,0
+F,158,677,30,1,Married,Car,8512,6,Good,,0
+F,104,672,21,0,Single,Car,9601,5,Good,,0
+M,334,584,3,1,Single,Car,14423,2,Fair,,1
+F,160,687,6,1,Married,Car,9838,6,Good,,0
+M,110,820,2,2,Single,Car,13960,6,Exceptional,,1
+M,89,758,21,1,Married,Van,5028,2,Very Good,,0
+F,122,714,24,1,Married,Car,8629,7,Good,,1
+M,130,365,5,2,Single,Car,11682,4,Very Poor,,1
+M,181,591,5,1,Single,Car,12501,7,Fair,,1
+M,136,751,15,0,Married,Van,9144,2,Very Good,,1
+M,139,676,8,2,Married,Car,76805,2,Good,,1
+M,199,713,2,3,Single,Car,11266,7,Good,,1
+F,270,735,5,3,Single,Truck,14202,5,Good,,1
+M,105,759,17,1,Married,Van,7903,7,Very Good,,0
+M,134,684,12,1,Single,Utility,6381,8,Good,,1
+F,381,303,6,3,Single,Truck,13503,4,Very Poor,,0
+M,93,810,16,1,Single,Utility,5020,2,Exceptional,,0
+M,142,766,15,1,Married,Van,14239,6,Very Good,,1
+F,113,687,22,0,Married,Truck,10911,8,Good,,1
+F,241,705,6,3,Single,Truck,14835,2,Good,,1
+F,499,669,5,3,Single,Truck,12419,7,Fair,,1
+M,123,792,5,0,Single,Utility,5405,2,Very Good,,0
+F,540,715,7,0,Married,Car,16221,1,Good,,1
+M,124,815,14,1,Single,Utility,11829,4,Exceptional,,0
+F,148,641,8,3,Single,Van,29298,1,Fair,,1
+M,126,776,3,1,Married,Truck,13877,4,Very Good,,1
+F,127,760,23,1,Married,Car,8420,7,Very Good,,1
+M,118,844,39,0,Single,Utility,6823,8,Exceptional,,0
+M,159,610,5,2,Single,Car,23801,4,Fair,,1
+M,88,714,14,0,Married,Truck,46788,4,Good,,1
+F,137,789,12,1,Married,Truck,11848,4,Very Good,,0
+M,88,505,3,0,Married,Van,54302,5,Very Poor,,1
+M,123,741,20,0,Married,Van,12535,8,Very Good,,1
+F,190,716,4,0,Married,Truck,52381,2,Good,,0
+M,151,770,32,1,Married,Truck,14709,4,Very Good,,1
+M,102,697,12,1,Married,Utility,7248,1,Good,,1
+F,96,762,13,0,Married,Car,6587,4,Very Good,,1
+M,469,693,4,2,Married,Car,12168,3,Good,,0
+M,119,699,21,1,Married,Van,11136,1,Good,,1
+M,192,729,1,2,Single,Car,11741,3,Good,,1
+M,113,765,38,0,Married,Van,10778,3,Very Good,,0
+F,101,678,15,1,Married,Car,11073,3,Good,,0
+M,106,767,4,0,Married,Truck,11986,3,Very Good,,1
+M,119,707,23,1,Married,Van,14521,7,Good,,1
+F,81,753,10,1,Married,Truck,7490,5,Very Good,,1
+M,121,606,6,3,Married,Truck,33207,4,Fair,,1
+M,80,681,40,4,Single,Utility,9340,4,Good,,1
+F,147,782,19,0,Married,Car,11403,8,Very Good,,1
+M,87,716,9,0,Married,Car,53361,2,Good,,1
+M,381,580,5,1,Single,Utility,13120,7,Fair,,0
+M,143,689,11,1,Married,Van,10856,8,Good,,1
+M,109,678,12,0,Married,Van,8575,6,Good,,1
+M,125,721,6,1,Single,Utility,12715,2,Good,,1
+M,472,670,2,3,Single,Car,11491,4,Good,,1
+F,82,771,16,3,Married,Truck,16896,2,Very Good,,1
+F,447,636,7,3,Single,Truck,10321,3,Fair,,1
+M,106,733,9,1,Married,Utility,82963,6,Good,,1
+F,630,681,18,3,Married,Truck,19204,8,Good,,1
+F,176,710,5,2,Single,Van,13206,6,Good,,1
+M,144,581,4,3,Single,Car,87207,6,Fair,,0
+M,140,705,40,1,Married,Van,6358,6,Good,,0
+F,535,721,34,0,Married,Truck,20000,1,Good,,1
+F,457,678,6,2,Single,Truck,14212,5,Good,,0
+M,149,787,12,4,Single,Utility,7375,8,Very Good,,1
+F,338,605,6,0,Single,Truck,13572,2,Fair,,0
+F,112,799,15,0,Single,Car,6141,4,Very Good,,1
+M,112,780,16,1,Single,Utility,12180,7,Very Good,,1
+M,101,681,29,1,Married,Truck,13460,7,Good,,1
+F,81,794,13,1,Married,Truck,7150,8,Very Good,,1
+M,121,670,16,1,Single,Utility,5143,5,Good,,1
+F,380,700,19,1,Married,Car,22585,3,Good,,1
+F,127,672,8,2,Married,Car,27505,2,Good,,1
+F,196,509,1,1,Married,Car,70639,7,Very Poor,,1
+M,140,740,40,0,Married,Utility,14528,2,Very Good,,1
+M,192,622,2,2,Single,Car,51395,7,Fair,,0
+M,144,723,16,0,Married,Van,9155,3,Good,,1
+F,147,701,10,1,Married,Car,42936,4,Good,,1
+M,294,536,2,0,Married,Van,68527,7,Very Poor,,0
+M,428,627,3,1,Single,Utility,14725,1,Fair,,0
+F,137,750,20,1,Married,Truck,8283,5,Very Good,,0
+M,88,681,25,1,Married,Truck,8804,3,Good,,1
+F,116,771,32,1,Married,Car,11294,1,Very Good,,1
+F,159,783,27,3,Married,Truck,20450,2,Very Good,,1
+M,140,662,3,0,Married,Truck,10408,8,Fair,,0
+M,188,598,5,0,Single,Car,12367,6,Fair,,1
+M,95,753,15,0,Single,Utility,9803,5,Very Good,,1
+F,231,517,8,2,Single,Truck,13200,1,Very Poor,,1
+M,93,354,2,2,Single,Car,13736,5,Very Poor,,0
+M,96,833,9,1,Single,Utility,8060,4,Exceptional,,1
+M,253,702,4,1,Married,Utility,43770,4,Good,,0
+M,140,784,13,1,Married,Van,6290,2,Very Good,,0
+M,105,685,10,1,Married,Truck,12632,1,Good,,1
+F,210,595,8,0,Single,Truck,12666,1,Fair,,1
+M,370,336,1,2,Single,Car,16204,6,Very Poor,,1
+F,115,760,37,1,Married,Car,5688,1,Very Good,,1
+F,142,741,26,1,Married,Car,10628,2,Very Good,,0
+M,82,746,28,0,Married,Utility,9280,4,Very Good,,0
+M,130,706,4,2,Single,Car,13179,1,Good,,1
+F,153,747,23,1,Married,Car,9028,7,Very Good,,1
+M,265,730,6,1,Married,Truck,78592,4,Good,,0
+M,407,712,2,1,Married,Car,14886,2,Good,,1
+F,302,690,7,2,Single,Truck,11709,6,Good,,1
+M,101,760,27,0,Married,Truck,5329,2,Very Good,,1
+M,261,476,3,2,Single,Car,11928,7,Very Poor,,1
+M,91,799,3,0,Married,Van,6826,8,Very Good,,1
+M,101,692,23,0,Married,Truck,13289,4,Good,,1
+F,152,675,28,1,Married,Car,9407,5,Good,,1
+F,88,796,19,0,Married,Car,9844,1,Very Good,,0
+M,132,776,5,0,Married,Van,11716,7,Very Good,,0
+M,184,636,2,3,Single,Car,34517,3,Fair,,0
+F,395,619,6,3,Single,Truck,11460,3,Fair,,1
+F,150,684,25,1,Married,Car,7431,3,Good,,1
+F,491,705,28,1,Married,Car,17459,1,Good,,0
+F,351,841,7,3,Single,Truck,16250,6,Exceptional,,1
+F,358,710,5,3,Single,Truck,11920,2,Good,,1
+F,388,686,6,3,Single,Truck,13064,4,Good,,1
+M,455,548,2,2,Married,Car,13821,8,Very Poor,,1
+M,206,626,2,3,Married,Car,75787,8,Fair,,1
+F,102,783,18,0,Married,Car,10059,8,Very Good,,1
+M,135,764,20,0,Married,Van,10094,5,Very Good,,1
+M,107,506,4,3,Single,Car,14535,6,Very Poor,,1
+M,112,775,15,1,Married,Van,10585,5,Very Good,,1
+F,144,678,17,0,Married,Truck,13117,5,Good,,1
+M,127,780,21,1,Married,Van,8129,6,Very Good,,0
+F,122,694,16,0,Married,Car,13285,2,Good,,0
+M,189,695,7,0,Married,Van,50377,2,Good,,1
+F,112,678,36,0,Married,Truck,6465,6,Good,,0
+M,143,783,13,4,Single,Utility,8337,3,Very Good,,0
+F,136,688,37,0,Married,Car,23983,3,Good,,0
+M,94,752,33,1,Married,Van,13864,7,Very Good,,1
+M,198,823,2,3,Single,Car,12734,4,Exceptional,,1
+M,91,691,10,0,Single,Utility,5794,8,Good,,0
+M,106,745,9,0,Married,Van,10147,5,Very Good,,1
+M,112,702,25,0,Married,Truck,10422,3,Good,,0
+F,491,603,8,3,Single,Truck,10855,8,Fair,,0
+M,117,685,24,1,Married,Truck,10828,2,Good,,0
+F,137,401,8,3,Single,Truck,11478,6,Very Poor,,0
+F,382,487,7,2,Single,Truck,10605,2,Very Poor,,0
+M,125,584,6,2,Married,Truck,20620,3,Fair,,0
+M,207,688,3,2,Married,Car,11936,7,Good,,1
+M,91,787,23,1,Married,Van,7763,3,Very Good,,1
+M,131,850,10,1,Single,Utility,13702,8,Exceptional,,1
+M,159,541,1,3,Single,Car,14921,5,Very Poor,,1
+M,121,790,14,0,Married,Truck,5626,7,Very Good,,1
+F,110,682,5,1,Married,Car,30647,3,Good,,1
+F,349,517,3,0,Married,Car,58306,2,Very Poor,,1
+M,144,764,14,1,Married,Van,12292,1,Very Good,,0
+F,140,722,7,3,Single,Van,12993,5,Good,,1
+F,96,781,8,0,Married,Car,7398,8,Very Good,,1
+M,116,735,19,1,Married,Utility,8215,1,Good,,1
+M,141,638,7,3,Married,Truck,90158,5,Fair,,1
+M,122,760,14,1,Married,Truck,12103,5,Very Good,,1
+F,82,768,38,1,Single,Car,14055,8,Very Good,,0
+F,151,709,13,0,Married,Car,12884,8,Good,,1
+F,300,614,6,1,Single,Truck,13029,1,Fair,,0
+M,301,521,1,1,Married,Van,89002,7,Very Poor,,1
+M,124,765,16,0,Married,Truck,13336,2,Very Good,,1
+F,142,756,20,1,Married,Car,14733,3,Very Good,,0
+M,117,699,3,2,Single,Car,10769,2,Good,,0
+M,84,695,20,0,Married,Van,11696,3,Good,,1
+F,380,350,6,3,Single,Truck,14052,6,Very Poor,,1
+F,346,554,1,0,Married,Truck,81969,8,Very Poor,,1
+F,104,687,28,1,Married,Truck,8506,3,Good,,0
+F,84,698,12,1,Married,Car,53484,1,Good,,1
+F,94,688,16,1,Single,Car,8484,1,Good,,1
+F,174,429,2,0,Married,Car,74066,4,Very Poor,,0
+M,114,725,5,0,Married,Car,71603,6,Good,,1
+M,186,680,8,2,Married,Truck,12330,4,Good,,1
+M,154,786,13,1,Single,Utility,14416,7,Very Good,,1
+M,148,608,1,2,Single,Car,18443,6,Fair,,0
+F,299,834,8,3,Single,Truck,22178,7,Exceptional,,1
+M,92,685,5,0,Married,Van,9471,8,Good,,1
+M,407,441,4,3,Single,Utility,12312,8,Very Poor,,1
+M,156,353,3,3,Single,Car,13369,5,Very Poor,,0
+F,130,606,8,3,Single,Van,62799,7,Fair,,0
+F,230,594,7,1,Single,Utility,11740,8,Fair,,0
+F,84,708,26,1,Married,Car,6148,5,Good,,0
+F,117,762,11,0,Married,Car,21330,4,Very Good,,0
+M,94,768,3,1,Married,Van,12467,2,Very Good,,1
+F,101,726,26,2,Married,Car,13589,2,Good,,0
+M,116,715,19,1,Married,Truck,12340,2,Good,,1
+M,134,711,10,1,Married,Truck,8612,6,Good,,1
+M,463,610,4,1,Single,Car,12638,4,Fair,,1
+F,137,730,6,3,Single,Van,13648,7,Good,,1
+M,157,672,13,1,Single,Utility,7810,1,Good,,1
+M,101,679,16,0,Married,Van,7010,7,Good,,1
+M,99,791,10,0,Married,Utility,8193,6,Very Good,,1
+M,125,760,21,0,Married,Truck,10591,6,Very Good,,1
+M,135,714,14,1,Married,Van,9085,4,Good,,0
+F,149,762,24,0,Married,Car,24166,1,Very Good,,1
+F,137,793,12,1,Married,Car,13067,2,Very Good,,0
+M,118,621,6,2,Married,Truck,32947,5,Fair,,1
+F,510,790,4,0,Married,Car,10955,7,Very Good,,1
+F,124,793,27,0,Married,Truck,NA,3,Very Good,,1
+M,116,777,28,1,Married,Van,10346,7,Very Good,,1
+F,160,689,13,1,Married,Car,16026,8,Good,,1
+M,86,671,27,1,Married,Utility,7164,6,Good,,0
+F,249,612,7,1,Single,Truck,12658,1,Fair,,1
+M,90,706,12,0,Married,Van,5641,4,Good,,1
+M,164,651,7,1,Married,Truck,11510,6,Fair,,1
+F,139,717,17,0,Married,Car,5834,7,Good,,1
+M,102,774,22,0,Married,Truck,9975,4,Very Good,,0
+F,140,759,25,0,Married,Car,11081,6,Very Good,,1
+F,104,679,24,0,Married,Truck,12764,7,Good,,1
+F,118,790,31,1,Married,Truck,10298,1,Very Good,,1
+F,90,696,21,0,Married,Car,9804,2,Good,,1
+M,105,753,40,0,Married,Van,12178,5,Very Good,,1
+F,115,741,20,1,Married,Car,14858,1,Very Good,,1
+F,226,641,7,0,Single,Truck,12013,7,Fair,,0
+F,602,670,5,1,Married,Car,93547,1,Good,,0
+F,82,575,2,0,Married,Car,87526,3,Very Poor,,1
+M,156,786,10,0,Single,Utility,9225,3,Very Good,,1
+M,98,783,4,1,Married,Van,14993,1,Very Good,,1
+F,488,660,7,3,Single,Utility,11330,2,Fair,,0
+M,399,726,2,2,Married,Car,11835,3,Good,,1
+M,369,719,5,3,Married,Car,11094,6,Good,,1
+F,114,796,18,0,Married,Car,9196,2,Very Good,,1
+M,127,832,10,4,Single,Utility,13617,1,Exceptional,,1
+M,432,648,2,2,Married,Car,53646,7,Fair,,0
+M,115,744,17,1,Married,Van,14639,5,Very Good,,1
+F,115,699,18,1,Married,Car,8125,8,Good,,0
+M,218,616,1,3,Single,Car,49941,1,Fair,,1
+M,92,729,9,0,Married,Utility,37881,6,Good,,1
+M,113,460,2,2,Single,Car,14386,6,Very Poor,,0
+F,144,685,35,1,Married,Truck,6133,5,Good,,0
+M,260,731,3,2,Single,Car,11812,7,Good,,0
+F,84,683,16,1,Married,Car,14031,3,Good,,0
+M,351,819,1,0,Married,Car,21669,3,Exceptional,,1
+F,398,732,8,0,Married,Car,17306,1,Good,,1
+M,290,592,3,1,Married,Car,12065,2,Fair,,0
+M,138,712,18,0,Married,Truck,14073,6,Good,,0
+M,104,753,23,0,Single,Utility,10147,4,Very Good,,1
+M,127,795,4,0,Married,Van,12157,2,Very Good,,0
+M,142,729,2,2,Single,Car,17687,1,Good,,1
+F,88,721,24,0,Married,Car,13410,1,Good,,1
+M,160,383,7,3,Married,Truck,10031,4,Very Poor,,0
+F,142,775,15,1,Married,Car,11147,6,Very Good,,0
+F,443,693,5,3,Married,Truck,19260,3,Good,,1
+M,148,767,39,0,Married,Van,10130,4,Very Good,,1
+M,477,496,2,2,Married,Car,10879,4,Very Poor,,1
+M,331,673,5,2,Married,Car,14664,2,Good,,1
+M,104,708,22,1,Married,Van,11028,5,Good,,1
+F,129,725,23,0,Married,Car,7114,4,Good,,1
+F,332,684,4,0,Single,Car,67550,3,Good,,0
+F,146,787,15,1,Married,Car,24074,5,Very Good,,0
+M,133,708,3,3,Single,Car,11784,7,Good,,1
+M,116,661,7,2,Married,Truck,48153,4,Fair,,0
+M,104,762,23,1,Single,Utility,10598,1,Very Good,,0
+M,85,741,28,1,Married,Utility,5647,5,Very Good,,0
+M,475,599,2,3,Single,Utility,59300,7,Fair,,0
+M,106,560,2,2,Single,Car,11683,2,Very Poor,,1
+M,194,602,1,3,Single,Car,70022,7,Fair,,1
+F,160,774,11,0,Married,Car,12625,7,Very Good,,1
+F,155,776,20,1,Single,Car,8942,1,Very Good,,0
+F,134,791,5,0,Married,Car,19384,7,Very Good,,1
+M,108,756,5,1,Married,Truck,8665,5,Very Good,,1
+F,94,777,21,0,Married,Truck,20714,8,Very Good,,0
+F,319,489,7,3,Single,Truck,14522,5,Very Poor,,1
+M,222,453,3,3,Married,Car,14036,6,Very Poor,,1
+M,123,758,21,1,Married,Van,6424,1,Very Good,,0
+M,156,675,17,0,Married,Van,7724,2,Good,,0
+F,275,722,6,2,Single,Truck,13001,3,Good,,1
+F,150,768,28,1,Married,Car,21375,3,Very Good,,1
+M,86,775,17,1,Married,Van,8279,8,Very Good,,1
+F,86,760,10,1,Married,Car,18384,3,Very Good,,1
+M,153,386,2,2,Single,Car,10569,6,Very Poor,,1
+M,153,771,20,1,Single,Utility,7794,7,Very Good,,1
+F,110,677,29,0,Married,Car,8031,1,Good,,1
+F,143,694,17,1,Married,Car,7651,7,Good,,1
+M,127,707,5,1,Married,Van,56591,6,Good,,1
+F,157,678,37,1,Married,Car,12989,8,Good,,1
+F,459,605,6,2,Single,Truck,24236,3,Fair,,0
+F,143,736,24,1,Married,Car,12517,8,Good,,1
+M,296,329,4,2,Single,Car,13653,3,Very Poor,,1
+M,116,724,6,0,Married,Van,87549,1,Good,,1
+F,99,743,16,1,Married,Car,7545,3,Very Good,,1
+F,119,675,5,0,Married,Truck,6911,7,Good,,1
+M,136,790,19,1,Married,Truck,14871,4,Very Good,,1
+M,477,676,4,2,Married,Car,14341,1,Good,,1
+F,95,784,16,1,Married,Car,13529,3,Very Good,,1
+M,137,672,15,1,Married,Van,9130,4,Good,,0
+F,686,701,17,0,Married,Car,19758,2,Good,,0
+M,129,699,20,1,Married,Car,5892,2,Good,,1
+M,95,695,12,1,Married,Van,13213,4,Good,,0
+M,124,729,25,0,Married,Van,9249,3,Good,,1
+F,122,671,15,0,Married,Car,14702,8,Good,,1
+M,185,611,2,3,Single,Car,89063,3,Fair,,1
+F,86,684,12,1,Single,Car,45025,8,Good,,1
+F,297,585,7,3,Single,Truck,19974,1,Fair,,1
+M,112,753,9,1,Married,Utility,6854,4,Very Good,,1
+F,82,734,17,1,Married,Truck,13889,4,Good,,0
+M,183,726,4,2,Single,Car,14199,3,Good,,1
+F,427,412,6,3,Single,Truck,18521,2,Very Poor,,0
+M,137,690,30,1,Married,Truck,6268,8,Good,,0
+F,335,624,6,0,Single,Truck,13769,7,Fair,,1
+F,138,679,6,2,Single,Van,13438,2,Good,,0
+F,373,348,8,3,Single,Truck,13616,4,Very Poor,,0
+M,132,694,30,1,Single,Utility,7926,2,Good,,1
+F,130,760,7,1,Married,Truck,7017,3,Very Good,,1
+F,436,348,8,2,Single,Truck,13836,7,Very Poor,,1
+M,110,797,21,0,Married,Van,6658,7,Very Good,,1
+M,115,795,4,1,Married,Van,5388,6,Very Good,,1
+F,153,685,22,1,Married,Car,13382,2,Good,,1
+F,105,719,22,0,Married,Car,6198,5,Good,,0
+M,131,760,15,1,Married,Van,8560,4,Very Good,,1
+M,119,475,2,2,Single,Car,11053,3,Very Poor,,1
+M,139,743,6,0,Married,Utility,14217,5,Very Good,,1
+M,91,486,5,3,Single,Car,14918,5,Very Poor,,0
+M,99,775,25,0,Married,Van,9494,5,Very Good,,1
+M,157,774,27,1,Married,Van,13641,8,Very Good,,1
+M,135,671,23,1,Married,Van,10674,7,Good,,1
+F,350,820,7,3,Single,Truck,17226,2,Exceptional,,0
+M,160,702,21,0,Married,Utility,5372,2,Good,,1
+F,93,700,19,1,Married,Car,6348,5,Good,,0
+F,146,712,19,0,Single,Car,6763,1,Good,,0
+F,325,626,5,0,Single,Utility,14069,1,Fair,,1
+M,482,619,4,1,Married,Car,14756,8,Fair,,1
+F,448,704,18,3,Married,Truck,23873,4,Good,,1
+F,120,786,22,1,Married,Truck,14550,6,Very Good,,1
+F,140,752,13,0,Single,Car,11950,7,Very Good,,1
+F,94,426,6,2,Single,Truck,11916,7,Very Poor,,1
+F,644,688,19,1,Married,Car,20707,5,Good,,0
+F,153,786,8,0,Married,Car,8192,7,Very Good,,0
+M,483,607,4,3,Married,Car,13656,2,Fair,,1
+M,92,695,1,2,Single,Car,24746,2,Good,,1
+M,148,704,7,1,Married,Van,88543,6,Good,,0
+M,108,749,18,1,Married,Truck,12643,6,Very Good,,1
+M,130,698,26,1,Married,Van,12614,5,Good,,1
+F,123,717,21,0,Married,Car,6976,5,Good,,0
+F,140,709,16,1,Married,Car,8343,7,Good,,1
+M,151,703,14,1,Married,Van,10647,2,Good,,0
+M,160,747,22,0,Married,Van,10917,4,Very Good,,1
+F,484,456,7,3,Single,Truck,14110,8,Very Poor,,1
+F,150,718,36,0,Married,Truck,9306,4,Good,,1
+F,380,620,6,2,Single,Utility,19039,7,Fair,,1
+F,142,768,5,1,Married,Car,7380,7,Very Good,,1
+F,92,730,10,3,Married,Truck,8694,6,Good,,1
+F,152,617,5,3,Single,Van,54338,5,Fair,,1
+M,94,693,6,1,Married,Van,71629,5,Good,,0
+M,158,751,20,4,Single,Utility,5560,4,Very Good,,1
+M,99,770,12,0,Married,Van,14951,7,Very Good,,1
+M,361,649,3,0,Married,Car,11547,7,Fair,,1
+M,137,690,5,0,Married,Utility,9709,5,Good,,1
+F,599,783,7,0,Married,Truck,13356,6,Very Good,,0
+F,90,724,29,0,Married,Truck,5759,2,Good,,1
+M,274,702,2,2,Married,Car,11892,6,Good,,0
+F,591,689,15,0,Married,Car,19187,3,Good,,0
+F,96,727,6,1,Married,Truck,27148,2,Good,,1
+F,124,676,15,0,Married,Truck,9924,1,Good,,1
+M,111,585,3,2,Single,Car,93553,6,Fair,,1
+M,147,793,17,1,Married,Truck,6614,2,Very Good,,1
+M,534,704,34,0,Married,Van,5700,3,Good,,1
+M,112,678,12,1,Married,Van,10589,4,Good,,1
+M,407,672,4,2,Married,Car,10162,6,Good,,1
+F,146,767,30,1,Married,Truck,7625,7,Very Good,,1
+M,243,682,4,2,Married,Car,12761,3,Good,,0
+F,151,778,12,1,Married,Car,20264,7,Very Good,,1
+M,119,691,18,0,Married,Van,9881,3,Good,,1
+M,261,334,2,3,Single,Utility,19652,6,Very Poor,,0
+M,293,709,2,3,Single,Car,10227,8,Good,,1
+F,126,748,10,0,Married,Car,12907,6,Very Good,,1
+M,97,775,18,1,Married,Van,12219,1,Very Good,,0
+M,132,848,1,3,Single,Car,13463,1,Exceptional,,1
+M,158,751,7,0,Married,Truck,11547,8,Very Good,,1
+M,117,739,16,1,Married,Van,13381,3,Good,,1
+M,159,748,22,0,Married,Van,14794,6,Very Good,,0
+F,395,702,6,2,Single,Truck,10746,3,Good,,1
+M,154,777,15,0,Married,Van,8354,2,Very Good,,1
+M,136,711,3,1,Single,Utility,12458,1,Good,,1
+M,96,747,19,1,Married,Utility,9547,3,Very Good,,1
+F,156,793,16,1,Married,Car,8276,8,Very Good,,1
+M,128,699,3,2,Single,Car,14935,6,Good,,0
+F,124,764,3,0,Single,Car,6365,5,Very Good,,1
+F,391,718,6,3,Single,Truck,11857,7,Good,,1
+F,105,704,35,1,Married,Car,5871,8,Good,,1
+M,142,684,39,1,Married,Van,10515,6,Good,,0
+M,235,646,5,1,Single,Car,14895,8,Fair,,0
+F,127,690,23,0,Married,Car,6173,5,Good,,1
+M,103,793,19,0,Married,Van,9232,3,Very Good,,1
+F,424,774,7,1,Married,Car,7402,4,Very Good,,1
+F,97,785,30,1,Married,Truck,5585,1,Very Good,,0
+M,257,305,2,2,Married,Car,10042,8,Very Poor,,1
+M,152,676,22,1,Married,Van,8793,5,Good,,0
+M,340,667,2,3,Single,Car,15597,7,Fair,,1
+F,122,795,7,1,Married,Car,23957,8,Very Good,,1
+F,497,594,5,2,Single,Truck,10172,1,Fair,,1
+F,117,749,15,0,Married,Car,11151,5,Very Good,,1
+F,165,674,7,2,Single,Truck,10311,8,Good,,1
+F,103,799,18,1,Married,Car,5023,7,Very Good,,1
+F,113,354,7,3,Single,Van,13567,3,Very Poor,,0
+M,111,767,22,1,Married,Utility,10946,6,Very Good,,0
+M,104,786,14,1,Married,Van,11601,4,Very Good,,1
+F,252,825,7,2,Single,Truck,16760,8,Exceptional,,0
+M,179,713,8,3,Married,Truck,13539,7,Good,,1
+M,397,690,2,3,Single,Car,10074,5,Good,,0
+F,138,775,35,0,Married,Truck,9453,7,Very Good,,1
+M,128,731,10,0,Married,Truck,33438,2,Good,,1
+M,123,629,8,4,Married,Truck,16660,4,Fair,,0
+F,271,724,7,1,Married,Car,81401,6,Good,,0
+M,88,744,9,0,Married,Van,8784,7,Very Good,,0
+M,88,735,16,4,Single,Utility,12806,4,Good,,1
+F,125,709,18,1,Married,Car,9907,4,Good,,0
+M,92,688,5,1,Married,Utility,12263,8,Good,,1
+M,126,685,3,2,Single,Car,10613,6,Good,,1
+F,443,584,8,2,Single,Truck,12911,3,Fair,,0
+F,147,787,10,0,Married,Car,17861,2,Very Good,,1
+M,140,732,13,1,Married,Truck,14785,8,Good,,1
+M,139,689,4,1,Married,Van,8343,7,Good,,1
+M,127,682,9,1,Married,Van,13189,1,Good,,0
+M,227,594,3,1,Married,Car,10471,6,Fair,,1
+M,158,672,6,2,Married,Truck,10740,5,Good,,1
+F,360,655,7,3,Single,Truck,18782,5,Fair,,1
+F,104,703,18,0,Married,Truck,8561,1,Good,,1
+M,489,736,1,3,Single,Utility,13247,2,Good,,1
+F,94,689,20,1,Married,Car,10994,8,Good,,1
+M,108,717,18,0,Married,Van,10937,7,Good,,0
+F,130,613,5,3,Single,Van,23508,7,Fair,,1
+F,242,616,5,3,Single,Truck,22640,6,Fair,,1
+F,288,724,5,3,Single,Truck,12332,2,Good,,1
+M,199,581,1,3,Single,Car,23146,6,Fair,,0
+M,117,655,5,3,Single,Car,67483,4,Fair,,1
+F,120,430,6,3,Single,Van,11018,7,Very Poor,,1
+F,112,794,21,0,Married,Truck,9703,1,Very Good,,0
+M,126,763,21,1,Married,Van,7715,1,Very Good,,0
+M,500,369,3,2,Single,Car,10936,5,Very Poor,,1
+M,300,372,2,3,Married,Car,13379,5,Very Poor,,1
+M,132,733,25,0,Married,Van,7388,5,Good,,0
+M,93,798,32,1,Married,Van,7970,6,Very Good,,1
+F,90,778,14,0,Single,Car,12371,1,Very Good,,1
+F,158,738,24,1,Married,Car,14965,2,Good,,0
+M,150,817,1,3,Single,Car,12008,2,Exceptional,,1
+F,210,591,6,1,Single,Truck,13640,7,Fair,,1
+M,117,749,7,1,Married,Truck,13398,7,Very Good,,0
+F,124,717,10,0,Married,Car,5844,4,Good,,1
+F,151,677,5,1,Single,Car,12608,2,Good,,1
+F,109,700,19,0,Married,Car,13414,5,Good,,1
+F,132,758,17,1,Married,Truck,7804,4,Very Good,,0
+F,95,718,17,2,Married,Car,5483,3,Good,,1
+M,162,666,7,1,Married,Truck,14101,7,Fair,,0
+F,132,705,17,1,Married,Car,12568,2,Good,,1
+M,198,406,2,2,Single,Car,10413,8,Very Poor,,0
+M,113,737,22,1,Married,Truck,13977,3,Good,,0
+F,123,674,33,1,Married,Truck,6726,5,Good,,1
+M,312,693,5,1,Married,Car,14811,2,Good,,0
+F,113,705,11,1,Married,Car,11565,1,Good,,1
+M,609,643,1,0,Married,Truck,14386,8,Fair,,1
+F,184,584,5,1,Single,Van,11668,8,Fair,,1
+F,387,735,5,2,Single,Truck,12998,2,Good,,0
+M,131,673,26,1,Married,Van,13788,5,Good,,1
+F,351,712,5,3,Single,Truck,14298,1,Good,,1
+F,233,591,6,0,Single,Truck,12517,8,Fair,,1
+M,413,712,5,3,Married,Car,12891,6,Good,,1
+M,127,684,22,1,Married,Van,5617,8,Good,,1
+M,132,781,29,0,Married,Truck,10587,8,Very Good,,1
+M,98,726,8,3,Married,Truck,13346,2,Good,,1
+M,154,787,4,0,Single,Utility,11338,2,Very Good,,0
+F,95,689,1,0,Married,Car,10134,7,Good,,1
+M,132,792,9,0,Married,Van,11831,1,Very Good,,1
+M,147,745,18,0,Married,Truck,12845,8,Very Good,,1
+M,144,678,28,1,Married,Van,6603,2,Good,,1
+M,136,765,12,4,Single,Utility,11617,4,Very Good,,1
+M,311,642,1,2,Single,Utility,43019,4,Fair,,1
+M,84,687,17,0,Single,Utility,8097,7,Good,,0
+M,147,762,16,1,Married,Van,6701,3,Very Good,,1
+F,135,799,10,0,Married,Car,11927,6,Very Good,,1
+F,659,677,10,0,Married,Car,16920,1,Good,,0
+M,143,695,33,1,Single,Utility,6691,6,Good,,1
+F,103,701,11,2,Married,Car,5508,2,Good,,1
+F,154,721,10,1,Single,Car,10081,7,Good,,1
+F,140,697,16,0,Married,Car,11190,7,Good,,1
+F,130,746,18,0,Married,Truck,11428,3,Very Good,,1
+M,114,734,12,0,Single,Utility,11215,3,Good,,1
+F,376,618,5,2,Single,Truck,11545,8,Fair,,0
+M,315,432,4,3,Single,Car,11006,3,Very Poor,,1
+F,142,708,19,0,Married,Car,5913,2,Good,,0
+M,83,679,12,0,Married,Van,81689,8,Good,,0
+F,92,688,25,1,Married,Car,13476,6,Good,,1
+F,82,684,15,0,Single,Car,11819,6,Good,,0
+M,120,758,35,4,Single,Utility,14124,7,Very Good,,1
+F,94,702,6,1,Married,Truck,65973,6,Good,,1
+F,91,697,40,0,Married,Truck,10037,4,Good,,1
+F,587,732,2,3,Married,Truck,18029,6,Good,,1
+M,345,559,2,1,Married,Truck,92716,6,Very Poor,,1
+M,153,718,23,0,Married,Van,12241,1,Good,,1
+F,153,681,5,0,Married,Truck,6174,2,Good,,0
+F,255,681,8,1,Married,Truck,47735,2,Good,,1
+F,127,688,20,0,Married,Truck,10407,5,Good,,0
+F,200,700,6,3,Single,Truck,10501,4,Good,,1
+F,98,712,15,1,Married,Car,5792,2,Good,,0
+M,408,614,3,1,Married,Car,14776,2,Fair,,0
+M,277,656,1,0,Married,Car,92101,3,Fair,,1
+F,327,659,5,1,Single,Utility,12356,8,Fair,,1
+F,113,792,9,0,Married,Car,16497,3,Very Good,,1
+M,159,838,8,2,Married,Truck,22612,2,Exceptional,,1
+F,96,773,34,0,Married,Truck,6128,1,Very Good,,1
+M,81,726,19,0,Married,Van,5014,3,Good,,1
+M,122,744,20,1,Married,Utility,9124,4,Very Good,,1
+F,98,707,13,0,Married,Truck,5351,7,Good,,1
+F,388,584,7,3,Single,Truck,10550,4,Fair,,1
+M,167,724,3,2,Single,Car,10829,4,Good,,0
+M,116,682,20,0,Married,Van,10976,7,Good,,1
+M,120,498,6,2,Married,Truck,20629,8,Very Poor,,1
+F,118,793,15,1,Married,Car,20195,2,Very Good,,0
+M,121,677,13,1,Married,Truck,6385,4,Good,,1
+M,109,734,8,1,Married,Van,81175,8,Good,,1
+M,99,689,9,1,Married,Van,11134,8,Good,,0
+M,81,670,17,1,Single,Utility,6910,6,Good,,1
+M,408,566,4,3,Married,Car,11529,4,Very Poor,,1
+F,134,724,5,1,Married,Truck,44612,1,Good,,1
+F,86,683,10,1,Married,Car,8007,2,Good,,1
+F,382,619,2,0,Single,Car,11905,3,Fair,,1
+F,125,759,31,0,Married,Car,18046,2,Very Good,,1
+F,145,709,10,0,Single,Car,80573,5,Good,,1
+F,123,728,35,1,Married,Truck,11596,1,Good,,1
+M,128,730,30,1,Married,Van,7742,6,Good,,0
+M,376,672,4,2,Single,Car,13716,7,Good,,1
+M,86,712,18,1,Married,Car,11964,2,Good,,1
+F,107,680,12,0,Single,Car,8689,3,Good,,1
+M,270,739,4,2,Married,Car,14288,6,Good,,1
+M,101,774,30,4,Single,Utility,11971,5,Very Good,,1
+M,156,760,23,1,Married,Van,13743,8,Very Good,,1
+F,335,693,8,3,Single,Utility,14617,8,Good,,1
+F,227,713,5,0,Married,Car,38640,2,Good,,0
+F,120,732,8,3,Single,Van,13248,7,Good,,1
+F,139,779,4,1,Married,Truck,13201,7,Very Good,,1
+M,157,671,15,1,Married,Van,10827,7,Good,,1
+M,111,670,7,1,Married,Van,9785,8,Good,,1
+M,396,648,3,1,Married,Car,14853,6,Fair,,1
+F,111,785,10,0,Married,Car,5818,1,Very Good,,1
+F,104,675,32,1,Married,Truck,14431,4,Good,,1
+F,132,745,18,1,Married,Truck,12237,8,Very Good,,0
+M,139,753,19,0,Married,Truck,13027,6,Very Good,,1
+M,183,589,3,1,Single,Car,11798,8,Fair,,0
+M,82,797,12,0,Single,Utility,13024,1,Very Good,,0
+M,319,611,5,2,Single,Car,23750,6,Fair,,1
+F,618,679,23,0,Married,Car,15644,5,Good,,0
+M,199,595,5,0,Single,Car,10694,2,Fair,,0
+F,160,764,8,1,Married,Truck,12359,6,Very Good,,1
+M,609,599,5,0,Single,Car,13947,6,Fair,,1
+M,113,675,33,1,Married,Van,13483,5,Good,,1
+F,463,665,8,3,Single,Truck,10647,4,Fair,,1
+F,442,616,8,2,Single,Van,13613,4,Fair,,0
+M,852,684,1,3,Single,Car,11206,7,Good,,1
+M,82,778,10,0,Married,Van,9471,8,Very Good,,1
+M,116,727,28,4,Single,Utility,14711,5,Good,,0
+F,150,677,39,0,Married,Car,10716,7,Good,,1
+F,302,580,7,0,Single,Truck,11464,5,Fair,,1
+M,155,774,18,1,Married,Van,6018,3,Very Good,,1
+M,160,518,1,2,Single,Car,14836,6,Very Poor,,0
+M,157,716,9,0,Married,Utility,92924,4,Good,,1
+M,98,752,31,1,Married,Truck,9165,4,Very Good,,1
+M,170,518,2,2,Single,Car,14546,1,Very Poor,,1
+M,500,728,1,2,Single,Car,10896,3,Good,,1
+M,155,657,8,2,Married,Truck,20812,1,Fair,,0
+M,145,799,22,0,Married,Utility,6123,8,Very Good,,0
+M,95,682,3,2,Single,Car,11775,6,Good,,1
+M,111,781,5,1,Single,Utility,8730,4,Very Good,,1
+F,219,695,5,2,Single,Truck,10183,5,Good,,1
+M,356,485,5,2,Married,Car,10837,5,Very Poor,,1
+F,146,795,5,1,Married,Truck,9542,8,Very Good,,1
+M,153,797,27,1,Married,Van,5602,7,Very Good,,1
+F,92,738,25,0,Single,Car,5771,8,Good,,0
+F,155,765,19,1,Married,Car,7211,3,Very Good,,1
+F,158,699,6,3,Single,Van,10886,1,Good,,1
+M,140,341,1,3,Single,Car,13445,4,Very Poor,,1
+M,124,759,3,0,Married,Van,10348,4,Very Good,,1
+M,143,620,3,2,Single,Car,84338,6,Fair,,1
+F,301,576,6,3,Single,Truck,14171,1,Very Poor,,1
+F,134,670,12,1,Married,Car,15274,4,Good,,1
+M,138,676,25,1,Married,Van,13743,6,Good,,0
+M,100,724,17,4,Single,Utility,14680,8,Good,,1
+M,92,711,18,1,Married,Van,9740,3,Good,,1
+F,134,729,14,1,Married,Car,12244,8,Good,,1
+F,158,764,6,1,Married,Truck,14314,2,Very Good,,1
+F,112,717,12,1,Married,Car,12762,7,Good,,0
+F,126,753,22,0,Married,Truck,11282,4,Very Good,,1
+F,138,683,1,0,Married,Car,11280,6,Good,,1
+M,135,786,13,0,Single,Utility,9883,1,Very Good,,0
+M,147,715,10,1,Married,Van,11512,8,Good,,1
+F,104,791,7,1,Married,Truck,14479,8,Very Good,,1
+M,113,781,3,1,Married,Van,11720,6,Very Good,,1
+F,404,712,4,0,Married,Car,21405,7,Good,,1
+F,101,680,19,1,Married,Car,11690,3,Good,,0
+M,199,704,6,3,Married,Truck,12911,3,Good,,1
+M,93,715,5,2,Married,Truck,11765,8,Good,,1
+M,307,664,2,3,Married,Car,60846,4,Fair,,0
+M,500,839,1,1,Married,Car,16944,4,Exceptional,,1
+M,96,689,20,1,Married,Van,12532,2,Good,,0
+M,140,742,24,1,Married,Van,11753,2,Very Good,,1
+M,304,704,7,1,Married,Van,80643,7,Good,,1
+F,132,717,24,0,Married,Car,13698,6,Good,,1
+F,302,720,5,2,Single,Truck,13367,4,Good,,0
+M,294,645,4,1,Married,Car,11797,5,Fair,,0
+F,372,682,7,2,Single,Truck,11074,7,Good,,1
+F,416,692,15,1,Married,Car,20973,6,Good,,1
+M,422,616,5,1,Married,Car,11462,4,Fair,,1
+F,224,635,7,0,Single,Truck,14324,5,Fair,,1
+F,91,692,16,0,Married,Car,8484,8,Good,,0
+M,254,528,2,1,Married,Truck,34682,2,Very Poor,,1
+F,394,618,6,2,Single,Truck,10844,3,Fair,,1
+M,159,677,14,0,Married,Utility,10374,4,Good,,0
+F,142,697,25,1,Married,Car,12119,1,Good,,1
+F,139,795,31,1,Married,Truck,20059,8,Very Good,,1
+M,164,693,3,2,Single,Car,12124,5,Good,,1
+M,201,683,5,2,Married,Car,11391,6,Good,,0
+F,146,726,12,1,Married,Truck,13920,3,Good,,0
+M,472,606,2,2,Married,Car,19715,7,Fair,,1
+M,82,696,31,0,Married,Utility,11640,2,Good,,1
+F,337,659,5,0,Single,Truck,14414,8,Fair,,1
+F,108,781,5,0,Married,Car,8258,4,Very Good,,1
+F,83,566,6,1,Single,Car,57804,2,Very Poor,,1
+M,284,603,5,2,Married,Car,20653,2,Fair,,1
+M,86,759,23,0,Married,Utility,12407,5,Very Good,,0
+F,132,407,5,2,Single,Van,11061,8,Very Poor,,1
+M,116,794,22,1,Married,Van,12009,6,Very Good,,0
+F,120,769,12,0,Married,Truck,13317,8,Very Good,,1
+M,149,744,17,1,Single,Utility,10822,4,Very Good,,1
+F,89,522,2,0,Married,Car,31491,2,Very Poor,,1
+F,126,710,19,2,Married,Car,8370,8,Good,,0
+M,114,639,5,2,Single,Car,32016,4,Fair,,0
+F,111,750,21,0,Married,Truck,13825,5,Very Good,,1
+F,134,720,8,1,Married,Car,62160,8,Good,,1
+F,117,625,7,3,Single,Van,46543,8,Fair,,0
+M,101,799,19,1,Married,Van,11790,6,Very Good,,1
+F,262,596,7,1,Single,Truck,13085,4,Fair,,1
+F,308,698,7,3,Single,Truck,14771,8,Good,,1
+M,93,703,17,0,Married,Van,8787,3,Good,,1
+F,131,748,35,1,Single,Car,5862,5,Very Good,,0
+M,84,726,16,0,Married,Van,12414,5,Good,,0
+M,100,769,17,1,Married,Truck,13080,3,Very Good,,0
+M,160,751,20,0,Married,Van,12898,7,Very Good,,1
+M,307,635,2,2,Single,Car,77893,8,Fair,,1
+F,146,790,18,0,Married,Truck,14541,4,Very Good,,1
+M,277,702,1,2,Single,Utility,15765,2,Good,,1
+F,498,693,5,2,Single,Truck,12713,4,Good,,1
+F,136,740,19,0,Married,Truck,14090,5,Very Good,,1
+M,150,687,11,0,Married,Van,11468,6,Good,,0
+M,111,589,1,2,Single,Car,97489,8,Fair,,1
+M,453,357,4,1,Married,Car,10804,5,Very Poor,,1
+M,454,638,1,0,Married,Utility,8747,2,Fair,,0
+M,273,610,5,1,Single,Car,14672,4,Fair,,1
+F,453,617,1,3,Married,Truck,6335,8,Fair,,1
+M,356,490,5,2,Single,Car,20676,2,Very Poor,,0
+M,94,783,38,0,Married,Van,7902,7,Very Good,,1
+M,525,845,4,2,Single,Car,16064,2,Exceptional,,0
+M,85,834,28,1,Single,Utility,8422,8,Exceptional,,1
+F,124,754,21,0,Married,Truck,11717,3,Very Good,,1
+F,400,682,5,3,Single,Truck,14424,4,Good,,1
+M,84,698,14,0,Married,Van,29839,8,Good,,0
+F,128,799,15,1,Married,Truck,9635,6,Very Good,,1
+F,106,765,7,0,Single,Car,12643,2,Very Good,,1
+M,152,795,30,1,Married,Van,13444,6,Very Good,,1
+M,317,589,4,1,Married,Car,11962,4,Fair,,0
+M,146,679,3,3,Single,Car,10715,8,Good,,0
+M,112,757,16,0,Married,Utility,8127,8,Very Good,,1
+F,157,716,14,1,Married,Car,14654,7,Good,,0
+F,116,678,33,1,Single,Car,7218,3,Good,,1
+F,89,672,12,0,Married,Car,50517,7,Good,,1
+F,88,784,10,0,Married,Car,7768,4,Very Good,,0
+M,112,752,18,0,Married,Van,11394,8,Very Good,,1
+F,141,757,24,1,Single,Car,9325,2,Very Good,,1
+F,137,672,9,0,Married,Car,63344,8,Good,,1
+M,138,672,5,4,Single,Utility,9523,5,Good,,1
+M,126,648,3,2,Single,Car,82158,2,Fair,,0
+M,675,638,2,1,Married,Van,14577,6,Fair,,0
+M,130,773,18,4,Single,Utility,14936,7,Very Good,,1
+M,130,795,25,1,Married,Utility,9379,7,Very Good,,1
+M,116,774,32,0,Single,Utility,13177,7,Very Good,,0
+F,489,845,8,2,Single,Truck,22340,3,Exceptional,,1
+F,378,682,25,1,Married,Car,15110,4,Good,,1
+M,619,793,3,1,Married,Truck,10138,3,Very Good,,1
+M,149,678,13,0,Married,Truck,6705,6,Good,,1
+M,300,309,5,2,Married,Car,18230,8,Very Poor,,1
+F,142,671,24,0,Single,Car,14875,1,Good,,1
+M,82,785,34,0,Married,Van,8971,1,Very Good,,0
+F,265,529,4,0,Married,Car,62349,3,Very Poor,,1
+F,86,777,28,1,Married,Car,10770,1,Very Good,,1
+F,93,702,19,0,Married,Truck,14071,5,Good,,1
+F,136,738,21,2,Married,Car,7181,2,Good,,1
+M,342,533,2,3,Single,Car,16905,2,Very Poor,,1
+M,116,479,3,2,Single,Car,11317,6,Very Poor,,0
+M,422,602,1,3,Married,Car,57464,8,Fair,,1
+M,148,727,17,1,Married,Van,8496,7,Good,,1
+F,264,670,5,0,Single,Car,86394,4,Good,,1
+F,284,494,1,1,Married,Car,66064,4,Very Poor,,1
+M,120,672,18,1,Married,Van,10452,7,Good,,1
+M,126,743,33,1,Married,Van,13157,5,Very Good,,0
+M,102,705,10,1,Single,Utility,11723,3,Good,,1
+F,150,678,1,1,Married,Car,21770,1,Good,,1
+M,147,820,37,0,Single,Utility,13186,1,Exceptional,,0
+M,156,679,17,0,Married,Van,12502,6,Good,,0
+M,131,782,15,0,Married,Van,13997,8,Very Good,,1
+M,105,796,18,0,Married,Van,8630,8,Very Good,,1
+F,298,481,7,3,Single,Truck,13720,3,Very Poor,,1
+M,95,703,18,1,Married,Utility,6806,8,Good,,0
+M,254,650,4,0,Single,Utility,12869,7,Fair,,0
+M,83,714,27,0,Single,Utility,11782,2,Good,,0
+F,90,582,6,3,Single,Van,16592,2,Fair,,1
+M,112,763,17,0,Married,Van,5548,3,Very Good,,1
+M,360,689,1,1,Married,Car,11797,3,Good,,1
+F,131,560,5,3,Single,Van,10695,6,Very Poor,,1
+M,95,739,32,0,Married,Van,6243,3,Good,,0
+M,89,705,13,1,Married,Utility,36111,6,Good,,0
+F,88,528,7,0,Married,Car,39325,3,Very Poor,,1
+F,95,779,15,1,Married,Car,20402,1,Very Good,,1
+M,136,744,8,1,Married,Truck,5901,5,Very Good,,1
+F,98,692,10,0,Married,Car,11517,4,Good,,1
+M,146,778,23,1,Single,Utility,12747,1,Very Good,,1
+F,307,679,16,1,Married,Car,14999,5,Good,,0
+M,152,663,4,3,Single,Car,56967,2,Fair,,1
+M,113,776,8,1,Married,Van,11853,4,Very Good,,0
+M,172,601,4,1,Single,Car,13908,5,Fair,,1
+M,147,762,6,1,Married,Van,12494,7,Very Good,,0
+M,193,718,2,3,Single,Car,14926,4,Good,,1
+M,144,518,4,2,Single,Car,20127,7,Very Poor,,0
+M,190,475,5,2,Married,Truck,13855,7,Very Poor,,1
+F,87,677,15,1,Married,Car,12537,1,Good,,0
+M,99,688,23,1,Married,Truck,6245,5,Good,,0
+M,220,319,1,2,Married,Car,20822,4,Very Poor,,0
+F,130,701,24,1,Married,Truck,5086,2,Good,,0
+M,688,592,7,1,Married,Van,14781,8,Fair,,1
+M,119,795,9,0,Married,Van,8125,1,Very Good,,1
+F,86,755,13,1,Married,Car,21484,4,Very Good,,1
+F,83,799,19,1,Married,Truck,24494,8,Very Good,,1
+F,113,572,7,2,Single,Van,13723,7,Very Poor,,1
+M,532,591,1,1,Married,Truck,13506,4,Fair,,1
+M,129,685,5,3,Married,Truck,11910,3,Good,,0
+M,155,761,6,1,Married,Utility,11458,7,Very Good,,1
+M,97,760,3,1,Married,Van,7176,6,Very Good,,1
+F,160,797,10,0,Single,Car,11832,5,Very Good,,0
+M,431,687,2,1,Married,Car,11652,6,Good,,0
+F,588,713,18,0,Married,Car,16008,2,Good,,1
+F,210,739,19,1,Married,Car,9011,6,Good,,0
+F,374,803,8,2,Single,Truck,19162,8,Exceptional,,1
+M,582,615,1,1,Married,Utility,10636,8,Fair,,0
+M,169,524,5,3,Married,Truck,11943,3,Very Poor,,1
+F,145,676,17,1,Married,Car,9683,2,Good,,0
+M,430,387,5,1,Married,Car,13705,6,Very Poor,,0
+M,222,711,8,0,Married,Van,59712,4,Good,,1
+F,92,775,18,1,Married,Car,5810,8,Very Good,,1
+F,134,708,19,1,Married,Car,6577,6,Good,,0
+F,129,678,17,1,Married,Truck,13593,1,Good,,1
+M,159,739,19,1,Married,Utility,6115,5,Good,,1
+F,177,587,7,1,Single,Truck,12864,7,Fair,,0
+F,483,673,6,2,Single,Truck,13508,5,Good,,1
+M,81,678,20,0,Married,Van,7384,2,Good,,1
+M,651,596,2,1,Married,Van,7476,4,Fair,,1
+F,235,317,7,3,Single,Truck,12401,8,Very Poor,,0
+F,142,686,24,1,Single,Car,11127,1,Good,,1
+M,92,809,18,0,Single,Utility,5475,8,Exceptional,,1
+M,158,642,5,3,Married,Truck,61069,4,Fair,,1
+M,131,352,5,2,Single,Car,14405,8,Very Poor,,1
+F,467,738,6,3,Single,Truck,12446,3,Good,,1
+M,117,728,21,1,Married,Utility,6313,2,Good,,1
+M,111,720,33,1,Married,Utility,8684,6,Good,,0
+M,88,546,8,1,Married,Van,26194,6,Very Poor,,1
+M,354,474,2,3,Married,Car,12043,6,Very Poor,,1
+F,230,719,8,1,Married,Car,35936,4,Good,,0
+M,86,711,15,0,Single,Utility,12655,8,Good,,1
+F,343,463,7,3,Single,Truck,12474,4,Very Poor,,1
+M,108,743,10,1,Married,Van,8096,7,Very Good,,1
+F,129,790,23,1,Married,Truck,6951,4,Very Good,,1
+F,132,699,39,1,Married,Truck,6536,8,Good,,0
+M,130,798,19,0,Married,Utility,13358,5,Very Good,,1
+M,123,735,5,2,Married,Truck,11254,7,Good,,0
+F,432,723,7,3,Single,Truck,13376,5,Good,,1
+M,104,750,16,0,Married,Utility,10250,2,Very Good,,0
+M,142,621,5,2,Single,Car,54444,2,Fair,,1
+F,115,753,18,1,Married,Car,11074,4,Very Good,,1
+F,95,679,10,1,Married,Car,17632,5,Good,,1
+M,156,736,16,0,Married,Utility,12465,3,Good,,1
+M,102,708,10,1,Married,Van,8245,7,Good,,0
+M,308,705,5,0,Married,Truck,80440,1,Good,,1
+M,472,775,5,1,Married,Truck,13962,6,Very Good,,1
+M,93,677,8,2,Married,Truck,12156,1,Good,,0
+F,235,550,1,1,Married,Truck,60089,7,Very Poor,,1
+M,121,730,22,1,Single,Utility,9032,4,Good,,1
+F,124,787,7,1,Married,Car,22653,2,Very Good,,0
+M,140,670,20,1,Married,Van,7216,2,Good,,0
+F,629,673,10,1,Married,Truck,17378,4,Good,,0
+M,461,373,1,2,Married,Car,10126,8,Very Poor,,1
+F,86,721,30,1,Married,Truck,14494,5,Good,,1
+M,461,664,1,2,Married,Car,67739,6,Fair,,1
+M,499,675,1,3,Married,Car,14909,4,Good,,1
+M,157,779,4,1,Married,Van,11850,6,Very Good,,0
+F,413,697,35,1,Married,Car,23150,1,Good,,1
+M,117,609,8,2,Married,Truck,62546,7,Fair,,1
+M,98,796,25,1,Married,Van,5525,3,Very Good,,1
+M,80,763,21,1,Married,Van,7777,3,Very Good,,0
+F,121,797,34,0,Married,Car,7560,1,Very Good,,0
+M,150,775,10,1,Married,Van,7476,1,Very Good,,1
+M,140,789,23,1,Married,Utility,11334,1,Very Good,,1
+M,309,579,5,2,Married,Car,13244,7,Very Poor,,1
+F,369,724,18,1,Married,Car,17425,3,Good,,0
+M,154,671,17,1,Married,Truck,12373,2,Good,,1
+F,142,778,10,1,Married,Car,13249,7,Very Good,,1
+F,80,793,20,1,Married,Truck,9022,7,Very Good,,0
+M,104,697,22,1,Single,Utility,14672,7,Good,,1
+M,176,549,5,2,Single,Car,14202,7,Very Poor,,1
+F,148,679,18,0,Married,Truck,7447,7,Good,,1
+F,380,622,7,2,Single,Truck,11741,8,Fair,,1
+M,119,753,9,0,Married,Truck,9943,4,Very Good,,1
+M,183,730,7,1,Married,Utility,65363,1,Good,,1
+M,119,744,19,0,Single,Utility,7975,4,Very Good,,1
+M,151,724,33,0,Married,Van,13932,7,Good,,1
+M,106,682,19,1,Married,Van,9880,5,Good,,1
+F,83,686,38,1,Single,Car,9131,4,Good,,1
+M,131,732,8,4,Married,Truck,11965,3,Good,,0
+M,91,580,5,3,Married,Truck,22363,4,Fair,,1
+F,100,722,15,2,Married,Car,10989,6,Good,,0
+M,95,680,5,3,Single,Car,12948,3,Good,,0
+F,215,738,6,3,Single,Truck,12108,3,Good,,0
+M,114,711,3,2,Single,Car,13074,5,Good,,1
+M,109,739,19,1,Married,Car,11299,7,Good,,1
+M,106,739,9,0,Single,Utility,9690,4,Good,,0
+M,108,746,26,0,Married,Utility,7228,5,Very Good,,1
+F,131,699,5,1,Married,Car,87708,5,Good,,1
+M,144,798,20,1,Married,Truck,11825,2,Very Good,,1
+M,159,771,14,1,Married,Truck,8567,2,Very Good,,0
+M,94,748,21,0,Married,Van,12332,2,Very Good,,1
+F,330,690,5,0,Married,Car,38691,1,Good,,1
+F,237,613,7,0,Single,Truck,10861,3,Fair,,1
+F,80,792,22,1,Married,Truck,9516,6,Very Good,,1
+M,339,694,2,2,Single,Car,14194,6,Good,,0
+F,443,640,7,3,Single,Truck,11672,7,Fair,,1
+M,148,755,19,0,Single,Utility,13877,5,Very Good,,1
+M,146,763,18,0,Married,Truck,6172,2,Very Good,,1
+M,146,699,23,0,Married,Van,13774,4,Good,,1
+M,383,638,4,1,Married,Car,13896,6,Fair,,0
+F,172,683,8,1,Married,Truck,82064,7,Good,,1
+M,269,315,5,3,Married,Car,12351,1,Very Poor,,0
+M,288,591,5,0,Married,Car,13159,8,Fair,,1
+M,465,664,4,2,Married,Car,20528,8,Fair,,1
+F,404,457,6,3,Single,Truck,23044,6,Very Poor,,0
+M,163,623,1,2,Single,Car,61684,7,Fair,,1
+M,437,632,3,1,Married,Car,13290,6,Fair,,0
+F,103,681,17,1,Married,Car,14699,3,Good,,0
+M,412,726,4,3,Married,Car,13430,5,Good,,1
+F,104,327,6,3,Single,Van,21813,6,Very Poor,,0
+M,113,719,1,2,Single,Car,23174,6,Good,,1
+M,81,767,16,0,Married,Truck,5807,1,Very Good,,1
+F,109,753,3,0,Married,Car,19227,6,Very Good,,1
+M,137,769,7,1,Married,Van,13692,1,Very Good,,1
+M,152,674,4,3,Single,Car,10816,6,Good,,1
+F,90,780,15,0,Married,Truck,13910,5,Very Good,,1
+M,137,791,16,1,Married,Van,11646,6,Very Good,,0
+F,379,609,5,2,Single,Truck,12652,8,Fair,,1
+M,147,698,37,0,Married,Van,14306,6,Good,,1
+F,159,784,6,1,Married,Truck,12658,8,Very Good,,0
+M,290,691,3,2,Single,Utility,10131,8,Good,,1
+M,94,761,21,0,Married,Truck,13047,1,Very Good,,1
+M,308,706,4,2,Single,Utility,12432,3,Good,,0
+M,336,531,1,1,Married,Car,14144,7,Very Poor,,0
+F,132,673,29,0,Married,Car,7689,3,Good,,1
+M,168,677,3,2,Single,Car,12730,8,Good,,1
+M,173,528,2,2,Married,Truck,12761,2,Very Poor,,1
+M,150,781,23,0,Married,Truck,5501,5,Very Good,,1
+F,125,755,18,1,Single,Car,6553,7,Very Good,,1
+M,89,764,19,0,Married,Utility,7460,5,Very Good,,0
+F,399,686,6,3,Married,Truck,19343,8,Good,,1
+F,152,680,39,0,Married,Car,11981,7,Good,,0
+F,143,686,15,0,Married,Car,13958,6,Good,,0
+F,108,757,17,0,Married,Car,6051,1,Very Good,,1
+M,161,402,1,0,Married,Car,76222,1,Very Poor,,1
+M,433,645,2,2,Single,Utility,57901,2,Fair,,0
+M,128,723,15,1,Married,Truck,13575,8,Good,,1
+M,138,597,5,2,Single,Car,37867,7,Fair,,1
+M,246,692,5,3,Single,Utility,13460,1,Good,,1
+M,82,747,16,4,Single,Utility,12709,3,Very Good,,0
+F,217,641,6,0,Single,Truck,11022,6,Fair,,1
+M,344,548,1,3,Single,Car,11667,6,Very Poor,,1
+F,197,729,5,3,Single,Van,14962,5,Good,,0
+M,90,685,13,0,Married,Van,11150,4,Good,,1
+F,277,513,2,1,Married,Car,88498,1,Very Poor,,0
+M,446,616,1,3,Married,Car,24644,4,Fair,,0
+F,80,735,18,1,Married,Car,14254,5,Good,,0
+M,248,451,4,1,Married,Car,10928,4,Very Poor,,0
+F,119,682,20,0,Married,Truck,13160,7,Good,,1
+F,670,678,3,0,Married,Car,18499,8,Good,,1
+F,99,754,20,1,Married,Truck,12470,8,Very Good,,1
+F,106,690,17,2,Married,Car,10158,3,Good,,1
+F,111,691,15,0,Single,Car,7678,4,Good,,1
+F,135,700,22,0,Married,Truck,11916,4,Good,,1
+M,314,677,4,3,Married,Car,13306,2,Good,,1
+F,265,367,2,0,Married,Car,47773,2,Very Poor,,1
+F,612,717,27,0,Married,Car,21028,7,Good,,0
+F,599,681,22,1,Married,Car,13685,6,Good,,0
+M,157,784,19,0,Married,Van,11082,3,Very Good,,1
+F,84,790,16,0,Married,Truck,8696,1,Very Good,,1
+M,98,792,18,0,Married,Van,7055,8,Very Good,,0
+F,87,798,15,0,Single,Car,5498,2,Very Good,,1
+M,403,334,5,2,Married,Car,13552,6,Very Poor,,1
+F,500,627,5,3,Single,Truck,10864,2,Fair,,1
+M,97,731,14,0,Married,Truck,10598,3,Good,,1
+M,108,760,5,0,Married,Utility,14592,2,Very Good,,1
+F,383,321,8,2,Single,Truck,17196,5,Very Poor,,1
+F,123,681,17,2,Married,Car,6808,5,Good,,1
+M,98,763,30,0,Married,Van,14279,8,Very Good,,0
+F,141,677,20,0,Married,Car,11681,5,Good,,1
+F,101,447,7,3,Single,Van,12784,2,Very Poor,,1
+M,405,422,2,2,Married,Car,11093,4,Very Poor,,1
+F,109,690,7,0,Single,Car,11686,2,Good,,1
+F,135,727,25,1,Married,Car,7905,4,Good,,1
+F,662,737,37,1,Married,Truck,15427,2,Good,,1
+F,381,710,16,0,Married,Car,24490,1,Good,,1
+M,168,629,7,0,Married,Truck,11441,7,Fair,,1
+M,85,771,25,0,Married,Van,12861,5,Very Good,,1
+F,402,698,6,3,Single,Truck,10852,1,Good,,0
+F,101,782,20,1,Married,Car,14328,2,Very Good,,1
+M,123,630,2,2,Single,Car,93096,1,Fair,,1
+F,115,718,13,1,Married,Truck,8173,2,Good,,0
+F,133,677,24,3,Married,Truck,14837,3,Good,,0
+M,134,713,12,1,Married,Truck,13534,2,Good,,0
+M,84,774,29,0,Married,Truck,14966,5,Very Good,,0
+M,388,714,1,2,Married,Car,13313,1,Good,,1
+M,116,737,22,1,Single,Utility,5401,4,Good,,0
+F,153,796,39,0,Married,Car,22830,8,Very Good,,1
+F,96,790,20,0,Married,Truck,13685,8,Very Good,,0
+F,173,534,5,2,Single,Van,14087,4,Very Poor,,1
+M,225,610,4,0,Married,Car,11328,5,Fair,,1
+M,136,743,32,4,Single,Utility,10858,1,Very Good,,0
+F,82,675,10,1,Married,Truck,9990,4,Good,,0
+F,367,584,8,3,Single,Truck,23250,3,Fair,,1
+F,388,643,8,2,Single,Truck,10608,4,Fair,,1
+M,159,730,7,0,Married,Van,29546,3,Good,,1
+M,517,631,2,0,Married,Truck,14559,8,Fair,,1
+M,92,799,5,0,Married,Utility,12787,1,Very Good,,1
+M,136,592,4,2,Single,Car,55072,8,Fair,,1
+F,140,706,19,0,Married,Car,6832,1,Good,,1
+M,146,748,30,1,Single,Utility,14564,1,Very Good,,0
+F,128,755,24,0,Married,Car,20839,4,Very Good,,0
+M,642,635,2,0,Married,Van,13346,3,Fair,,1
+M,160,749,14,0,Married,Truck,13970,7,Very Good,,1
+M,301,738,5,0,Married,Utility,94172,3,Good,,0
+M,85,803,14,4,Single,Utility,14936,6,Exceptional,,1
+M,339,680,5,3,Married,Car,13206,8,Good,,0
+M,120,683,22,0,Married,Van,10561,6,Good,,1
+M,228,362,1,3,Single,Utility,10447,4,Very Poor,,1
+M,159,708,9,0,Married,Truck,38546,4,Good,,1
+F,88,764,29,1,Married,Car,24253,3,Very Good,,1
+M,144,387,2,3,Single,Car,13071,5,Very Poor,,1
+M,157,614,2,3,Single,Car,69045,5,Fair,,0
+F,114,689,18,0,Married,Truck,12191,5,Good,,0
+M,314,729,4,2,Married,Car,11172,3,Good,,0
+M,199,716,5,3,Single,Car,10317,6,Good,,1
+M,156,761,23,0,Married,Van,11605,6,Very Good,,1
+F,160,671,35,1,Married,Car,22362,3,Good,,0
+M,160,584,8,3,Married,Truck,98160,7,Fair,,0
+M,120,696,28,1,Married,Van,12596,8,Good,,0
+M,108,686,5,2,Married,Truck,12201,8,Good,,1
+M,150,740,17,1,Married,Van,6584,7,Very Good,,1
+F,414,509,8,2,Single,Truck,11817,6,Very Poor,,1
+M,107,797,18,1,Married,Truck,13955,1,Very Good,,0
+M,434,507,3,2,Married,Car,10808,7,Very Poor,,1
+M,94,725,22,0,Single,Utility,12773,7,Good,,1
+F,144,685,26,1,Married,Car,19978,4,Good,,0
+M,159,578,5,2,Single,Car,14006,2,Very Poor,,1
+M,156,752,17,0,Married,Van,6140,7,Very Good,,0
+M,323,409,4,3,Married,Car,24527,6,Very Poor,,1
+F,433,380,7,2,Single,Truck,19737,8,Very Poor,,1
+M,110,796,18,1,Married,Van,14626,1,Very Good,,1
+F,377,727,5,3,Single,Truck,14739,3,Good,,0
+M,136,715,25,1,Married,Van,6939,1,Good,,1
+F,497,395,6,3,Single,Truck,12988,4,Very Poor,,1
+M,480,611,1,1,Married,Car,86091,5,Fair,,1
+M,138,695,27,1,Married,Truck,13058,6,Good,,0
+F,112,753,22,1,Married,Car,12577,4,Very Good,,1
+M,111,709,34,1,Married,Car,5664,2,Good,,1
+F,159,733,17,1,Married,Car,7205,4,Good,,1
+F,525,692,17,3,Married,Truck,23273,4,Good,,1
+M,107,794,18,0,Married,Van,6238,8,Very Good,,1
+F,84,776,23,0,Married,Truck,6401,2,Very Good,,0
+F,97,687,7,0,Married,Truck,10981,2,Good,,1
+M,115,425,5,2,Married,Truck,11217,4,Very Poor,,1
+F,291,517,2,1,Married,Truck,44432,3,Very Poor,,1
+M,119,794,4,1,Married,Van,9949,7,Very Good,,1
+M,139,687,15,0,Married,Van,12787,3,Good,,1
+M,132,676,3,0,Married,Van,5671,3,Good,,1
+M,83,705,39,1,Single,Utility,13170,6,Good,,0
+M,159,775,13,1,Married,Truck,5146,1,Very Good,,1
+M,134,677,35,1,Married,Utility,10028,3,Good,,1
+M,87,685,12,0,Married,Van,35959,5,Good,,1
+M,275,326,5,3,Single,Car,18023,1,Very Poor,,0
+F,325,605,6,1,Single,Truck,10923,1,Fair,,1
+M,104,610,3,2,Single,Car,79513,4,Fair,,1
+M,140,703,4,3,Single,Car,14747,7,Good,,1
+F,113,726,25,0,Single,Car,5562,4,Good,,0
+F,142,696,10,1,Married,Truck,12856,3,Good,,1
+M,161,612,3,0,Single,Car,13002,1,Fair,,1
+F,656,718,17,1,Married,Car,15340,2,Good,,1
+M,435,680,31,1,Married,Van,9948,2,Good,,0
+F,85,770,21,0,Married,Truck,13747,5,Very Good,,1
+F,407,777,3,0,Married,Car,9421,2,Very Good,,1
+F,82,679,26,1,Married,Car,11031,4,Good,,0
+M,184,609,7,1,Married,Truck,10717,1,Fair,,1
+M,82,751,24,1,Single,Utility,10761,3,Very Good,,1
+M,396,587,1,3,Single,Car,45457,6,Fair,,1
+M,197,682,1,2,Single,Car,10165,1,Good,,0
+M,332,529,2,0,Married,Utility,69819,7,Very Poor,,0
+M,121,675,8,1,Married,Utility,14108,1,Good,,1
+F,120,741,18,0,Single,Car,12612,4,Very Good,,1
+M,90,616,1,3,Single,Car,99355,8,Fair,,0
+F,125,783,10,1,Married,Truck,7660,7,Very Good,,1
+F,278,588,7,1,Single,Truck,11134,8,Fair,,1
+M,86,767,21,1,Married,Truck,11633,5,Very Good,,1
+F,97,678,10,1,Married,Car,67748,1,Good,,1
+M,96,740,19,0,Married,Van,14895,8,Very Good,,1
+F,215,639,5,3,Single,Utility,18834,8,Fair,,0
+F,696,695,13,0,Married,Car,18916,2,Good,,0
+M,135,516,2,3,Single,Car,10072,6,Very Poor,,1
+F,101,735,19,0,Married,Truck,10839,4,Good,,1
+F,304,720,6,0,Married,Car,56853,1,Good,,1
+M,165,309,6,3,Married,Truck,13640,4,Very Poor,,1
+M,135,706,37,0,Married,Van,8447,4,Good,,1
+F,152,702,27,0,Married,Car,6237,3,Good,,0
+M,103,687,22,1,Married,Van,8251,1,Good,,1
+M,92,500,4,2,Single,Car,13289,7,Very Poor,,1
+M,463,483,2,1,Married,Car,13066,6,Very Poor,,1
+F,101,690,12,1,Married,Car,9431,6,Good,,1
+M,190,628,2,2,Single,Car,43479,5,Fair,,1
+M,139,690,29,0,Married,Van,9832,3,Good,,0
+F,106,671,28,0,Married,Car,8973,7,Good,,1
+F,126,694,12,0,Single,Car,40233,7,Good,,1
+M,118,742,8,1,Married,Utility,12435,8,Very Good,,0
+F,342,670,7,3,Single,Utility,10256,3,Good,,1
+F,153,718,6,2,Single,Van,13701,4,Good,,0
+F,122,491,7,2,Single,Van,11772,3,Very Poor,,1
+M,115,763,18,1,Married,Van,11602,4,Very Good,,1
+F,133,676,24,1,Married,Car,6077,5,Good,,0
+M,91,715,24,1,Married,Van,13970,3,Good,,1
+M,200,398,1,3,Single,Car,11995,7,Very Poor,,1
+M,137,596,8,3,Married,Truck,48271,7,Fair,,1
+F,322,715,17,0,Married,Car,14213,5,Good,,0
+F,120,707,24,0,Married,Car,5910,2,Good,,1
+F,468,667,8,3,Single,Truck,11163,4,Fair,,1
+F,107,730,31,2,Married,Car,9770,3,Good,,0
+M,90,737,40,0,Married,Van,5574,7,Good,,1
+F,109,777,10,1,Married,Car,11724,2,Very Good,,0
+M,116,686,16,4,Single,Utility,10830,1,Good,,1
+F,404,616,2,0,Married,Truck,10247,3,Fair,,1
+F,185,709,5,2,Single,Truck,11620,1,Good,,1
+M,94,671,33,1,Married,Van,11669,2,Good,,1
+M,93,822,5,3,Single,Car,16605,2,Exceptional,,1
+M,263,627,1,1,Married,Car,27770,2,Fair,,0
+M,107,649,5,2,Single,Car,19797,4,Fair,,1
+M,338,642,2,3,Married,Car,21746,1,Fair,,1
+M,124,328,11,2,Married,Truck,12351,6,Very Poor,,1
+F,381,613,5,2,Single,Truck,10135,3,Fair,,0
+F,463,698,7,3,Single,Truck,11416,2,Good,,1
+M,186,399,7,3,Married,Truck,14945,6,Very Poor,,1
+F,92,686,20,1,Married,Car,10521,3,Good,,0
+M,124,775,15,1,Married,Van,14333,4,Very Good,,1
+M,154,795,25,0,Married,Van,9060,6,Very Good,,0
+M,416,514,1,2,Married,Car,10579,8,Very Poor,,1
+F,397,635,6,2,Single,Truck,13077,6,Fair,,1
+M,92,758,15,1,Married,Van,10602,4,Very Good,,1
+M,135,789,20,1,Married,Van,12915,5,Very Good,,1
+F,275,719,5,0,Married,Truck,67094,2,Good,,1
+M,452,793,8,4,Single,Utility,12872,8,Very Good,,0
+F,203,533,7,2,Single,Truck,12175,5,Very Poor,,1
+F,87,723,11,0,Married,Truck,55093,7,Good,,1
+M,183,479,3,3,Single,Car,14461,6,Very Poor,,1
+M,106,751,14,0,Married,Truck,13038,5,Very Good,,1
+F,553,626,2,0,Married,Car,13880,5,Fair,,1
+M,197,619,1,2,Single,Car,33777,6,Fair,,1
+F,146,683,5,0,Married,Truck,7896,1,Good,,0
+F,363,502,6,2,Single,Truck,13646,4,Very Poor,,1
+M,382,564,3,3,Married,Car,12135,3,Very Poor,,1
+F,160,709,17,2,Married,Car,9931,8,Good,,0
+F,136,747,12,3,Married,Truck,10638,5,Very Good,,1
+M,382,589,1,3,Married,Car,98603,2,Fair,,0
+F,598,605,1,1,Married,Car,11917,5,Fair,,1
+F,319,668,7,1,Single,Utility,14776,5,Fair,,0
+M,291,661,1,2,Married,Car,72559,6,Fair,,1
+M,148,655,5,2,Single,Car,81375,3,Fair,,1
+F,83,714,16,0,Married,Truck,10863,5,Good,,1
+F,135,681,15,0,Married,Car,10557,3,Good,,1
+M,118,594,4,3,Single,Car,18303,7,Fair,,1
+M,148,688,16,0,Married,Truck,9424,3,Good,,0
+M,244,627,3,0,Single,Utility,10668,1,Fair,,1
+M,91,718,18,1,Married,Van,7138,3,Good,,0
+M,154,793,23,0,Married,Van,10922,3,Very Good,,1
+F,142,729,6,0,Married,Car,58041,4,Good,,1
+F,150,734,5,3,Single,Van,12100,8,Good,,1
+F,146,740,5,3,Married,Truck,5082,7,Very Good,,1
+F,97,685,35,1,Married,Car,5724,6,Good,,1
+F,541,700,33,1,Married,Car,16866,1,Good,,1
+F,344,659,6,0,Single,Truck,13492,4,Fair,,0
+F,656,737,37,2,Married,Car,11963,3,Good,,1
+M,296,390,4,3,Married,Car,14646,6,Very Poor,,0
+F,457,335,6,2,Single,Truck,11821,1,Very Poor,,0
+F,332,665,6,0,Single,Van,11822,8,Fair,,1
+M,127,306,5,2,Single,Car,14091,3,Very Poor,,1
+M,114,778,12,0,Married,Van,11319,6,Very Good,,1
+M,417,428,2,3,Married,Car,14098,3,Very Poor,,1
+M,102,789,14,1,Married,Truck,13987,4,Very Good,,1
+M,165,620,7,1,Married,Truck,12885,7,Fair,,1
+M,162,818,1,3,Single,Car,14370,4,Exceptional,,1
+M,126,752,37,0,Married,Truck,5768,7,Very Good,,1
+M,154,785,13,0,Married,Truck,6544,8,Very Good,,1
+F,552,729,11,0,Married,Car,19523,5,Good,,1
+M,138,843,16,4,Single,Utility,5470,7,Exceptional,,1
+M,160,725,20,1,Married,Truck,8085,8,Good,,1
+F,106,731,17,0,Married,Car,10110,8,Good,,0
+M,127,785,6,4,Single,Utility,13093,7,Very Good,,1
+M,92,693,30,1,Married,Truck,13721,2,Good,,1
+M,154,796,3,1,Married,Van,11427,2,Very Good,,1
+M,130,628,4,2,Single,Car,63877,4,Fair,,1
+M,83,761,24,0,Single,Utility,5017,6,Very Good,,0
+F,344,644,5,1,Single,Truck,14784,5,Fair,,1
+M,88,674,13,1,Married,Truck,80420,1,Good,,0
+M,416,703,3,2,Married,Car,14745,2,Good,,0
+M,105,765,19,0,Married,Utility,5215,7,Very Good,,1
+F,436,545,7,2,Single,Utility,11191,8,Very Poor,,0
+M,122,675,28,1,Married,Utility,7734,8,Good,,0
+M,154,842,11,1,Single,Utility,7981,3,Exceptional,,1
+M,481,596,2,2,Married,Car,90147,5,Fair,,1
+F,289,607,2,3,Single,Truck,89186,1,Fair,,0
+F,118,683,22,0,Married,Car,5556,7,Good,,1
+M,429,620,3,0,Married,Car,14389,4,Fair,,1
+M,190,599,1,2,Single,Car,93102,7,Fair,,1
+M,111,684,14,0,Single,Utility,9497,6,Good,,0
+F,420,693,32,0,Single,Car,13285,7,Good,,1
+M,151,684,34,0,Married,Truck,9711,7,Good,,1
+F,138,682,35,0,Single,Car,11048,7,Good,,1
+M,416,392,3,3,Married,Car,14033,7,Very Poor,,1
+M,110,609,3,2,Single,Car,55880,8,Fair,,1
+M,156,771,25,0,Married,Van,11317,5,Very Good,,1
+M,159,751,32,1,Married,Van,6044,3,Very Good,,1
+M,271,844,1,1,Married,Car,11519,5,Exceptional,,1
+F,83,793,18,0,Married,Car,13793,8,Very Good,,1
+M,154,744,15,0,Single,Utility,11688,7,Very Good,,1
+M,152,705,12,1,Married,Car,9096,1,Good,,1
+M,92,670,13,1,Married,Van,10104,3,Good,,1
+F,492,700,22,1,Married,Car,17781,4,Good,,1
+M,152,747,6,1,Married,Truck,7598,4,Very Good,,1
+F,120,688,20,1,Married,Car,8997,4,Good,,1
+M,117,809,21,0,Single,Utility,11387,1,Exceptional,,1
+F,149,716,19,1,Married,Car,6280,5,Good,,1
+F,137,756,24,1,Single,Car,11064,7,Very Good,,0
+M,93,768,9,0,Married,Utility,11997,7,Very Good,,1
+F,366,307,8,2,Single,Truck,11154,2,Very Poor,,1
+M,159,542,6,3,Married,Truck,14034,5,Very Poor,,1
+M,347,736,4,0,Married,Car,12416,5,Good,,1
+M,89,740,17,0,Single,Utility,14479,2,Very Good,,1
+M,108,741,16,1,Married,Van,9198,4,Very Good,,0
+M,102,675,24,0,Married,Van,5867,6,Good,,1
+F,152,678,23,0,Married,Truck,5871,3,Good,,1
+F,133,754,22,1,Married,Truck,12286,2,Very Good,,0
+F,108,767,19,0,Single,Car,12690,5,Very Good,,1
+F,122,760,24,1,Married,Car,8681,4,Very Good,,0
+M,462,654,1,0,Married,Car,87282,4,Fair,,1
+M,142,740,15,0,Single,Utility,14758,2,Very Good,,1
+M,167,734,7,2,Married,Truck,11264,8,Good,,1
+F,203,386,7,3,Single,Truck,14760,3,Very Poor,,1
+M,148,713,5,2,Married,Truck,10901,7,Good,,1
+M,329,706,1,2,Married,Car,13924,3,Good,,0
+F,327,709,5,2,Single,Truck,14706,8,Good,,0
+M,100,718,16,1,Married,Van,5566,7,Good,,0
+F,514,674,17,1,Married,Car,15326,5,Good,,1
+F,340,653,7,0,Single,Truck,13910,1,Fair,,1
+F,121,681,9,2,Married,Car,84829,7,Good,,1
+F,133,734,20,1,Married,Truck,13553,6,Good,,0
+F,628,733,28,1,Married,Car,20027,1,Good,,1
+M,96,758,24,0,Married,Truck,11715,3,Very Good,,1
+F,472,672,8,2,Single,Truck,14110,6,Good,,1
+F,158,643,6,3,Single,Truck,83279,6,Fair,,0
+M,113,776,24,1,Married,Van,6495,7,Very Good,,0
+M,145,726,5,0,Married,Truck,89207,4,Good,,1
+F,85,799,15,0,Married,Truck,7112,8,Very Good,,1
+M,106,542,5,3,Married,Truck,11357,1,Very Poor,,1
+F,121,694,16,1,Married,Truck,7734,8,Good,,1
+F,110,793,15,0,Married,Car,9318,1,Very Good,,0
+M,99,708,7,1,Married,Van,68130,1,Good,,1
+M,145,731,25,0,Single,Utility,7409,3,Good,,1
+M,305,590,5,0,Married,Car,14814,3,Fair,,1
+M,156,641,5,3,Married,Truck,99158,4,Fair,,1
+F,98,790,25,0,Married,Truck,11811,4,Very Good,,1
+M,151,812,20,1,Single,Utility,13247,4,Exceptional,,0
+M,141,780,26,0,Married,Utility,10914,7,Very Good,,1
+M,117,679,19,1,Married,Truck,11162,4,Good,,1
+F,156,763,16,0,Married,Car,8014,3,Very Good,,1
+F,149,783,23,1,Married,Car,22025,4,Very Good,,0
+F,159,677,15,0,Married,Car,20111,2,Good,,0
+M,342,722,5,1,Married,Van,41370,8,Good,,1
+M,102,711,8,2,Married,Truck,13092,6,Good,,0
+F,316,697,7,3,Single,Truck,11627,6,Good,,1
+M,118,676,16,1,Married,Truck,5145,7,Good,,1
+M,377,719,4,2,Married,Car,13287,4,Good,,0
+M,90,717,13,0,Married,Van,11138,8,Good,,1
+M,304,580,4,1,Married,Car,11355,8,Fair,,0
+M,123,792,23,0,Married,Van,9471,1,Very Good,,1
+F,101,673,12,1,Married,Car,13994,3,Good,,0
+F,120,682,38,0,Married,Truck,8235,6,Good,,1
+F,105,764,19,0,Married,Truck,14886,7,Very Good,,0
+M,159,740,31,1,Married,Utility,7407,3,Very Good,,1
+F,125,693,24,1,Married,Truck,12425,7,Good,,1
+F,130,676,10,0,Married,Car,34424,5,Good,,1
+F,151,732,7,0,Married,Car,58079,4,Good,,1
+M,130,683,15,1,Married,Van,8611,8,Good,,1
+M,148,785,21,1,Married,Van,6021,1,Very Good,,0
+M,84,720,13,1,Married,Van,54043,5,Good,,0
+M,92,669,5,2,Single,Car,84830,3,Fair,,1
+F,104,752,5,0,Married,Car,5811,5,Very Good,,1
+M,338,586,4,0,Single,Car,13435,5,Fair,,0
+M,694,705,34,1,Married,Van,6806,8,Good,,1
+M,104,788,5,1,Married,Utility,12911,2,Very Good,,1
+F,343,724,5,2,Single,Truck,12777,4,Good,,1
+F,416,634,5,2,Single,Truck,13470,6,Fair,,0
+M,178,621,3,0,Single,Car,14792,8,Fair,,1
+F,228,687,8,2,Single,Truck,14013,4,Good,,1
+M,106,724,22,1,Married,Utility,13186,3,Good,,1
+F,656,722,20,0,Married,Car,15202,2,Good,,1
+M,259,516,1,3,Single,Car,11449,4,Very Poor,,1
+F,242,686,6,0,Single,Car,71192,6,Good,,1
+F,286,612,8,1,Single,Truck,10240,5,Fair,,1
+F,149,588,7,2,Single,Van,30592,5,Fair,,1
+M,85,679,35,0,Married,Van,14520,2,Good,,1
+M,175,695,5,0,Married,Utility,53588,6,Good,,0
+F,212,761,13,1,Married,Car,11515,7,Very Good,,1
+M,125,753,6,1,Single,Utility,12862,7,Very Good,,1
+M,101,727,16,0,Married,Truck,5842,2,Good,,1
+F,391,637,2,1,Single,Car,9248,1,Fair,,0
+F,281,626,8,0,Single,Truck,10006,4,Fair,,0
+M,299,567,3,1,Married,Van,92082,3,Very Poor,,1
+M,81,782,14,0,Married,Utility,9712,3,Very Good,,1
+F,89,676,40,0,Married,Car,13219,2,Good,,1
+F,156,675,18,1,Married,Truck,9723,6,Good,,0
+F,159,659,5,2,Single,Van,29350,3,Fair,,1
+F,355,312,7,2,Single,Truck,10401,8,Very Poor,,0
+M,410,664,2,3,Married,Car,86664,7,Fair,,1
+M,149,598,5,3,Single,Car,36701,6,Fair,,0
+F,160,753,12,0,Single,Car,14327,6,Very Good,,0
+M,200,727,4,3,Single,Utility,14717,6,Good,,1
+F,240,707,5,2,Single,Truck,10254,6,Good,,1
+F,87,527,5,2,Married,Car,42991,7,Very Poor,,0
+M,110,713,21,1,Married,Van,6221,8,Good,,1
+F,84,713,12,1,Married,Car,30537,6,Good,,1
+M,186,654,4,1,Single,Car,12888,1,Fair,,1
+M,95,689,20,0,Married,Van,9388,8,Good,,0
+F,97,771,36,1,Married,Car,7313,7,Very Good,,0
+M,276,676,3,2,Single,Utility,10429,3,Good,,1
+F,511,741,5,0,Married,Car,9587,6,Very Good,,1
+M,135,679,12,1,Married,Van,14704,8,Good,,1
+F,315,398,8,3,Single,Truck,12376,2,Very Poor,,1
+M,151,773,20,1,Married,Van,6008,6,Very Good,,1
+M,99,845,12,3,Married,Truck,17907,2,Exceptional,,1
+M,187,662,1,2,Single,Car,89124,6,Fair,,1
+M,105,711,4,3,Single,Car,14481,4,Good,,1
+M,133,753,17,4,Single,Utility,5439,3,Very Good,,1
+M,156,754,7,0,Married,Van,13662,3,Very Good,,0
+F,112,679,15,0,Single,Car,8892,3,Good,,1
+F,129,684,8,1,Married,Car,92978,7,Good,,1
+F,119,793,13,0,Married,Car,5349,5,Very Good,,0
+F,320,720,5,2,Single,Truck,14849,2,Good,,1
+F,314,675,8,2,Married,Car,88625,6,Good,,1
+F,165,726,7,2,Single,Van,14811,5,Good,,1
+F,153,695,10,0,Married,Truck,29961,1,Good,,1
+M,140,305,3,2,Single,Car,12656,8,Very Poor,,1
+F,132,774,22,0,Married,Car,5324,4,Very Good,,1
+M,155,718,21,1,Married,Truck,9080,6,Good,,1
+F,101,741,10,0,Single,Car,5120,7,Very Good,,1
+M,114,712,9,0,Single,Utility,7344,8,Good,,1
+M,148,683,5,2,Single,Car,14820,5,Good,,1
+M,100,687,39,0,Married,Truck,6109,4,Good,,0
+F,88,723,27,0,Married,Truck,12599,5,Good,,0
+M,185,625,5,1,Single,Car,10879,8,Fair,,1
+F,86,437,8,1,Married,Car,70143,2,Very Poor,,1
+M,135,777,24,1,Single,Utility,5274,3,Very Good,,1
+M,82,699,14,1,Single,Utility,12407,2,Good,,1
+M,116,745,20,1,Married,Van,11999,8,Very Good,,1
+M,139,788,15,1,Married,Truck,5736,1,Very Good,,1
+F,205,684,3,1,Married,Car,40758,4,Good,,1
+M,205,585,3,1,Married,Car,12835,6,Fair,,1
+M,80,743,17,0,Married,Van,12308,7,Very Good,,1
+M,112,705,25,0,Married,Van,8789,4,Good,,1
+F,94,785,8,1,Married,Car,20539,4,Very Good,,0
+F,129,687,33,0,Married,Car,11386,8,Good,,1
+M,307,361,2,3,Married,Car,10132,4,Very Poor,,1
+M,417,650,1,1,Married,Car,71310,3,Fair,,1
+F,393,745,3,1,Married,Truck,14574,2,Very Good,,0
+F,343,708,8,3,Single,Truck,13875,4,Good,,0
+F,211,698,8,3,Single,Truck,14611,4,Good,,1
+F,128,671,10,0,Married,Car,6218,5,Good,,0
+M,152,690,14,0,Married,Van,13097,3,Good,,0
+F,426,701,6,3,Single,Truck,10601,6,Good,,1
+F,146,755,12,0,Married,Car,16327,2,Very Good,,1
+F,152,699,23,1,Married,Car,7417,6,Good,,1
+F,134,736,9,0,Married,Car,46810,5,Good,,1
+M,422,313,4,3,Single,Car,14372,2,Very Poor,,0
+M,114,671,17,0,Married,Van,6695,3,Good,,0
+M,129,665,5,3,Single,Car,90434,7,Fair,,0
+M,136,696,2,0,Single,Utility,11872,8,Good,,1
+M,263,502,1,1,Married,Van,88772,8,Very Poor,,1
+F,104,672,17,0,Married,Car,9763,1,Good,,1
+M,147,683,22,1,Married,Utility,8798,2,Good,,1
+F,101,758,32,0,Married,Car,13216,7,Very Good,,0
+F,131,671,7,0,Married,Car,79332,5,Good,,1
+F,158,792,14,0,Married,Car,22038,2,Very Good,,1
+F,86,687,15,1,Single,Car,12093,6,Good,,0
+M,99,319,8,2,Married,Truck,11489,3,Very Poor,,1
+F,242,546,8,2,Single,Truck,12692,1,Very Poor,,1
+F,98,730,17,0,Married,Car,11668,7,Good,,1
+F,316,727,3,2,Married,Car,57793,1,Good,,1
+F,436,430,8,3,Single,Truck,20696,2,Very Poor,,0
+M,119,805,10,1,Single,Utility,9219,5,Exceptional,,1
+F,153,710,27,0,Married,Car,13373,6,Good,,1
+M,455,527,1,1,Married,Car,11640,7,Very Poor,,1
+M,417,785,3,0,Married,Van,9050,4,Very Good,,1
+M,299,737,2,1,Married,Car,13613,4,Good,,1
+M,324,678,1,2,Single,Car,18232,3,Good,,1
+F,163,738,8,3,Single,Van,11129,1,Good,,1
+M,380,695,1,2,Married,Car,10444,6,Good,,1
+M,108,794,6,1,Married,Utility,6408,4,Very Good,,0
+M,83,760,11,0,Married,Van,12324,3,Very Good,,1
+M,97,810,6,1,Single,Utility,11107,4,Exceptional,,1
+M,83,685,13,0,Married,Van,10030,4,Good,,0
+M,89,681,21,1,Married,Van,11693,6,Good,,1
+M,100,758,36,0,Single,Utility,9126,8,Very Good,,1
+M,113,778,20,1,Married,Van,14431,2,Very Good,,0
+F,83,799,4,1,Married,Car,15635,2,Very Good,,1
+M,286,580,2,3,Single,Car,63724,2,Fair,,1
+M,423,690,3,2,Married,Car,10345,3,Good,,1
+F,284,545,1,1,Married,Car,87637,6,Very Poor,,1
+M,84,680,14,0,Married,Van,37737,2,Good,,1
+F,95,749,10,0,Married,Car,6458,3,Very Good,,1
+F,185,597,6,1,Single,Van,10987,2,Fair,,1
+M,136,644,8,2,Married,Truck,30056,6,Fair,,1
+M,195,675,5,1,Married,Van,44120,8,Good,,0
+F,372,713,7,2,Single,Truck,14762,8,Good,,1
+M,158,694,20,1,Married,Utility,9998,7,Good,,0
+F,89,574,7,1,Married,Truck,50172,4,Very Poor,,0
+M,304,615,5,0,Married,Car,14028,4,Fair,,1
+M,109,742,36,0,Married,Truck,7680,1,Very Good,,1
+F,159,684,7,1,Married,Truck,7877,2,Good,,1
+M,133,715,16,0,Married,Utility,12093,3,Good,,0
+F,139,732,33,0,Married,Car,13698,7,Good,,1
+F,95,687,40,1,Married,Truck,9852,7,Good,,1
+M,126,710,29,1,Married,Truck,9063,4,Good,,1
+M,130,742,10,1,Married,Van,11162,8,Very Good,,0
+F,133,754,14,0,Married,Car,8393,6,Very Good,,0
+M,89,756,23,1,Married,Van,5576,7,Very Good,,0
+M,152,690,18,0,Married,Van,14842,1,Good,,1
+M,131,804,2,3,Single,Car,11322,4,Exceptional,,1
+M,124,676,14,0,Married,Van,13115,1,Good,,1
+F,151,721,37,0,Married,Car,5020,2,Good,,1
+M,188,378,1,2,Single,Car,14521,6,Very Poor,,1
+F,113,773,20,0,Married,Truck,18613,6,Very Good,,1
+F,90,698,8,1,Single,Car,61805,4,Good,,1
+F,99,685,22,0,Married,Truck,5531,1,Good,,1
+F,123,706,17,0,Married,Truck,12224,6,Good,,1
+F,490,580,6,2,Single,Truck,14492,3,Fair,,1
+F,113,738,20,0,Married,Car,9311,2,Good,,0
+F,125,732,13,0,Married,Truck,7164,8,Good,,0
+F,415,403,8,2,Single,Truck,10366,5,Very Poor,,0
+F,263,616,6,3,Single,Truck,19233,3,Fair,,1
+F,99,775,20,0,Married,Car,19495,5,Very Good,,1
+M,134,687,15,0,Married,Van,8840,2,Good,,1
+M,145,770,6,1,Married,Van,13831,2,Very Good,,0
+M,157,786,4,0,Married,Truck,14564,2,Very Good,,1
+M,106,679,3,1,Married,Van,11879,3,Good,,1
+F,120,694,19,1,Single,Car,10138,1,Good,,1
+F,103,777,23,0,Married,Car,16388,7,Very Good,,1
+M,106,787,3,0,Married,Utility,13154,5,Very Good,,1
+M,108,480,2,2,Single,Car,10503,4,Very Poor,,1
+M,158,689,28,1,Married,Van,9219,3,Good,,0
+M,361,656,1,0,Married,Truck,6075,1,Fair,,1
+F,105,684,20,3,Married,Truck,11608,1,Good,,0
+M,147,781,33,1,Single,Utility,7730,6,Very Good,,1
+M,146,773,17,0,Married,Van,5841,2,Very Good,,0
+M,496,735,2,3,Married,Car,14577,5,Good,,1
+F,132,759,15,1,Married,Car,11057,6,Very Good,,1
+M,84,711,10,0,Married,Utility,45755,4,Good,,0
+F,129,772,16,1,Married,Car,6862,7,Very Good,,1
+F,303,640,5,1,Single,Truck,14358,2,Fair,,0
+F,121,714,12,0,Single,Car,11845,5,Good,,0
+F,83,771,21,1,Married,Truck,9427,3,Very Good,,1
+M,442,455,2,1,Married,Car,14515,4,Very Poor,,1
+F,589,700,9,1,Married,Car,18819,7,Good,,0
+F,119,769,8,0,Married,Truck,7604,3,Very Good,,0
+M,272,520,1,1,Married,Van,35941,1,Very Poor,,1
+M,169,711,7,2,Married,Truck,13319,7,Good,,1
+F,203,705,6,2,Single,Truck,12633,8,Good,,1
+F,478,692,5,2,Single,Truck,10052,7,Good,,1
+M,113,791,6,0,Single,Utility,6708,8,Very Good,,1
+F,89,729,32,0,Married,Car,5631,4,Good,,1
+F,107,776,20,0,Married,Car,13533,3,Very Good,,1
+M,374,666,1,2,Married,Car,17493,1,Fair,,1
+M,354,396,2,3,Married,Car,17024,3,Very Poor,,1
+M,286,844,4,2,Single,Utility,19253,6,Exceptional,,1
+M,158,523,5,2,Single,Car,14597,5,Very Poor,,1
+M,425,645,5,0,Married,Car,13741,2,Fair,,1
+M,126,758,21,1,Single,Utility,13667,8,Very Good,,0
+F,123,672,28,0,Married,Truck,9203,8,Good,,1
+M,104,719,15,0,Married,Truck,11509,5,Good,,1
+M,145,680,32,0,Married,Van,5363,5,Good,,0
+M,138,795,17,0,Married,Van,13564,6,Very Good,,1
+F,372,638,5,2,Single,Truck,12530,2,Fair,,0
+M,149,745,24,0,Married,Van,5215,5,Very Good,,0
+M,109,816,14,4,Single,Utility,9477,5,Exceptional,,1
+F,325,679,6,2,Single,Van,12317,1,Good,,1
+M,133,758,21,0,Married,Van,9076,6,Very Good,,1
+F,88,787,21,1,Married,Car,11622,8,Very Good,,1
+M,295,592,5,0,Married,Car,13795,1,Fair,,0
+M,118,748,3,0,Married,Van,13878,6,Very Good,,1
+M,142,846,9,0,Single,Utility,12318,2,Exceptional,,1
+M,115,785,3,1,Married,Truck,14948,6,Very Good,,1
+M,153,767,20,1,Single,Utility,12564,6,Very Good,,0
+M,168,584,6,3,Married,Truck,22615,8,Fair,,1
+M,80,677,18,0,Married,Van,5191,4,Good,,1
+F,144,731,37,0,Married,Truck,9446,4,Good,,0
+M,83,718,38,1,Married,Car,10725,1,Good,,1
+M,80,792,27,1,Married,Van,14689,4,Very Good,,1
+M,240,725,4,0,Married,Van,87024,3,Good,,0
+M,101,709,17,1,Married,Van,14987,7,Good,,1
+F,538,708,35,3,Married,Truck,7807,3,Good,,1
+F,482,593,8,2,Single,Truck,14639,8,Fair,,1
+M,96,736,12,1,Married,Truck,7572,4,Good,,1
+M,176,627,5,1,Single,Car,12670,8,Fair,,1
+M,472,549,5,3,Single,Car,18263,2,Very Poor,,1
+M,213,669,4,0,Single,Car,13839,7,Fair,,1
+M,121,479,8,3,Married,Truck,10547,7,Very Poor,,1
+F,345,697,6,1,Married,Car,39902,5,Good,,1
+M,109,789,15,0,Married,Truck,15000,8,Very Good,,1
+F,139,674,17,0,Married,Car,8826,2,Good,,1
+M,265,595,5,1,Single,Utility,14253,1,Fair,,1
+M,123,679,5,3,Single,Car,13835,7,Good,,1
+F,103,754,34,0,Married,Car,11973,7,Very Good,,0
+M,97,726,12,0,Married,Truck,13759,3,Good,,0
+M,145,756,37,0,Married,Truck,10227,5,Very Good,,1
+M,199,679,5,3,Single,Car,11043,4,Good,,1
+M,216,739,7,0,Married,Truck,28282,5,Good,,1
+M,122,680,18,0,Married,Van,8986,6,Good,,1
+M,97,727,17,1,Married,Van,13869,6,Good,,0
+F,122,728,25,1,Married,Truck,13268,1,Good,,1
+F,109,734,20,0,Married,Car,13476,1,Good,,1
+M,120,729,14,0,Married,Van,7181,6,Good,,0
+F,210,733,5,3,Single,Truck,14161,3,Good,,1
+M,91,721,17,1,Single,Utility,8049,6,Good,,1
+M,85,784,18,0,Single,Utility,8451,4,Very Good,,1
+F,109,793,21,1,Married,Car,17206,1,Very Good,,1
+F,375,568,7,3,Single,Truck,12804,8,Very Poor,,0
+F,134,790,9,0,Married,Car,8707,5,Very Good,,1
+M,110,764,16,1,Married,Van,14333,1,Very Good,,1
+M,417,624,1,3,Married,Car,65965,2,Fair,,1
+M,422,583,3,1,Married,Car,13723,5,Fair,,1
+M,136,675,15,1,Married,Van,8472,5,Good,,1
+M,157,679,34,0,Single,Utility,8423,7,Good,,0
+M,340,582,1,2,Married,Car,36918,6,Fair,,0
+M,231,832,1,2,Married,Car,11554,7,Exceptional,,1
+M,262,682,3,3,Married,Car,14173,8,Good,,0
+M,306,647,3,0,Married,Car,11479,2,Fair,,1
+F,149,788,21,0,Married,Car,11117,5,Very Good,,0
+F,311,811,5,2,Single,Utility,17847,3,Exceptional,,0
+F,111,764,23,0,Married,Car,18180,2,Very Good,,1
+F,104,777,11,1,Married,Car,12068,2,Very Good,,1
+M,129,787,19,0,Married,Truck,11805,2,Very Good,,1
+M,99,759,17,0,Single,Utility,11261,8,Very Good,,0
+F,142,764,37,1,Married,Truck,6138,4,Very Good,,1
+F,380,781,5,0,Married,Car,7478,3,Very Good,,0
+F,441,468,5,3,Single,Truck,17233,1,Very Poor,,1
+M,155,778,12,1,Married,Van,12330,5,Very Good,,1
+F,149,740,15,0,Married,Car,9224,1,Very Good,,1
+F,88,672,20,0,Married,Truck,9513,8,Good,,0
+M,410,674,3,3,Single,Utility,14425,6,Good,,0
+M,194,428,6,2,Married,Truck,13598,1,Very Poor,,1
+F,132,651,5,2,Single,Van,82023,6,Fair,,0
+M,107,799,5,1,Married,Truck,9607,4,Very Good,,0
+F,149,747,35,0,Married,Car,10100,8,Very Good,,0
+M,137,701,20,0,Married,Van,13175,6,Good,,1
+M,135,677,12,0,Married,Utility,11088,6,Good,,1
+F,196,419,5,2,Single,Van,14770,4,Very Poor,,1
+F,86,760,11,1,Married,Truck,10810,2,Very Good,,1
+F,426,617,7,3,Single,Truck,13400,3,Fair,,1
+M,96,838,14,2,Married,Truck,24812,6,Exceptional,,1
+F,130,559,7,3,Single,Van,11209,3,Very Poor,,1
+F,93,759,33,0,Married,Car,14753,6,Very Good,,0
+M,109,569,3,3,Single,Car,14075,3,Very Poor,,1
+F,139,702,23,1,Married,Truck,14815,1,Good,,1
+M,298,821,2,2,Married,Car,14484,6,Exceptional,,1
+F,135,676,16,1,Married,Truck,6333,5,Good,,1
+M,142,778,7,1,Married,Truck,12200,4,Very Good,,1
+F,130,766,16,0,Single,Car,7800,2,Very Good,,0
+M,85,751,31,1,Single,Utility,11739,1,Very Good,,1
+M,193,598,9,3,Married,Truck,10107,6,Fair,,1
+F,200,409,7,3,Single,Truck,10363,5,Very Poor,,1
+F,220,583,7,1,Single,Truck,12512,6,Fair,,1
+F,269,644,6,3,Single,Truck,19569,3,Fair,,1
+F,434,580,7,2,Single,Utility,18997,6,Fair,,1
+M,178,701,1,2,Single,Car,14813,4,Good,,1
+F,131,792,13,1,Married,Truck,10514,3,Very Good,,1
+F,226,604,8,0,Single,Utility,10814,2,Fair,,1
+M,395,716,1,3,Married,Car,13132,7,Good,,0
+M,121,751,14,0,Single,Utility,12721,1,Very Good,,1
+F,90,735,18,0,Single,Car,7087,8,Good,,1
+M,113,776,29,1,Married,Van,10500,2,Very Good,,1
+F,114,788,23,0,Married,Car,7006,4,Very Good,,1
+M,100,757,32,1,Single,Utility,12678,8,Very Good,,1
+F,159,698,15,0,Married,Car,8306,6,Good,,1
+F,81,673,36,0,Married,Truck,12965,5,Good,,1
+M,188,720,5,2,Single,Car,11514,8,Good,,1
+F,155,752,17,0,Married,Car,5579,3,Very Good,,1
+M,92,755,7,1,Married,Utility,14767,2,Very Good,,1
+M,103,687,8,1,Married,Van,92392,8,Good,,1
+F,327,703,8,3,Single,Utility,12313,7,Good,,1
+M,99,731,33,1,Married,Van,12296,4,Good,,1
+F,412,656,13,3,Single,Truck,13962,3,Fair,,0
+F,266,580,6,2,Single,Truck,18355,2,Fair,,0
+M,115,835,16,0,Single,Utility,10003,3,Exceptional,,0
+M,187,668,4,3,Single,Car,15546,8,Fair,,1
+F,109,721,15,2,Married,Car,6041,1,Good,,1
+M,157,686,10,1,Married,Van,12957,6,Good,,0
+M,151,745,17,0,Married,Utility,9038,2,Very Good,,1
+F,116,702,20,2,Married,Car,5070,2,Good,,1
+M,456,648,3,0,Married,Car,12139,8,Fair,,1
+F,328,639,7,1,Single,Truck,12235,3,Fair,,1
+F,130,680,16,1,Married,Car,10929,8,Good,,0
+M,96,755,12,1,Married,Van,5388,3,Very Good,,1
+M,85,564,3,1,Married,Utility,77605,3,Very Poor,,1
+F,436,366,6,2,Single,Truck,11627,3,Very Poor,,1
+F,623,673,14,0,Married,Car,15743,7,Good,,1
+M,134,787,17,1,Married,Van,11304,7,Very Good,,1
+M,102,804,15,0,Single,Utility,7218,1,Exceptional,,1
+F,542,726,20,0,Married,Car,18340,5,Good,,1
+F,104,694,11,1,Married,Car,14644,2,Good,,1
+F,252,641,5,0,Single,Truck,14958,4,Fair,,1
+M,93,763,20,1,Married,Van,9178,5,Very Good,,1
+F,140,672,15,1,Single,Car,7451,3,Good,,1
+M,136,706,34,0,Single,Utility,11336,1,Good,,0
+M,150,708,1,3,Single,Car,24377,5,Good,,0
+M,127,774,33,0,Married,Van,11864,2,Very Good,,0
+F,80,709,39,0,Married,Car,14984,2,Good,,1
+M,96,787,20,1,Married,Van,8916,2,Very Good,,0
+M,476,664,3,3,Single,Car,21724,6,Fair,,1
+F,91,686,17,0,Married,Car,16257,4,Good,,0
+F,122,748,20,0,Married,Truck,6219,2,Very Good,,1
+M,91,685,11,1,Married,Van,11714,3,Good,,1
+F,147,690,17,1,Married,Truck,23449,1,Good,,1
+M,98,749,26,1,Married,Utility,14076,2,Very Good,,1
+M,426,606,3,1,Married,Car,12053,6,Fair,,0
+M,686,613,1,0,Married,Van,12328,3,Fair,,1
+F,283,670,7,3,Single,Truck,10047,6,Good,,1
+M,147,750,22,0,Married,Truck,10327,3,Very Good,,1
+F,89,688,27,1,Married,Car,11798,3,Good,,0
+F,108,679,20,0,Married,Truck,5855,8,Good,,1
+F,417,701,8,0,Married,Car,19275,5,Good,,1
+F,84,797,16,1,Married,Truck,14097,4,Very Good,,1
+F,111,702,23,0,Married,Truck,11756,1,Good,,1
+M,137,753,3,0,Married,Van,7302,2,Very Good,,1
+M,85,696,19,0,Married,Van,8856,2,Good,,1
+M,110,696,33,1,Married,Van,14431,3,Good,,0
+M,157,644,4,3,Single,Car,70269,4,Fair,,1
+M,92,751,4,1,Married,Truck,13132,7,Very Good,,0
+F,108,746,18,1,Single,Car,8650,5,Very Good,,0
+F,183,816,7,3,Single,Truck,22454,7,Exceptional,,1
+M,489,708,1,2,Married,Car,12702,2,Good,,1
+M,216,675,5,1,Married,Van,53903,2,Good,,1
+M,141,712,37,1,Married,Van,6518,1,Good,,1
+M,117,677,13,0,Single,Utility,13596,4,Good,,0
+M,217,332,1,2,Single,Car,10077,5,Very Poor,,1
+M,117,764,37,1,Single,Utility,13308,4,Very Good,,0
+F,91,761,12,0,Married,Car,12371,8,Very Good,,1
+M,87,837,23,0,Single,Utility,14655,5,Exceptional,,1
+F,456,699,3,0,Married,Car,18707,7,Good,,1
+F,287,709,8,3,Single,Truck,14966,4,Good,,1
+F,322,537,2,1,Married,Truck,80222,8,Very Poor,,1
+F,138,735,24,1,Married,Car,5001,3,Good,,1
+M,109,682,36,0,Married,Van,12055,5,Good,,0
+M,107,678,19,1,Married,Van,11227,6,Good,,0
+M,442,679,3,2,Married,Car,14509,3,Good,,1
+F,100,786,15,0,Married,Truck,14481,1,Very Good,,1
+M,136,689,12,0,Married,Van,5797,3,Good,,1
+M,136,697,6,4,Married,Truck,13305,5,Good,,1
+F,115,682,19,1,Single,Car,12085,8,Good,,0
+F,142,732,38,0,Married,Car,8276,4,Good,,1
+F,89,725,18,1,Married,Truck,10710,4,Good,,1
+M,370,628,2,2,Single,Car,77995,1,Fair,,0
+M,132,675,25,0,Married,Truck,13405,8,Good,,1
+F,149,770,3,1,Single,Car,10720,6,Very Good,,1
+M,99,689,14,4,Single,Utility,13597,7,Good,,1
+F,88,702,33,1,Married,Truck,11187,5,Good,,1
+M,116,763,16,1,Married,Van,10991,8,Very Good,,1
+M,100,788,5,1,Married,Truck,8756,1,Very Good,,1
+F,140,739,10,1,Married,Car,44305,3,Good,,0
+F,150,585,6,2,Single,Van,26108,6,Fair,,1
+F,117,722,10,0,Single,Car,9397,6,Good,,1
+F,152,747,15,0,Single,Car,10148,6,Very Good,,1
+M,123,797,25,0,Married,Utility,13051,4,Very Good,,1
+M,144,685,23,0,Married,Van,12298,2,Good,,1
+M,129,708,27,1,Single,Utility,11290,2,Good,,0
+M,153,688,14,1,Married,Van,80327,2,Good,,0
+F,122,747,20,1,Married,Car,13992,8,Very Good,,1
+F,211,643,5,0,Single,Utility,13686,2,Fair,,1
+M,102,766,13,1,Married,Van,8235,1,Very Good,,1
+F,81,737,29,1,Married,Truck,7922,3,Good,,1
+M,485,670,3,2,Married,Car,12911,6,Good,,0
+M,115,717,17,1,Married,Truck,10299,8,Good,,1
+F,343,684,7,3,Single,Truck,11720,8,Good,,1
+M,163,730,8,2,Married,Truck,11136,8,Good,,0
+F,101,462,7,2,Single,Van,16978,5,Very Poor,,1
+M,133,734,35,0,Married,Van,14899,6,Good,,1
+F,141,758,12,0,Married,Car,13977,7,Very Good,,1
+M,152,796,3,4,Single,Utility,12529,3,Very Good,,1
+F,80,686,25,0,Married,Car,14780,5,Good,,1
+M,90,670,16,1,Married,Van,11511,8,Good,,1
+M,210,806,3,2,Single,Utility,15242,2,Exceptional,,1
+F,121,597,7,2,Single,Truck,73203,8,Fair,,1
+M,136,785,36,0,Single,Utility,6485,1,Very Good,,1
+M,110,680,38,0,Married,Van,12428,2,Good,,1
+M,124,798,17,0,Married,Truck,14977,2,Very Good,,1
+F,394,706,8,3,Single,Truck,13997,5,Good,,1
+M,437,623,2,1,Married,Truck,14681,1,Fair,,0
+M,146,717,8,0,Married,Utility,43172,6,Good,,0
+M,232,355,1,3,Married,Car,10151,2,Very Poor,,1
+M,107,684,27,0,Single,Utility,13733,4,Good,,0
+F,442,680,23,1,Married,Truck,15512,1,Good,,0
+M,145,590,4,3,Single,Car,33102,3,Fair,,0
+M,275,631,1,3,Single,Car,82071,8,Fair,,0
+F,253,719,8,2,Single,Truck,10113,5,Good,,1
+M,93,680,7,0,Married,Utility,6944,7,Good,,0
+M,148,753,7,0,Married,Truck,14082,7,Very Good,,1
+M,97,667,5,2,Single,Car,97462,8,Fair,,1
+F,110,789,2,1,Married,Truck,20677,6,Very Good,,1
+F,123,773,10,1,Married,Car,23532,5,Very Good,,1
+F,113,674,30,1,Married,Truck,6460,3,Good,,1
+M,98,786,12,0,Married,Car,7490,2,Very Good,,1
+F,603,594,2,0,Married,Truck,6574,1,Fair,,1
+M,87,692,23,1,Married,Van,7782,4,Good,,1
+M,125,791,15,1,Single,Utility,8646,8,Very Good,,1
+M,155,764,13,1,Married,Van,10734,8,Very Good,,1
+M,82,798,31,1,Married,Van,12256,7,Very Good,,0
+M,97,811,23,1,Single,Utility,8727,8,Exceptional,,0
+F,103,777,20,1,Married,Truck,10235,7,Very Good,,0
+M,184,706,3,2,Single,Car,12378,1,Good,,1
+M,104,708,23,1,Married,Van,10147,3,Good,,1
+F,152,704,17,1,Married,Truck,5201,8,Good,,1
+M,114,650,3,2,Single,Car,37556,8,Fair,,1
+F,182,660,8,0,Single,Van,13485,2,Fair,,1
+M,135,755,26,1,Married,Van,12330,1,Very Good,,1
+F,111,774,20,1,Married,Truck,11029,1,Very Good,,1
+F,651,687,40,0,Married,Truck,23734,8,Good,,1
+F,105,628,6,3,Single,Truck,67366,4,Fair,,0
+M,160,811,27,4,Single,Utility,7422,4,Exceptional,,1
+F,112,719,25,1,Married,Car,13912,4,Good,,0
+M,368,784,3,1,Single,Utility,10232,7,Very Good,,1
+M,81,712,28,1,Married,Truck,14295,2,Good,,0
+M,121,673,5,0,Married,Truck,5420,5,Good,,1
+M,136,740,15,1,Married,Van,13757,6,Very Good,,0
+F,134,555,8,3,Single,Van,11202,5,Very Poor,,0
+M,115,713,20,0,Married,Van,9803,5,Good,,0
+F,266,622,8,0,Single,Truck,13296,4,Fair,,0
+M,688,602,1,1,Married,Utility,9026,8,Fair,,0
+M,206,730,4,2,Married,Car,10840,3,Good,,1
+M,274,668,3,3,Single,Car,22443,8,Fair,,1
+M,96,722,16,1,Married,Van,12390,3,Good,,1
+F,649,682,19,1,Married,Car,24384,4,Good,,1
+F,390,643,5,3,Single,Truck,12261,8,Fair,,1
+M,113,796,5,1,Married,Van,5749,8,Very Good,,0
+F,109,788,33,3,Married,Truck,20685,7,Very Good,,1
+F,103,746,35,1,Married,Car,7334,3,Very Good,,1
+F,688,672,39,1,Married,Car,23657,3,Good,,1
+F,284,698,5,3,Single,Truck,11530,1,Good,,0
+M,133,764,22,1,Married,Van,9069,3,Very Good,,1
+M,104,697,3,3,Single,Car,13059,4,Good,,1
+M,80,684,30,1,Married,Van,11809,7,Good,,1
+F,318,732,3,0,Married,Car,74574,3,Good,,1
+M,99,735,15,1,Married,Van,10447,7,Good,,1
+M,421,667,1,1,Married,Car,24126,5,Fair,,1
+M,113,689,12,0,Married,Van,14756,4,Good,,1
+M,157,756,26,1,Married,Van,5794,2,Very Good,,1
+M,88,700,39,0,Married,Truck,10015,8,Good,,0
+M,1005,728,1,2,Single,Car,11644,4,Good,,0
+M,88,716,13,1,Married,Utility,49857,8,Good,,1
+M,384,696,35,1,Married,Van,8202,5,Good,,1
+M,279,309,4,2,Single,Car,14427,1,Very Poor,,1
+M,205,359,5,2,Married,Car,13493,1,Very Poor,,1
+M,139,558,5,2,Married,Truck,12354,7,Very Poor,,1
+F,165,587,5,0,Single,Truck,12437,8,Fair,,1
+M,154,794,25,0,Single,Utility,7909,6,Very Good,,1
+F,417,715,8,1,Married,Car,18425,2,Good,,0
+M,113,786,18,0,Single,Utility,8649,1,Very Good,,0
+M,134,672,14,1,Single,Utility,13370,3,Good,,1
+F,434,615,8,2,Single,Van,11280,3,Fair,,1
+M,114,813,17,4,Single,Utility,5110,2,Exceptional,,1
+F,90,703,30,0,Married,Truck,5334,8,Good,,1
+M,148,688,10,1,Single,Utility,14581,3,Good,,1
+F,234,487,1,1,Married,Car,29594,4,Very Poor,,0
+F,167,644,5,1,Single,Truck,13758,5,Fair,,1
+F,99,688,24,1,Single,Car,10579,1,Good,,1
+M,140,749,20,1,Married,Van,14266,8,Very Good,,0
+F,169,642,8,1,Single,Van,13751,2,Fair,,1
+F,104,764,15,0,Married,Truck,11337,1,Very Good,,1
+M,100,794,27,1,Single,Utility,12610,3,Very Good,,1
+F,492,680,7,3,Single,Truck,13688,8,Good,,1
+M,444,722,5,2,Married,Car,14136,2,Good,,1
+M,122,628,1,2,Single,Car,55198,3,Fair,,0
+F,96,706,9,0,Married,Truck,48963,5,Good,,1
+M,154,819,21,1,Single,Utility,12208,5,Exceptional,,0
+F,93,762,19,1,Married,Car,22244,1,Very Good,,1
+M,127,758,19,0,Married,Van,12557,5,Very Good,,0
+M,132,689,6,0,Single,Utility,6711,6,Good,,1
+F,155,787,10,0,Married,Truck,14671,4,Very Good,,1
+F,412,716,5,3,Single,Truck,10670,8,Good,,1
+M,122,737,9,1,Married,Truck,80344,8,Good,,1
+F,516,716,33,0,Married,Car,7670,6,Good,,0
+F,431,385,7,3,Single,Truck,10265,6,Very Poor,,1
+M,641,610,1,0,Married,Van,5831,8,Fair,,1
+M,122,740,25,0,Married,Truck,8432,3,Very Good,,1
+M,336,664,3,0,Married,Car,11361,6,Fair,,1
+M,394,304,4,3,Single,Utility,11764,4,Very Poor,,1
+M,117,690,25,4,Single,Utility,12067,4,Good,,1
+F,130,714,19,1,Married,Car,5194,1,Good,,1
+F,124,776,19,0,Married,Truck,14252,1,Very Good,,1
+F,154,676,10,1,Single,Car,12113,6,Good,,1
+M,81,775,18,1,Married,Van,5169,1,Very Good,,1
+F,300,687,8,2,Single,Truck,12568,7,Good,,1
+M,88,522,3,0,Married,Truck,38798,7,Very Poor,,0
+M,104,670,20,1,Married,Truck,7362,6,Good,,1
+M,93,695,37,1,Married,Van,7307,1,Good,,1
+F,120,686,12,1,Married,Car,14047,1,Good,,1
+M,141,738,24,1,Single,Utility,7778,1,Good,,1
+F,131,755,20,1,Married,Truck,8757,2,Very Good,,1
+M,98,695,12,0,Married,Van,7491,3,Good,,1
+M,108,733,25,0,Married,Van,9641,5,Good,,1
+M,136,789,5,1,Married,Van,13545,8,Very Good,,1
+F,95,723,12,1,Married,Car,46599,3,Good,,1
+F,283,706,8,3,Single,Truck,14814,3,Good,,1
+M,445,358,1,2,Married,Car,13276,2,Very Poor,,1
+F,170,467,6,2,Single,Van,11630,4,Very Poor,,1
+F,345,537,5,2,Single,Truck,10354,2,Very Poor,,0
+F,140,678,22,3,Married,Truck,5192,4,Good,,1
+F,220,589,8,1,Single,Truck,11265,3,Fair,,1
+M,132,764,26,0,Married,Utility,9013,6,Very Good,,1
+M,84,757,23,0,Married,Truck,9746,7,Very Good,,0
+M,401,632,2,2,Married,Car,22424,1,Fair,,0
+M,166,430,7,2,Married,Truck,12333,1,Very Poor,,1
+M,93,633,5,2,Single,Car,44739,8,Fair,,1
+M,131,714,22,0,Married,Van,9276,5,Good,,1
+F,330,726,29,1,Married,Car,10402,6,Good,,1
+F,97,799,2,0,Married,Car,23150,2,Very Good,,1
+F,113,690,10,0,Married,Car,24862,5,Good,,0
+M,287,707,5,3,Married,Car,14364,2,Good,,1
+F,324,704,3,0,Married,Car,25130,2,Good,,1
+F,115,784,12,1,Married,Car,20654,6,Very Good,,0
+M,87,674,31,1,Married,Van,10748,5,Good,,1
+F,141,778,12,0,Married,Truck,9632,3,Very Good,,1
+F,94,688,19,0,Married,Car,17207,5,Good,,1
+F,638,707,10,3,Married,Truck,21280,8,Good,,1
+F,103,369,5,3,Single,Van,15771,4,Very Poor,,1
+M,142,763,10,0,Married,Truck,8977,5,Very Good,,1
+F,155,750,18,0,Married,Truck,21745,2,Very Good,,0
+F,127,742,20,0,Married,Car,12962,6,Very Good,,0
+F,99,650,5,3,Single,Van,95042,6,Fair,,1
+F,139,673,20,1,Married,Truck,9231,6,Good,,1
+F,188,672,8,0,Married,Car,55984,8,Good,,1
+F,136,747,10,1,Married,Car,14754,8,Very Good,,0
+F,83,737,22,1,Married,Truck,8099,3,Good,,1
+F,142,790,6,1,Married,Car,22699,1,Very Good,,0
+F,157,343,7,3,Single,Van,14072,1,Very Poor,,0
+F,632,698,11,1,Married,Car,22162,3,Good,,1
+M,289,671,7,0,Married,Utility,52951,1,Good,,1
+F,674,723,21,0,Married,Car,23908,1,Good,,1
+F,89,772,31,0,Married,Truck,9322,8,Very Good,,1
+M,486,843,2,2,Married,Car,17877,8,Exceptional,,1
+M,93,742,38,0,Married,Van,7893,4,Very Good,,1
+M,158,684,10,0,Single,Utility,8594,2,Good,,0
+M,142,757,8,0,Married,Truck,5811,8,Very Good,,0
+M,160,714,23,1,Married,Van,14949,3,Good,,1
+F,121,795,23,1,Married,Car,17028,5,Very Good,,1
+F,501,710,1,1,Married,Car,19737,6,Good,,1
+F,114,779,7,0,Single,Car,8092,7,Very Good,,1
+M,130,757,5,0,Single,Utility,9179,7,Very Good,,0
+F,132,749,28,0,Married,Car,7533,7,Very Good,,1
+M,108,699,31,0,Married,Van,5938,1,Good,,1
+M,158,699,27,1,Married,Van,14054,5,Good,,1
+M,154,698,13,0,Married,Van,11485,4,Good,,1
+F,194,593,6,1,Single,Van,11273,1,Fair,,0
+F,93,381,8,3,Single,Van,13829,7,Very Poor,,1
+M,138,778,24,0,Married,Van,10716,2,Very Good,,0
+F,296,647,6,1,Single,Truck,14700,7,Fair,,0
+F,91,542,6,3,Single,Van,14871,8,Very Poor,,1
+F,99,791,5,0,Married,Truck,11419,8,Very Good,,1
+M,188,706,2,2,Single,Car,11063,5,Good,,0
+M,145,791,8,1,Married,Van,6776,3,Very Good,,1
+M,89,798,18,1,Married,Van,13926,2,Very Good,,1
+F,146,683,29,1,Single,Car,13848,6,Good,,1
+M,128,685,28,0,Married,Van,6138,3,Good,,0
+F,122,762,10,0,Married,Car,9743,7,Very Good,,0
+M,107,792,9,0,Married,Truck,14412,6,Very Good,,1
+F,159,675,10,3,Married,Truck,22230,3,Good,,0
+F,423,604,7,2,Single,Truck,13297,1,Fair,,1
+F,91,673,11,1,Married,Car,12244,4,Good,,1
+M,126,721,14,1,Married,Van,6613,1,Good,,1
+M,140,711,14,1,Single,Utility,7416,6,Good,,0
+M,148,685,12,0,Married,Van,9946,6,Good,,1
+M,124,634,2,2,Single,Car,26725,2,Fair,,0
+F,125,777,28,0,Married,Car,6539,4,Very Good,,0
+M,100,681,28,1,Married,Van,6519,8,Good,,1
+F,293,473,6,2,Single,Truck,14730,8,Very Poor,,1
+M,169,699,3,3,Single,Car,13543,5,Good,,1
+M,128,705,16,0,Married,Van,10661,2,Good,,1
+M,336,335,3,3,Married,Car,14348,3,Very Poor,,0
+M,405,683,2,3,Married,Car,10505,3,Good,,1
+F,145,758,18,1,Married,Car,10633,6,Very Good,,1
+M,289,723,6,1,Married,Van,40764,3,Good,,1
+F,121,688,10,0,Married,Car,26968,6,Good,,1
+M,130,783,34,1,Married,Van,6673,3,Very Good,,1
+M,156,705,5,2,Single,Car,10065,1,Good,,1
+M,418,613,5,0,Single,Car,10822,3,Fair,,1
+M,90,772,18,1,Married,Van,9593,5,Very Good,,1
+F,477,410,7,3,Single,Truck,12421,8,Very Poor,,0
+M,380,668,1,2,Married,Car,30431,2,Fair,,0
+F,452,636,8,2,Single,Utility,13234,1,Fair,,1
+F,136,728,22,0,Single,Car,6443,8,Good,,1
+F,155,795,10,0,Married,Truck,7659,6,Very Good,,1
+F,155,672,5,0,Married,Car,21136,8,Good,,0
+M,486,603,3,1,Married,Car,13052,4,Fair,,1
+F,180,334,7,3,Single,Van,13401,2,Very Poor,,1
+F,120,772,18,1,Married,Truck,12081,4,Very Good,,0
+F,605,716,5,0,Married,Car,23143,4,Good,,1
+M,111,816,7,0,Single,Utility,8585,2,Exceptional,,1
+F,121,605,6,2,Single,Van,86761,1,Fair,,1
+M,143,723,3,2,Single,Car,11607,1,Good,,1
+F,248,620,7,1,Single,Truck,11371,1,Fair,,1
+M,470,704,5,2,Single,Car,14429,1,Good,,1
+F,457,680,6,2,Single,Utility,13988,2,Good,,0
+M,137,716,24,1,Married,Truck,14947,3,Good,,1
+F,238,636,5,1,Single,Truck,11343,2,Fair,,1
+M,408,817,3,3,Married,Car,16593,2,Exceptional,,1
+F,93,795,13,1,Married,Car,5491,7,Very Good,,1
+M,200,805,5,2,Single,Car,21478,6,Exceptional,,1
+F,130,798,19,0,Married,Car,24802,8,Very Good,,1
+F,136,762,6,0,Married,Car,14990,5,Very Good,,1
+M,294,670,6,0,Married,Utility,25036,5,Good,,1
+F,90,729,19,0,Married,Car,14209,2,Good,,1
+M,108,688,5,0,Married,Truck,10730,1,Good,,0
+F,101,775,4,0,Married,Car,10552,7,Very Good,,0
+F,471,721,19,0,Married,Car,19452,7,Good,,1
+M,447,727,2,2,Married,Car,11730,5,Good,,0
+M,152,637,7,4,Married,Truck,80760,2,Fair,,1
+F,160,378,5,2,Single,Van,10232,2,Very Poor,,1
+M,123,780,16,0,Married,Utility,5535,3,Very Good,,1
+F,199,654,5,0,Single,Van,14503,3,Fair,,0
+F,84,728,17,0,Married,Car,8025,6,Good,,0
+F,269,700,8,3,Single,Truck,11981,2,Good,,0
+F,97,727,20,0,Married,Car,11295,2,Good,,1
+M,463,546,4,2,Single,Car,13260,5,Very Poor,,0
+F,98,745,24,0,Married,Car,20591,6,Very Good,,1
+M,118,784,13,1,Married,Van,9933,2,Very Good,,1
+F,137,778,14,1,Married,Car,13595,8,Very Good,,0
+F,117,686,7,0,Married,Truck,13448,7,Good,,0
+M,114,713,16,0,Married,Utility,8172,4,Good,,0
+F,110,662,6,3,Single,Truck,61135,6,Fair,,1
+M,144,821,1,4,Single,Utility,10438,5,Exceptional,,1
+M,159,699,24,0,Married,Truck,10729,4,Good,,1
+F,88,756,38,0,Married,Car,7097,3,Very Good,,1
+M,122,678,28,1,Married,Truck,6383,8,Good,,1
+M,136,797,10,0,Married,Van,13550,3,Very Good,,1
+F,146,758,3,1,Married,Car,7822,4,Very Good,,0
+M,432,689,2,0,Married,Car,10245,5,Good,,1
+F,85,704,14,1,Married,Truck,60649,8,Good,,1
+M,184,726,3,3,Single,Car,12396,8,Good,,0
+M,152,757,5,1,Single,Utility,14706,2,Very Good,,0
+M,421,648,2,2,Single,Car,18511,6,Fair,,1
+M,264,729,5,3,Married,Car,11257,6,Good,,1
+M,272,710,7,0,Married,Utility,64070,4,Good,,1
+F,131,703,17,1,Married,Car,9584,1,Good,,1
+F,148,797,26,1,Married,Car,13854,4,Very Good,,0
+M,166,714,8,1,Married,Van,44057,1,Good,,1
+M,94,780,19,0,Married,Truck,8617,3,Very Good,,1
+F,273,472,8,2,Single,Truck,10501,3,Very Poor,,1
+M,371,413,3,0,Married,Car,14306,6,Very Poor,,1
+M,226,623,3,0,Single,Car,14532,2,Fair,,1
+M,101,752,24,1,Married,Van,10544,4,Very Good,,1
+M,100,685,14,0,Married,Truck,5454,6,Good,,1
+M,475,670,1,3,Married,Car,14266,8,Good,,1
+F,148,798,14,1,Married,Car,14558,3,Very Good,,1
+M,471,432,4,3,Single,Utility,11496,8,Very Poor,,1
+M,149,711,4,2,Single,Car,14054,7,Good,,0
+F,88,705,10,0,Married,Truck,84472,8,Good,,1
+M,192,653,11,2,Married,Truck,13794,1,Fair,,1
+F,404,635,7,2,Single,Truck,14877,3,Fair,,1
+M,126,361,1,3,Single,Car,10587,2,Very Poor,,0
+M,140,539,8,4,Married,Truck,12170,7,Very Poor,,1
+F,107,754,10,0,Single,Car,8897,8,Very Good,,1
+F,262,626,8,0,Single,Truck,14866,3,Fair,,1
+M,276,635,5,1,Married,Car,13604,2,Fair,,1
+M,147,805,22,0,Single,Utility,6926,3,Exceptional,,0
+M,85,770,22,1,Married,Truck,6325,6,Very Good,,0
+M,93,770,19,1,Married,Utility,9936,2,Very Good,,1
+F,248,566,5,3,Single,Truck,10290,5,Very Poor,,1
+F,122,718,28,1,Married,Truck,14095,6,Good,,0
+F,141,745,24,0,Married,Car,13654,5,Very Good,,1
+M,602,649,1,1,Married,Truck,11768,7,Fair,,1
+M,137,702,25,1,Married,Van,8879,3,Good,,1
+M,374,696,2,3,Married,Car,23561,4,Good,,1
+M,189,448,3,3,Single,Car,11961,5,Very Poor,,1
+M,147,675,30,0,Married,Truck,12550,3,Good,,1
+M,500,719,5,3,Single,Utility,14587,1,Good,,1
+F,125,764,10,0,Married,Truck,10633,2,Very Good,,0
+F,337,491,7,2,Single,Truck,13628,3,Very Poor,,1
+F,118,754,21,1,Married,Car,10554,8,Very Good,,1
+F,96,693,17,2,Married,Car,5788,7,Good,,1
+M,334,548,1,1,Married,Van,71449,8,Very Poor,,1
+M,147,789,5,0,Married,Utility,9561,3,Very Good,,0
+F,154,613,6,3,Single,Van,40777,1,Fair,,0
+M,235,665,5,1,Single,Utility,12003,2,Fair,,1
+F,447,679,4,3,Married,Truck,16657,2,Good,,1
+M,98,684,5,2,Single,Car,10198,2,Good,,1
+F,104,700,22,0,Married,Truck,10161,7,Good,,0
+M,168,641,7,4,Married,Truck,10112,6,Fair,,1
+M,149,721,13,0,Married,Van,8134,6,Good,,0
+F,106,695,10,0,Married,Car,6398,3,Good,,0
+F,122,773,20,1,Married,Car,10994,2,Very Good,,1
+M,114,766,30,1,Married,Van,6812,2,Very Good,,1
+M,137,717,15,4,Single,Utility,13940,7,Good,,1
+M,142,674,16,0,Married,Van,9670,3,Good,,1
+F,111,785,10,0,Married,Truck,12193,7,Very Good,,1
+F,114,688,16,1,Married,Car,12566,6,Good,,1
+M,131,716,24,1,Married,Van,8845,6,Good,,1
+M,152,774,22,1,Married,Truck,14348,1,Very Good,,0
+F,80,703,21,0,Married,Truck,14540,2,Good,,1
+F,84,798,17,0,Married,Car,20737,2,Very Good,,1
+M,102,795,16,0,Married,Utility,6352,1,Very Good,,1
+F,122,686,18,0,Married,Truck,13794,4,Good,,1
+M,181,580,4,1,Single,Car,13571,3,Fair,,1
+F,94,679,18,1,Married,Car,9628,1,Good,,0
+F,126,769,16,0,Married,Truck,6440,1,Very Good,,1
+M,159,663,1,3,Single,Car,48478,5,Fair,,0
+F,93,760,29,0,Married,Truck,8534,5,Very Good,,0
+M,494,587,1,1,Married,Van,14603,8,Fair,,1
+M,158,678,23,0,Married,Truck,12076,2,Good,,1
+M,141,759,12,1,Married,Truck,6560,8,Very Good,,0
+F,81,744,20,1,Married,Truck,9700,8,Very Good,,0
+M,136,759,33,1,Married,Van,10332,6,Very Good,,1
+F,139,765,24,0,Married,Truck,12991,3,Very Good,,1
+F,104,792,17,0,Married,Car,9787,3,Very Good,,1
+M,275,691,1,1,Married,Car,10701,3,Good,,0
+F,356,717,16,1,Married,Car,21943,7,Good,,0
+M,87,796,17,0,Married,Van,13715,8,Very Good,,0
+M,267,561,1,2,Married,Car,12906,1,Very Poor,,0
+F,86,705,34,1,Married,Car,5985,7,Good,,0
+F,655,615,2,0,Married,Truck,12949,8,Fair,,1
+F,132,707,17,1,Married,Car,8392,8,Good,,1
+M,127,677,14,0,Married,Truck,10700,2,Good,,1
+M,80,693,21,1,Married,Utility,7221,3,Good,,1
+F,122,709,20,0,Married,Car,5878,8,Good,,0
+M,83,686,26,0,Married,Utility,9986,5,Good,,1
+F,301,648,5,2,Single,Truck,23464,2,Fair,,1
+M,104,698,7,2,Married,Truck,14467,1,Good,,1
+M,83,685,25,1,Married,Van,5180,1,Good,,1
+F,107,696,11,0,Married,Car,9936,2,Good,,1
+F,128,672,17,1,Married,Car,13943,8,Good,,1
+M,259,821,4,3,Married,Car,15796,8,Exceptional,,1
+M,83,680,35,1,Married,Van,7135,1,Good,,1
+M,134,799,36,1,Married,Van,6687,7,Very Good,,1
+F,380,695,28,3,Married,Truck,16284,2,Good,,0
+M,86,675,8,0,Married,Van,9064,2,Good,,1
+F,329,714,5,3,Single,Truck,10477,4,Good,,1
+F,137,694,18,1,Married,Car,9695,3,Good,,0
+F,470,726,18,1,Married,Car,20619,4,Good,,1
+F,81,672,17,1,Married,Truck,9259,1,Good,,1
+F,102,743,16,1,Married,Car,13106,8,Very Good,,1
+F,598,670,11,0,Married,Car,15697,5,Good,,1
+F,112,700,25,1,Married,Truck,12920,8,Good,,1
+M,371,659,2,2,Married,Car,46715,2,Fair,,1
+F,329,556,8,3,Single,Utility,14446,1,Very Poor,,1
+M,82,764,16,0,Single,Utility,7646,5,Very Good,,1
+F,142,738,40,0,Single,Car,12829,6,Good,,1
+M,87,734,24,1,Married,Van,7599,3,Good,,1
+F,108,731,15,1,Married,Car,10254,3,Good,,1
+M,120,687,1,0,Married,Van,7849,1,Good,,0
+M,136,787,2,0,Single,Utility,13237,6,Very Good,,0
+F,143,680,18,1,Single,Car,7819,8,Good,,1
+M,83,687,39,1,Married,Truck,8844,2,Good,,1
+F,118,674,9,1,Single,Car,12064,4,Good,,1
+M,472,335,1,2,Married,Car,14490,6,Very Poor,,1
+M,282,331,5,2,Single,Car,11521,2,Very Poor,,0
+M,113,673,39,0,Married,Truck,12033,7,Good,,1
+F,130,770,24,1,Married,Truck,10137,1,Very Good,,0
+F,149,682,23,1,Married,Truck,5031,8,Good,,1
+M,95,693,15,0,Married,Truck,6914,7,Good,,1
+F,112,734,5,1,Married,Truck,84995,4,Good,,1
+M,99,699,21,1,Married,Van,10851,6,Good,,1
+M,128,681,15,1,Married,Van,14383,8,Good,,1
+F,121,765,15,0,Married,Truck,9150,2,Very Good,,0
+M,163,830,5,3,Single,Car,24599,6,Exceptional,,1
+M,155,702,14,0,Married,Truck,10126,5,Good,,1
+M,123,823,5,3,Married,Truck,19965,8,Exceptional,,1
+M,131,567,5,2,Married,Truck,13843,4,Very Poor,,1
+M,150,437,4,3,Single,Car,12596,7,Very Poor,,0
+F,425,477,8,2,Single,Truck,12274,5,Very Poor,,1
+F,150,770,16,1,Married,Car,20156,6,Very Good,,1
+F,145,731,24,0,Married,Car,14006,8,Good,,0
+F,281,431,7,2,Single,Truck,11969,5,Very Poor,,1
+M,97,707,3,3,Single,Car,12391,8,Good,,0
+F,86,734,32,1,Married,Truck,5734,1,Good,,0
+M,386,322,2,2,Single,Car,10339,2,Very Poor,,1
+M,113,511,3,2,Single,Car,11661,6,Very Poor,,1
+M,154,757,6,1,Married,Van,6780,4,Very Good,,0
+M,297,686,7,1,Married,Truck,48938,6,Good,,1
+F,157,768,20,0,Married,Truck,5676,2,Very Good,,1
+F,238,731,8,3,Single,Truck,10795,2,Good,,1
+F,134,766,25,1,Married,Car,22691,4,Very Good,,1
+F,125,745,12,1,Married,Car,21862,7,Very Good,,0
+M,114,698,9,1,Married,Van,49305,2,Good,,0
+F,155,422,8,3,Single,Van,12378,2,Very Poor,,0
+M,135,706,24,1,Single,Utility,9213,6,Good,,1
+F,399,583,1,2,Married,Car,6015,8,Fair,,1
+F,338,536,6,3,Single,Truck,22162,4,Very Poor,,1
+F,199,422,1,1,Married,Car,33178,3,Very Poor,,1
+M,145,788,25,0,Married,Van,8584,8,Very Good,,0
+F,698,738,8,1,Married,Car,20838,1,Good,,0
+M,148,567,8,3,Married,Truck,14506,5,Very Poor,,0
+M,388,724,35,1,Married,Truck,10320,5,Good,,1
+F,80,715,19,0,Single,Car,13903,6,Good,,1
+F,130,678,18,1,Married,Car,13447,6,Good,,0
+M,287,736,1,3,Married,Car,13987,6,Good,,0
+M,102,735,26,1,Single,Utility,7915,4,Good,,1
+F,90,690,24,0,Married,Truck,9404,1,Good,,1
+M,141,711,18,2,Married,Car,13749,3,Good,,1
+M,127,683,20,1,Married,Truck,6438,8,Good,,1
+M,289,567,3,1,Married,Car,13439,7,Very Poor,,1
+M,412,680,1,2,Married,Car,10759,6,Good,,0
+F,100,711,16,1,Married,Truck,10525,8,Good,,1
+M,144,749,16,1,Married,Utility,8717,1,Very Good,,1
+M,114,408,2,2,Single,Car,13701,3,Very Poor,,1
+F,112,709,18,0,Married,Truck,6604,8,Good,,0
+M,153,678,27,1,Single,Utility,7907,4,Good,,1
+M,305,667,5,0,Single,Car,11636,6,Fair,,1
+F,122,693,18,1,Single,Car,8277,7,Good,,1
+F,415,445,6,3,Single,Truck,10706,1,Very Poor,,1
+F,698,704,34,0,Married,Car,19554,8,Good,,0
+F,577,737,39,0,Single,Car,6141,4,Good,,0
+M,155,797,21,0,Married,Van,12599,5,Very Good,,1
+M,415,620,1,2,Married,Car,77709,7,Fair,,1
+M,160,767,21,1,Married,Car,12701,1,Very Good,,1
+F,109,702,34,0,Married,Truck,5701,2,Good,,1
+F,144,778,5,1,Married,Truck,10896,4,Very Good,,1
+M,108,765,19,1,Married,Utility,9110,7,Very Good,,1
+M,206,712,1,3,Married,Car,12428,3,Good,,1
+M,140,731,6,2,Married,Truck,10267,8,Good,,1
+M,317,622,3,0,Married,Car,10039,2,Fair,,1
+M,156,780,19,1,Married,Van,5493,1,Very Good,,0
+M,128,501,13,2,Married,Truck,14873,7,Very Poor,,0
+F,122,765,7,1,Married,Truck,11061,4,Very Good,,1
+M,352,654,1,3,Married,Car,51240,2,Fair,,1
+M,148,580,5,3,Married,Truck,16736,7,Fair,,0
+F,112,791,12,0,Married,Truck,14324,6,Very Good,,1
+M,150,696,22,1,Single,Utility,6496,6,Good,,0
+M,93,731,13,0,Married,Truck,12093,7,Good,,1
+F,458,677,8,1,Married,Car,65662,1,Good,,1
+M,192,696,7,1,Married,Van,28419,6,Good,,0
+M,153,682,3,3,Single,Car,11930,5,Good,,1
+F,122,683,17,0,Married,Car,5014,8,Good,,0
+M,282,300,3,2,Single,Utility,11021,4,Very Poor,,0
+M,147,684,11,1,Single,Utility,12403,2,Good,,0
+M,147,716,24,4,Single,Utility,13792,1,Good,,1
+M,114,788,18,0,Married,Van,10448,6,Very Good,,1
+M,114,715,5,0,Married,Truck,79050,5,Good,,1
+F,137,719,16,0,Single,Car,9571,5,Good,,1
+F,147,754,37,0,Married,Car,8776,7,Very Good,,1
+M,226,377,1,2,Single,Car,10529,4,Very Poor,,1
+F,118,706,25,1,Married,Car,7060,4,Good,,1
+F,135,752,28,0,Single,Car,9320,1,Very Good,,1
+M,168,447,1,3,Single,Car,12130,5,Very Poor,,1
+M,155,709,10,1,Married,Van,88829,8,Good,,1
+F,95,700,23,1,Married,Car,14867,2,Good,,1
+M,126,789,23,0,Married,Van,13461,6,Very Good,,1
+F,105,777,14,1,Married,Truck,13315,4,Very Good,,0
+F,158,678,9,0,Married,Truck,6976,1,Good,,1
+M,141,668,3,2,Single,Car,59543,4,Fair,,0
+M,119,738,15,1,Married,Truck,14347,8,Good,,1
+F,176,627,6,3,Single,Van,24387,6,Fair,,1
+F,497,417,6,2,Single,Truck,12331,8,Very Poor,,1
+F,142,690,12,1,Married,Car,14839,5,Good,,1
+F,470,842,6,3,Single,Truck,15169,4,Exceptional,,1
+M,90,674,24,0,Married,Van,8994,6,Good,,1
+F,275,705,8,1,Married,Car,54675,3,Good,,1
+F,277,710,4,0,Married,Car,39438,7,Good,,0
+F,97,796,17,1,Married,Truck,17623,6,Very Good,,1
+F,146,703,15,1,Married,Car,5978,3,Good,,1
+M,162,661,2,2,Single,Car,40496,5,Fair,,1
+M,93,666,5,2,Married,Truck,62334,4,Fair,,1
+F,479,698,14,3,Married,Truck,24697,3,Good,,1
+F,99,744,9,0,Single,Car,8091,4,Very Good,,1
+M,126,681,21,0,Married,Van,6566,8,Good,,0
+F,87,784,23,0,Married,Car,10351,1,Very Good,,1
+F,277,590,5,3,Single,Truck,23283,1,Fair,,1
+M,146,717,9,1,Single,Utility,12664,8,Good,,1
+M,123,675,16,1,Married,Van,12464,8,Good,,1
+F,100,706,17,1,Married,Car,5043,5,Good,,0
+M,155,793,34,1,Married,Van,12810,2,Very Good,,1
+F,120,687,11,3,Married,Truck,13979,5,Good,,1
+F,273,673,7,3,Single,Truck,11778,6,Good,,0
+F,459,633,5,3,Single,Truck,10036,7,Fair,,0
+M,150,730,23,0,Married,Van,14556,4,Good,,1
+F,411,657,6,3,Single,Truck,16821,4,Fair,,1
+M,263,438,4,3,Married,Car,12730,6,Very Poor,,1
+M,104,732,8,0,Married,Van,79632,7,Good,,1
+M,403,595,3,1,Married,Car,12835,8,Fair,,1
+F,229,521,6,3,Single,Truck,12576,2,Very Poor,,1
+M,195,639,8,1,Married,Truck,12399,2,Fair,,1
+F,97,799,23,3,Married,Truck,15691,7,Very Good,,1
+F,89,705,37,1,Married,Car,10106,6,Good,,1
+M,151,850,9,0,Single,Utility,11518,4,Exceptional,,0
+M,92,753,40,4,Single,Utility,5280,4,Very Good,,1
+M,82,690,13,0,Married,Van,89218,5,Good,,0
+F,152,679,18,0,Married,Truck,12654,6,Good,,1
+F,155,780,31,0,Married,Car,9669,7,Very Good,,1
+M,153,749,17,0,Married,Truck,10648,5,Very Good,,0
+F,167,677,13,0,Married,Car,8989,8,Good,,0
+F,128,726,5,0,Married,Truck,84757,2,Good,,0
+F,130,712,13,1,Single,Car,6519,1,Good,,1
+F,145,758,38,1,Married,Truck,19972,3,Very Good,,1
+M,92,756,16,1,Married,Utility,11164,4,Very Good,,1
+F,151,705,21,0,Married,Car,7355,7,Good,,1
+M,131,690,10,1,Married,Truck,12600,1,Good,,0
+F,248,672,5,3,Single,Truck,10738,3,Good,,1
+F,122,675,12,1,Married,Car,10518,6,Good,,0
+M,267,690,4,2,Married,Car,10730,1,Good,,1
+M,121,687,27,0,Married,Van,13927,4,Good,,1
+M,318,675,5,1,Married,Utility,87762,4,Good,,1
+F,127,745,15,0,Married,Car,14309,8,Very Good,,1
+M,96,658,2,2,Single,Car,20163,8,Fair,,1
+M,146,773,3,1,Single,Utility,5197,3,Very Good,,1
+M,277,724,7,1,Married,Utility,38544,8,Good,,1
+M,109,432,7,3,Married,Truck,20761,4,Very Poor,,0
+F,94,690,33,0,Married,Car,12259,1,Good,,0
+M,146,717,29,0,Married,Truck,13633,2,Good,,1
+F,620,680,6,1,Married,Car,58996,4,Good,,1
+M,100,680,33,1,Married,Truck,9851,6,Good,,0
+M,163,371,2,3,Single,Car,10747,3,Very Poor,,1
+F,134,782,10,1,Married,Truck,13826,7,Very Good,,1
+F,466,599,7,2,Single,Truck,14053,1,Fair,,1
+F,120,791,12,0,Single,Car,14494,5,Very Good,,0
+M,103,717,32,1,Married,Van,11785,1,Good,,1
+F,131,781,5,0,Single,Car,9546,4,Very Good,,0
+M,164,524,5,2,Single,Car,13380,4,Very Poor,,1
+M,103,739,3,1,Married,Utility,31143,6,Good,,1
+M,336,657,1,2,Married,Car,36256,7,Fair,,0
+M,137,576,4,2,Single,Car,12184,5,Very Poor,,1
+F,443,486,5,2,Single,Truck,14839,6,Very Poor,,1
+F,297,379,7,3,Single,Truck,10240,1,Very Poor,,1
+M,241,518,1,3,Married,Car,14878,2,Very Poor,,1
+F,89,748,16,0,Married,Truck,9510,1,Very Good,,0
+M,498,496,5,2,Married,Car,11182,4,Very Poor,,0
+M,147,763,15,1,Married,Van,8639,8,Very Good,,1
+M,134,705,14,1,Married,Van,14037,1,Good,,0
+F,82,684,18,3,Married,Truck,12616,1,Good,,1
+M,140,727,32,1,Married,Van,6468,5,Good,,0
+M,100,789,24,0,Single,Utility,13477,3,Very Good,,0
+M,96,786,10,1,Single,Utility,6724,3,Very Good,,1
+M,140,767,7,1,Single,Utility,5171,4,Very Good,,1
+F,156,765,39,1,Married,Car,12621,5,Very Good,,1
+F,497,531,6,2,Single,Truck,10999,5,Very Poor,,0
+M,83,688,18,0,Married,Van,8690,4,Good,,0
+M,154,771,19,1,Married,Van,7971,8,Very Good,,0
+M,487,653,4,2,Married,Car,20186,3,Fair,,1
+F,155,692,18,0,Single,Car,8991,5,Good,,1
+M,130,665,4,3,Single,Car,41891,4,Fair,,0
+M,118,685,6,1,Married,Van,9347,6,Good,,1
+F,111,785,4,0,Married,Car,19129,2,Very Good,,1
+F,111,781,29,1,Married,Car,10368,7,Very Good,,1
+M,101,632,8,2,Married,Truck,35921,7,Fair,,1
+F,132,769,20,0,Married,Car,19332,4,Very Good,,1
+F,97,754,29,0,Single,Car,5019,4,Very Good,,0
+F,143,751,3,1,Married,Car,19377,6,Very Good,,0
+M,130,677,23,0,Married,Utility,5388,1,Good,,1
+F,143,760,18,0,Married,Car,9264,4,Very Good,,1
+F,111,694,18,1,Married,Truck,7440,3,Good,,1
+M,149,713,12,1,Married,Truck,14293,2,Good,,0
+F,91,726,25,0,Married,Car,9263,5,Good,,1
+F,90,690,29,0,Married,Car,14353,5,Good,,1
+F,541,718,21,1,Married,Truck,24717,2,Good,,1
+M,108,733,12,2,Married,Truck,11052,8,Good,,1
+F,443,692,24,1,Married,Car,16471,7,Good,,0
+M,112,712,18,1,Married,Truck,13824,4,Good,,1
+M,127,672,13,1,Married,Van,9762,7,Good,,1
+M,168,367,5,2,Married,Truck,14621,5,Very Poor,,1
+M,103,715,24,1,Married,Truck,14522,5,Good,,1
+F,298,450,8,3,Single,Truck,13678,5,Very Poor,,1
+M,136,787,16,0,Married,Van,6822,6,Very Good,,1
+F,104,793,30,1,Married,Car,22379,2,Very Good,,1
+F,146,755,13,0,Married,Truck,15124,3,Very Good,,1
+M,90,763,30,1,Married,Truck,8749,1,Very Good,,1
+M,157,757,16,0,Married,Van,11762,8,Very Good,,1
+M,129,378,4,2,Single,Car,12545,1,Very Poor,,1
+F,101,692,25,1,Married,Truck,7362,3,Good,,0
+F,485,680,17,1,Married,Car,23978,2,Good,,1
+F,108,611,5,2,Single,Van,23750,7,Fair,,1
+M,162,454,4,2,Single,Car,12430,4,Very Poor,,1
+M,194,595,5,0,Single,Car,13838,5,Fair,,1
+M,153,776,21,0,Married,Van,10879,3,Very Good,,0
+F,112,738,16,1,Single,Car,14427,2,Good,,0
+F,173,609,7,3,Single,Van,15189,6,Fair,,1
+M,124,738,14,1,Married,Van,13122,1,Good,,1
+M,160,721,20,0,Married,Truck,10445,4,Good,,1
+M,248,417,2,2,Single,Car,11685,2,Very Poor,,1
+F,119,736,15,1,Single,Car,11014,4,Good,,1
+F,89,733,24,1,Married,Truck,13752,3,Good,,1
+M,90,784,13,1,Married,Van,14770,7,Very Good,,1
+M,115,746,21,1,Married,Van,12715,7,Very Good,,0
+F,128,671,25,0,Married,Car,21670,2,Good,,1
+F,335,441,7,2,Single,Utility,13738,2,Very Poor,,1
+F,586,703,3,0,Married,Car,20975,7,Good,,1
+M,136,790,8,0,Married,Van,14760,1,Very Good,,1
+F,92,737,9,1,Married,Car,49106,8,Good,,1
+F,430,721,10,3,Married,Truck,17065,8,Good,,1
+M,467,643,1,0,Married,Car,67783,1,Fair,,0
+F,440,715,8,3,Single,Truck,11969,1,Good,,0
+F,89,774,11,1,Married,Truck,7581,4,Very Good,,1
+F,190,714,27,0,Married,Car,11352,6,Good,,1
+M,86,545,5,1,Married,Van,48370,8,Very Poor,,0
+M,135,593,3,3,Single,Car,90897,6,Fair,,0
+M,127,684,9,0,Married,Van,47343,1,Good,,1
+M,86,696,25,0,Married,Van,5635,4,Good,,1
+M,111,712,24,1,Married,Van,9503,5,Good,,1
+M,115,694,17,0,Married,Van,13343,4,Good,,0
+F,493,725,37,0,Married,Truck,12805,3,Good,,0
+F,156,726,12,0,Married,Car,13574,3,Good,,0
+M,215,692,5,0,Married,Van,87185,3,Good,,1
+F,85,561,8,0,Married,Car,68639,7,Very Poor,,1
+F,298,612,7,1,Single,Truck,12329,8,Fair,,1
+M,129,683,35,0,Married,Utility,7677,1,Good,,1
+M,88,715,22,0,Married,Utility,14069,7,Good,,1
+F,314,656,5,0,Single,Truck,10263,8,Fair,,0
+M,152,685,18,0,Married,Van,5975,4,Good,,0
+F,143,799,2,1,Married,Car,20909,3,Very Good,,1
+M,148,698,14,0,Single,Utility,9879,1,Good,,1
+M,100,506,7,3,Married,Truck,17990,2,Very Poor,,1
+F,85,677,21,3,Married,Truck,6458,6,Good,,1
+F,107,724,33,0,Married,Car,10155,7,Good,,1
+M,247,704,7,1,Married,Van,38673,4,Good,,1
+M,148,594,5,3,Single,Car,74255,3,Fair,,0
+M,132,446,10,3,Married,Truck,15635,5,Very Poor,,1
+F,125,737,17,0,Single,Car,10134,7,Good,,1
+M,98,691,14,0,Married,Van,5757,7,Good,,1
+F,482,633,7,3,Single,Truck,13654,8,Fair,,0
+F,84,763,9,1,Married,Truck,5384,6,Very Good,,1
+M,122,701,18,1,Married,Van,14262,3,Good,,0
+F,146,762,11,3,Married,Truck,11671,3,Very Good,,1
+M,438,775,8,0,Married,Truck,12269,1,Very Good,,1
+F,157,714,21,2,Married,Car,9019,7,Good,,1
+F,131,711,28,1,Married,Car,10515,6,Good,,1
+F,346,831,6,3,Single,Truck,21764,5,Exceptional,,1
+F,145,776,18,1,Married,Car,21760,7,Very Good,,1
+F,321,732,7,3,Single,Truck,11953,7,Good,,0
+M,116,781,20,0,Married,Van,7604,2,Very Good,,0
+F,146,572,6,3,Single,Truck,12486,3,Very Poor,,1
+M,159,712,12,0,Married,Truck,9909,1,Good,,1
+F,80,770,27,1,Single,Car,8841,1,Very Good,,1
+F,305,664,8,0,Single,Truck,11313,1,Fair,,1
+M,267,622,4,2,Married,Car,15968,1,Fair,,1
+F,451,722,7,2,Single,Truck,11222,6,Good,,0
+F,415,848,5,3,Single,Truck,24039,8,Exceptional,,1
+F,469,488,8,2,Single,Truck,16904,2,Very Poor,,1
+M,116,761,38,0,Married,Utility,9928,3,Very Good,,1
+M,96,792,25,1,Single,Utility,12467,6,Very Good,,1
+F,150,693,30,0,Married,Car,12216,2,Good,,1
+M,110,777,4,0,Married,Car,7459,8,Very Good,,0
+F,116,709,27,1,Married,Truck,14602,7,Good,,1
+M,122,754,7,0,Married,Truck,10743,3,Very Good,,0
+F,388,691,20,1,Married,Car,16167,1,Good,,1
+M,173,578,4,3,Single,Car,17557,5,Very Poor,,1
+M,155,796,24,1,Married,Van,13696,1,Very Good,,1
+F,414,599,6,3,Single,Utility,12203,3,Fair,,1
+M,122,782,25,0,Married,Van,10857,1,Very Good,,1
+M,85,571,1,0,Married,Utility,59597,5,Very Poor,,0
+F,449,675,34,1,Married,Car,10403,5,Good,,1
+M,127,837,40,1,Single,Utility,6364,3,Exceptional,,1
+F,110,686,18,1,Married,Car,7164,7,Good,,1
+F,89,763,18,1,Married,Car,9413,7,Very Good,,1
+M,124,781,18,1,Single,Utility,8102,5,Very Good,,0
+F,130,701,28,0,Married,Car,8314,6,Good,,0
+F,478,681,8,2,Single,Utility,11536,6,Good,,1
+F,83,765,40,2,Married,Car,9191,6,Very Good,,1
+F,136,795,30,0,Married,Truck,17406,3,Very Good,,0
+F,150,779,33,1,Married,Truck,9087,2,Very Good,,1
+F,83,761,23,1,Married,Car,8986,2,Very Good,,0
+F,402,573,7,2,Single,Truck,10740,1,Very Poor,,0
+M,131,789,10,1,Married,Van,9040,6,Very Good,,1
+M,102,773,15,0,Married,Van,12202,6,Very Good,,1
+F,108,673,21,1,Married,Car,8709,2,Good,,0
+M,137,737,5,1,Single,Utility,11473,4,Good,,1
+M,119,756,19,1,Married,Van,6747,8,Very Good,,1
+F,432,600,5,2,Single,Utility,14610,4,Fair,,1
+F,99,706,7,2,Single,Van,10114,4,Good,,1
+M,143,727,18,0,Married,Van,8227,6,Good,,0
+F,136,750,33,0,Married,Car,13862,7,Very Good,,0
+F,115,748,18,1,Married,Truck,9769,7,Very Good,,1
+F,410,697,5,3,Single,Truck,10847,8,Good,,0
+M,197,825,2,2,Single,Car,14739,3,Exceptional,,0
+M,168,627,3,1,Single,Car,12141,6,Fair,,1
+M,139,688,16,0,Married,Van,7325,3,Good,,0
+M,128,700,5,1,Married,Van,34689,5,Good,,1
+F,367,667,7,2,Single,Utility,13383,2,Fair,,1
+M,144,466,1,3,Single,Car,11149,7,Very Poor,,0
+M,144,787,8,0,Married,Truck,9916,8,Very Good,,0
+F,141,738,5,3,Single,Truck,12572,3,Good,,1
+M,214,565,1,2,Married,Car,12445,2,Very Poor,,0
+M,116,718,29,1,Married,Van,6382,4,Good,,1
+M,152,686,4,3,Single,Car,11955,3,Good,,0
+F,133,670,23,3,Married,Truck,6404,4,Good,,0
+M,279,540,3,1,Married,Car,12681,3,Very Poor,,1
+F,127,788,25,0,Married,Car,5662,4,Very Good,,1
+M,142,322,3,2,Single,Car,22602,3,Very Poor,,1
+M,114,839,33,0,Single,Utility,10587,1,Exceptional,,0
+M,84,727,37,0,Married,Van,10044,5,Good,,1
+F,223,683,13,1,Married,Car,14246,1,Good,,1
+F,308,706,6,2,Married,Car,41845,5,Good,,1
+M,138,753,30,0,Married,Van,7229,6,Very Good,,1
+M,482,663,3,1,Married,Car,18994,7,Fair,,1
+M,119,757,3,1,Single,Utility,14353,6,Very Good,,0
+F,144,771,14,0,Single,Car,8639,5,Very Good,,1
+F,157,670,23,1,Married,Car,11929,1,Good,,1
+M,117,772,6,0,Married,Van,12633,4,Very Good,,1
+F,98,723,14,1,Married,Truck,11942,8,Good,,1
+F,163,702,8,2,Single,Van,11593,2,Good,,0
+M,100,844,19,0,Single,Utility,12272,2,Exceptional,,1
+M,123,762,16,0,Single,Utility,14564,3,Very Good,,1
+F,140,797,12,1,Married,Car,7848,6,Very Good,,0
+M,195,329,6,3,Married,Truck,12818,8,Very Poor,,1
+M,130,795,13,0,Married,Van,5287,4,Very Good,,0
+M,125,750,13,0,Married,Truck,5586,2,Very Good,,1
+F,123,782,7,0,Married,Car,23709,2,Very Good,,1
+M,157,783,34,0,Married,Truck,8711,7,Very Good,,1
+F,102,721,17,0,Married,Truck,8192,5,Good,,1
+F,139,747,24,0,Married,Truck,7967,3,Very Good,,0
+M,130,797,15,1,Married,Truck,5195,1,Very Good,,1
+F,335,328,1,2,Married,Car,62985,4,Very Poor,,0
+M,161,670,8,0,Married,Van,78800,6,Good,,1
+F,131,689,10,0,Married,Car,13636,2,Good,,1
+F,512,736,36,2,Married,Car,14512,3,Good,,1
+M,151,745,19,1,Married,Utility,8611,4,Very Good,,1
+F,235,466,8,3,Single,Truck,12698,7,Very Poor,,1
+M,130,604,5,3,Married,Truck,45495,7,Fair,,1
+M,130,762,3,0,Married,Van,9543,7,Very Good,,0
+F,118,624,5,2,Single,Truck,98828,6,Fair,,1
+F,150,761,25,1,Single,Car,13908,8,Very Good,,1
+M,136,758,9,0,Married,Van,6032,7,Very Good,,1
+M,388,523,3,2,Married,Car,12661,7,Very Poor,,0
+M,323,838,2,3,Married,Car,14242,2,Exceptional,,1
+M,125,575,5,3,Single,Car,17644,7,Very Poor,,1
+M,109,689,28,1,Married,Utility,9538,1,Good,,0
+M,92,355,2,3,Single,Car,10075,4,Very Poor,,1
+M,211,631,1,2,Married,Car,29925,4,Fair,,0
+M,136,841,18,0,Single,Utility,7724,1,Exceptional,,1
+M,91,694,13,0,Married,Utility,11232,5,Good,,1
+F,601,719,18,1,Married,Car,17238,7,Good,,0
+M,182,596,11,2,Married,Truck,14589,6,Fair,,1
+M,140,676,15,1,Married,Van,14737,8,Good,,1
+M,103,684,10,1,Married,Utility,5616,7,Good,,1
+F,277,678,8,3,Single,Truck,14787,3,Good,,1
+M,99,681,37,1,Married,Van,5330,7,Good,,1
+M,438,664,1,2,Married,Car,67033,7,Fair,,1
+M,126,643,1,2,Single,Car,25942,8,Fair,,1
+M,114,394,12,3,Married,Truck,12659,8,Very Poor,,1
+M,208,713,5,1,Married,Utility,43379,1,Good,,1
+M,147,684,12,0,Single,Utility,8413,2,Good,,1
+M,130,350,3,3,Single,Car,10749,1,Very Poor,,0
+F,291,593,8,0,Single,Truck,12259,4,Fair,,1
+M,147,751,22,0,Single,Utility,11736,7,Very Good,,1
+F,147,750,17,0,Married,Truck,9453,6,Very Good,,1
+M,212,643,1,3,Married,Car,98656,8,Fair,,0
+M,217,610,4,0,Married,Car,13866,6,Fair,,0
+M,150,791,28,0,Married,Truck,14719,8,Very Good,,1
+F,80,732,10,0,Married,Car,34010,1,Good,,1
+M,92,777,40,0,Married,Utility,12583,4,Very Good,,1
+M,84,718,11,1,Married,Van,84416,6,Good,,1
+M,110,750,16,1,Married,Van,5817,1,Very Good,,1
+M,113,732,13,0,Married,Car,11933,8,Good,,1
+M,343,731,5,2,Single,Utility,11291,7,Good,,1
+F,160,731,38,0,Married,Truck,9403,4,Good,,1
+F,156,791,7,0,Married,Truck,6894,6,Very Good,,1
+F,93,780,29,1,Married,Car,13311,4,Very Good,,1
+F,140,758,18,1,Married,Truck,5404,2,Very Good,,1
+F,84,686,15,1,Married,Car,16210,2,Good,,1
+F,310,734,8,1,Married,Car,93914,1,Good,,1
+M,110,749,28,1,Married,Utility,9333,1,Very Good,,0
+M,95,700,20,1,Married,Car,11706,3,Good,,0
+M,217,302,2,3,Married,Car,14113,8,Very Poor,,0
+M,120,692,25,1,Married,Van,12534,4,Good,,1
+M,492,688,2,3,Single,Utility,13362,1,Good,,0
+M,332,670,2,2,Single,Utility,11276,2,Good,,1
+F,147,720,24,1,Married,Truck,10937,2,Good,,1
+M,137,678,8,2,Married,Truck,12819,3,Good,,0
+M,106,785,21,1,Single,Utility,6630,4,Very Good,,1
+F,83,555,3,1,Married,Car,66100,3,Very Poor,,1
+F,128,744,12,0,Married,Car,18073,4,Very Good,,1
+F,124,671,29,0,Married,Car,10274,2,Good,,1
+M,404,819,1,2,Single,Car,19668,1,Exceptional,,1
+M,153,363,8,3,Married,Truck,11998,2,Very Poor,,1
+M,152,779,20,1,Married,Truck,5202,3,Very Good,,1
+M,121,351,5,3,Single,Car,13211,2,Very Poor,,1
+F,126,712,5,0,Married,Car,74797,4,Good,,0
+F,210,624,8,0,Single,Truck,10425,6,Fair,,1
+F,137,696,14,0,Single,Car,6565,6,Good,,0
+M,135,696,16,0,Married,Truck,7187,2,Good,,1
+F,124,761,37,1,Single,Car,8142,8,Very Good,,0
+F,122,670,20,1,Single,Car,5980,7,Good,,1
+F,137,564,6,2,Single,Van,12481,4,Very Poor,,0
+M,150,753,26,1,Married,Van,11203,4,Very Good,,1
+M,127,761,14,0,Married,Utility,11139,2,Very Good,,1
+M,247,738,2,2,Married,Car,20764,5,Good,,1
+M,175,655,2,2,Single,Car,51403,2,Fair,,0
+M,114,594,4,2,Single,Car,92684,2,Fair,,1
+F,123,794,20,0,Married,Car,10676,4,Very Good,,1
+M,117,803,31,0,Single,Utility,14509,8,Exceptional,,1
+M,378,695,4,3,Single,Car,12361,1,Good,,1
+M,121,780,23,1,Married,Van,9030,3,Very Good,,1
+M,93,783,30,1,Married,Truck,14242,3,Very Good,,1
+M,121,559,3,2,Single,Car,10652,7,Very Poor,,1
+F,159,745,10,1,Married,Car,14001,3,Very Good,,1
+M,196,704,3,2,Single,Car,10402,6,Good,,0
+F,647,708,7,1,Married,Truck,16283,4,Good,,1
+M,153,738,31,0,Married,Truck,7974,2,Good,,1
+M,109,690,36,1,Married,Van,14741,3,Good,,1
+M,137,749,25,1,Married,Truck,9252,1,Very Good,,1
+M,92,767,24,1,Married,Van,11021,4,Very Good,,1
+F,80,765,16,0,Married,Truck,5791,2,Very Good,,1
+F,141,701,19,1,Married,Car,6198,8,Good,,0
+M,85,737,25,1,Married,Truck,10256,4,Good,,1
+M,96,749,20,1,Married,Truck,9264,2,Very Good,,1
+M,133,674,25,0,Married,Van,14583,8,Good,,1
+M,233,584,1,2,Single,Car,29995,2,Fair,,1
+F,149,772,12,0,Married,Car,16288,3,Very Good,,1
+M,84,672,32,2,Married,Car,13524,8,Good,,1
+F,405,680,8,0,Married,Truck,23641,7,Good,,1
+F,457,725,7,3,Single,Truck,10403,1,Good,,0
+F,89,682,15,1,Single,Car,12004,4,Good,,1
+M,219,617,5,1,Single,Car,10351,8,Fair,,1
+M,140,805,1,2,Single,Car,10873,6,Exceptional,,1
+M,153,743,18,1,Single,Utility,8458,1,Very Good,,0
+M,125,769,5,0,Married,Van,7634,5,Very Good,,1
+M,99,784,15,0,Married,Van,9524,5,Very Good,,1
+F,114,797,33,0,Married,Truck,19633,5,Very Good,,1
+F,107,794,10,0,Married,Truck,13523,1,Very Good,,0
+M,152,672,10,1,Married,Truck,44032,4,Good,,1
+M,143,794,40,1,Married,Van,10838,8,Very Good,,1
+M,608,680,38,1,Married,Van,12909,4,Good,,1
+F,96,671,33,1,Married,Car,8342,2,Good,,1
+F,150,753,16,0,Married,Truck,11557,4,Very Good,,0
+F,133,684,5,1,Married,Truck,13002,4,Good,,0
+M,128,464,6,4,Married,Truck,11594,4,Very Poor,,1
+M,119,767,26,0,Married,Van,10584,3,Very Good,,0
+F,137,780,15,1,Married,Truck,9354,8,Very Good,,1
+M,361,742,3,0,Married,Truck,7310,3,Very Good,,1
+M,554,729,32,1,Married,Car,8326,6,Good,,1
+F,616,723,37,0,Married,Car,14989,1,Good,,0
+F,319,608,5,1,Single,Truck,10045,7,Fair,,0
+F,109,778,12,1,Married,Car,6238,3,Very Good,,0
+F,225,689,6,2,Single,Truck,12252,3,Good,,1
+M,153,738,10,1,Married,Utility,9476,3,Good,,1
+F,357,677,9,1,Married,Car,22571,5,Good,,1
+M,156,419,6,4,Married,Truck,14712,8,Very Poor,,1
+M,482,521,2,3,Single,Car,10512,5,Very Poor,,1
+F,213,689,5,2,Single,Truck,10395,5,Good,,0
+F,80,682,13,0,Single,Car,44930,5,Good,,1
+F,137,795,30,0,Married,Car,18348,2,Very Good,,0
+M,99,743,23,1,Married,Van,5698,2,Very Good,,0
+F,96,726,17,0,Married,Truck,6644,2,Good,,1
+F,133,725,12,1,Married,Car,7726,6,Good,,0
+F,159,761,16,1,Married,Car,6027,1,Very Good,,1
+M,310,811,2,2,Married,Car,11740,3,Exceptional,,1
+F,126,746,20,0,Married,Car,10103,7,Very Good,,1
+M,183,671,5,3,Single,Car,14181,3,Good,,0
+F,125,368,5,2,Single,Van,10430,5,Very Poor,,1
+M,103,780,14,0,Married,Van,12513,5,Very Good,,0
+M,414,601,4,0,Married,Car,24468,7,Fair,,1
+M,86,764,20,0,Married,Van,10588,4,Very Good,,1
+F,472,477,5,2,Single,Utility,13373,3,Very Poor,,1
+M,108,588,4,2,Single,Car,20164,2,Fair,,1
+F,98,679,20,0,Married,Truck,13575,6,Good,,1
+F,100,734,34,0,Married,Truck,9080,7,Good,,1
+M,151,707,29,0,Married,Truck,8428,4,Good,,1
+M,137,708,18,0,Single,Utility,10153,6,Good,,1
+M,626,664,2,0,Married,Truck,11907,3,Fair,,1
+F,158,688,7,1,Married,Truck,40922,4,Good,,1
+M,109,707,7,0,Married,Van,41150,3,Good,,1
+F,133,724,17,0,Married,Car,14580,3,Good,,1
+M,154,774,15,1,Single,Utility,10991,4,Very Good,,1
+M,153,684,17,1,Married,Truck,14785,1,Good,,0
+M,123,363,6,3,Married,Truck,12430,1,Very Poor,,1
+F,90,723,23,2,Married,Car,9404,4,Good,,1
+M,186,604,1,2,Single,Car,81155,2,Fair,,1
+F,145,733,7,3,Single,Van,14464,3,Good,,1
+M,90,679,3,2,Single,Car,11561,1,Good,,0
+M,100,675,11,0,Married,Van,10436,2,Good,,1
+M,113,787,16,0,Married,Van,5532,5,Very Good,,1
+F,415,666,7,2,Single,Truck,11319,4,Fair,,0
+M,245,636,3,0,Married,Car,10645,5,Fair,,1
+F,189,651,5,0,Single,Van,11068,5,Fair,,0
+F,273,729,5,3,Single,Utility,14901,3,Good,,1
+F,377,634,8,2,Single,Truck,12856,8,Fair,,0
+M,88,750,14,0,Married,Truck,8729,5,Very Good,,0
+M,122,700,17,1,Married,Truck,13910,1,Good,,0
+F,148,798,11,3,Married,Truck,15597,8,Very Good,,1
+M,92,691,25,1,Married,Van,10954,6,Good,,1
+F,125,739,21,1,Single,Car,10839,2,Good,,0
+F,108,795,16,1,Married,Car,15580,1,Very Good,,1
+F,987,588,2,1,Married,Car,14509,3,Fair,,1
+F,494,672,7,3,Single,Truck,11809,1,Good,,0
+F,244,664,6,1,Single,Truck,11889,2,Fair,,1
+M,153,729,29,1,Married,Truck,12421,3,Good,,1
+M,149,690,10,0,Single,Utility,12613,5,Good,,0
+M,137,733,10,0,Married,Van,12112,8,Good,,1
+F,97,727,15,0,Married,Car,13190,5,Good,,1
+M,85,776,10,0,Married,Van,10485,5,Very Good,,1
+M,122,670,28,1,Married,Van,5676,1,Good,,0
+F,119,688,18,0,Married,Truck,8636,4,Good,,1
+M,115,788,36,0,Married,Van,13834,2,Very Good,,0
+F,146,680,22,0,Married,Car,5602,6,Good,,1
+F,259,713,4,1,Married,Car,64041,6,Good,,1
+F,231,593,6,0,Single,Truck,11209,4,Fair,,0
+F,124,737,17,0,Married,Truck,8116,5,Good,,1
+M,119,677,36,0,Married,Car,14610,1,Good,,0
+F,81,719,12,0,Married,Truck,53175,3,Good,,1
+F,96,700,21,0,Married,Truck,7389,7,Good,,1
+F,129,781,27,1,Married,Truck,7579,6,Very Good,,0
+F,119,779,17,0,Married,Car,5009,2,Very Good,,1
+F,146,770,12,0,Married,Car,11047,7,Very Good,,1
+F,111,790,19,0,Married,Car,10188,2,Very Good,,1
+F,467,601,7,3,Single,Utility,13235,2,Fair,,1
+M,102,788,15,0,Married,Van,13919,5,Very Good,,0
+F,86,766,6,0,Married,Car,22058,5,Very Good,,0
+M,127,608,8,2,Married,Truck,59171,1,Fair,,1
+M,254,655,2,3,Single,Utility,59782,4,Fair,,0
+F,346,687,6,1,Married,Truck,42435,8,Good,,0
+M,287,523,1,3,Married,Car,12747,5,Very Poor,,1
+M,233,718,1,2,Married,Car,13143,4,Good,,1
+M,144,730,12,0,Single,Utility,13511,6,Good,,0
+M,114,736,5,3,Married,Truck,13815,1,Good,,1
+F,414,602,8,2,Single,Utility,12128,7,Fair,,1
+M,151,763,35,1,Married,Van,13707,7,Very Good,,1
+M,458,480,5,2,Single,Car,23069,2,Very Poor,,1
+M,436,707,4,3,Single,Utility,13051,2,Good,,1
+F,134,793,20,0,Married,Car,11436,5,Very Good,,1
+M,131,681,24,1,Married,Van,8563,6,Good,,0
+M,126,795,34,0,Married,Van,9981,1,Very Good,,1
+F,138,718,8,2,Married,Car,84263,2,Good,,1
+F,453,610,5,2,Single,Truck,10609,6,Fair,,0
+F,696,704,6,0,Married,Car,19866,2,Good,,1
+M,118,762,3,1,Married,Van,7404,4,Very Good,,0
+M,624,709,36,0,Married,Van,11932,3,Good,,0
+M,291,558,2,0,Married,Truck,58276,1,Very Poor,,1
+M,131,777,19,1,Married,Van,8380,7,Very Good,,1
+F,84,690,10,3,Married,Truck,59161,6,Good,,1
+M,118,684,20,0,Single,Utility,8217,1,Good,,1
+M,196,711,5,0,Married,Car,76009,6,Good,,1
+F,117,741,16,1,Married,Car,10445,6,Very Good,,1
+F,94,676,13,1,Married,Car,19693,5,Good,,1
+M,89,762,18,1,Married,Van,10383,6,Very Good,,1
+F,103,678,40,0,Married,Car,11289,4,Good,,1
+M,164,560,1,1,Married,Van,37921,1,Very Poor,,0
+M,95,689,17,0,Married,Truck,6704,5,Good,,0
+M,666,655,1,0,Married,Utility,8422,3,Fair,,1
+F,130,684,8,1,Married,Car,45131,2,Good,,1
+M,120,744,26,1,Single,Utility,10677,2,Very Good,,1
+M,134,779,10,0,Married,Van,8820,8,Very Good,,1
+F,291,736,6,3,Single,Truck,13606,5,Good,,1
+M,148,684,14,1,Married,Van,9914,6,Good,,0
+M,94,663,3,3,Single,Car,54394,8,Fair,,1
+M,121,703,37,0,Single,Utility,11234,6,Good,,1
+F,83,738,23,1,Married,Car,10663,4,Good,,1
+M,140,825,19,1,Married,Utility,11377,1,Exceptional,,0
+M,169,474,1,2,Single,Car,10499,3,Very Poor,,1
+M,143,799,22,1,Married,Van,14705,1,Very Good,,1
+M,167,315,5,2,Single,Car,10484,2,Very Poor,,1
+F,148,707,6,2,Single,Van,14131,4,Good,,0
+F,84,695,16,0,Married,Car,11703,8,Good,,1
+F,82,728,21,1,Married,Car,10740,3,Good,,1
+F,133,676,3,0,Single,Car,14126,8,Good,,0
+M,93,673,17,0,Married,Van,11572,1,Good,,1
+M,125,740,1,0,Single,Utility,6717,3,Very Good,,1
+M,181,518,8,2,Married,Truck,11909,8,Very Poor,,1
+F,399,763,7,0,Married,Truck,13209,6,Very Good,,0
+M,117,681,17,0,Married,Van,7811,2,Good,,1
+M,82,677,35,1,Married,Van,7270,3,Good,,1
+F,654,683,17,0,Married,Car,18233,2,Good,,1
+M,136,676,7,0,Married,Van,57832,5,Good,,1
+M,104,830,8,2,Married,Truck,22662,5,Exceptional,,1
+F,514,678,14,0,Married,Car,15252,7,Good,,0
+M,154,756,6,1,Married,Truck,11725,5,Very Good,,1
+M,133,761,6,0,Married,Van,13262,1,Very Good,,0
+M,155,762,22,0,Married,Truck,8560,8,Very Good,,1
+F,85,684,16,1,Married,Car,8270,1,Good,,1
+F,216,678,6,1,Married,Car,29288,1,Good,,1
+F,349,726,14,1,Married,Car,6138,7,Good,,0
+F,332,675,4,1,Single,Car,78436,1,Good,,1
+M,102,771,27,1,Married,Utility,5413,1,Very Good,,0
+M,380,606,5,0,Married,Car,13764,2,Fair,,1
+F,147,775,3,3,Married,Truck,22612,5,Very Good,,1
+M,93,647,3,3,Single,Car,70689,8,Fair,,1
+M,345,639,5,0,Married,Car,12576,5,Fair,,0
+M,88,760,20,0,Married,Utility,13913,5,Very Good,,1
+M,129,769,14,0,Married,Truck,7557,6,Very Good,,1
+F,407,545,5,3,Single,Truck,14682,4,Very Poor,,0
+M,109,764,19,0,Married,Van,6553,2,Very Good,,0
+F,83,780,33,1,Single,Car,6346,5,Very Good,,1
+F,521,680,36,0,Married,Car,5628,2,Good,,1
+M,90,689,15,0,Married,Van,9556,4,Good,,1
+F,373,692,18,1,Married,Truck,19837,6,Good,,0
+M,156,537,4,3,Single,Car,12027,3,Very Poor,,0
+M,297,657,4,1,Married,Car,12982,5,Fair,,1
+M,112,793,14,1,Married,Van,6233,1,Very Good,,0
+M,115,686,3,0,Single,Utility,12007,8,Good,,0
+F,304,602,8,0,Single,Truck,10041,5,Fair,,1
+F,100,759,15,1,Married,Car,17723,4,Very Good,,0
+F,388,700,16,1,Married,Truck,17049,4,Good,,1
+F,138,683,23,0,Married,Car,12859,1,Good,,1
+M,122,735,21,1,Married,Truck,9414,1,Good,,1
+F,95,770,4,1,Married,Truck,7574,4,Very Good,,1
+M,80,789,10,1,Married,Van,10837,6,Very Good,,1
+M,80,568,7,0,Married,Van,48910,5,Very Poor,,0
+M,170,680,5,2,Married,Truck,14192,8,Good,,1
+M,131,709,28,0,Married,Van,13630,7,Good,,1
+M,159,558,2,3,Single,Car,12818,3,Very Poor,,1
+F,212,720,8,0,Married,Truck,54944,2,Good,,1
+F,97,713,13,1,Married,Car,9223,5,Good,,1
+F,140,690,15,1,Married,Truck,6766,6,Good,,1
+M,80,736,10,0,Single,Utility,8690,6,Good,,1
+F,144,672,19,0,Married,Car,20274,3,Good,,0
+F,193,513,1,0,Married,Car,54448,7,Very Poor,,0
+M,493,576,5,2,Single,Utility,14754,5,Very Poor,,0
+F,113,765,22,0,Married,Car,12762,5,Very Good,,0
+F,301,561,7,3,Single,Utility,10577,4,Very Poor,,0
+M,465,726,1,3,Married,Car,23500,6,Good,,0
+M,154,678,25,0,Married,Van,5720,8,Good,,1
+F,96,725,33,0,Married,Car,6989,4,Good,,1
+M,312,642,1,0,Married,Car,52965,5,Fair,,1
+M,207,845,1,1,Married,Car,14533,4,Exceptional,,1
+F,513,694,22,1,Married,Car,18819,3,Good,,1
+M,553,768,5,1,Married,Van,8322,5,Very Good,,1
+M,92,744,38,0,Married,Truck,6294,3,Very Good,,0
+M,160,820,2,2,Married,Truck,12800,8,Exceptional,,1
+M,419,509,5,2,Married,Car,12396,3,Very Poor,,1
+M,498,807,3,3,Single,Utility,20940,1,Exceptional,,0
+M,287,572,1,1,Married,Car,13333,8,Very Poor,,1
+F,154,699,17,0,Married,Car,12532,6,Good,,1
+M,85,783,18,0,Married,Van,6838,4,Very Good,,1
+M,132,780,25,0,Married,Van,11272,2,Very Good,,1
+F,91,709,11,0,Married,Truck,6402,6,Good,,1
+M,179,652,2,2,Single,Car,80328,5,Fair,,1
+F,112,730,29,0,Married,Car,13160,7,Good,,1
+F,106,729,29,1,Married,Car,8044,4,Good,,1
+M,153,376,6,2,Married,Truck,14212,7,Very Poor,,1
+F,177,707,8,3,Single,Truck,14228,1,Good,,1
+M,91,701,30,0,Single,Utility,11090,3,Good,,0
+M,98,790,14,4,Single,Utility,7398,4,Very Good,,1
+F,593,692,12,1,Married,Car,24290,4,Good,,1
+F,183,725,7,0,Married,Car,82152,2,Good,,0
+M,129,790,25,0,Married,Car,12698,2,Very Good,,1
+F,115,737,25,1,Married,Car,5085,5,Good,,1
+M,82,719,5,1,Single,Utility,11909,5,Good,,0
+F,83,732,23,2,Married,Car,10585,4,Good,,1
+M,101,788,15,0,Married,Truck,6209,8,Very Good,,1
+F,94,798,17,0,Married,Car,13239,1,Very Good,,1
+M,187,633,3,0,Single,Car,11180,7,Fair,,0
+F,437,358,8,2,Single,Truck,12583,3,Very Poor,,0
+M,104,773,25,1,Married,Van,11312,2,Very Good,,1
+F,491,758,4,0,Single,Car,9303,3,Very Good,,0
+F,500,662,5,2,Single,Truck,20129,3,Fair,,1
+M,122,644,4,3,Single,Car,71900,7,Fair,,0
+M,84,687,20,1,Married,Truck,5293,7,Good,,1
+M,136,750,15,1,Married,Van,10986,5,Very Good,,1
+F,168,651,6,0,Single,Van,14358,5,Fair,,1
+M,86,710,22,0,Married,Van,11488,7,Good,,1
+M,83,763,22,0,Married,Van,12503,8,Very Good,,1
+M,339,519,4,2,Single,Car,13024,1,Very Poor,,1
+F,83,763,19,0,Married,Truck,6656,7,Very Good,,1
+M,459,594,2,2,Married,Car,59445,4,Fair,,1
+F,541,713,20,1,Married,Car,20966,3,Good,,1
+F,94,649,5,3,Single,Van,75192,1,Fair,,1
+F,491,660,7,2,Single,Truck,10489,5,Fair,,0
+F,159,672,12,0,Married,Car,12793,7,Good,,1
+M,98,641,1,2,Single,Car,87077,1,Fair,,1
+M,334,427,4,2,Married,Car,14686,1,Very Poor,,1
+F,96,751,24,0,Married,Truck,11126,3,Very Good,,1
+M,93,701,22,0,Married,Van,11966,6,Good,,1
+M,90,799,25,0,Married,Van,12864,3,Very Good,,1
+M,80,512,6,1,Married,Truck,45211,4,Very Poor,,1
+M,125,749,13,1,Married,Van,14237,6,Very Good,,1
+F,196,726,5,1,Married,Car,63825,2,Good,,0
+F,107,690,40,0,Married,Car,7377,2,Good,,1
+F,108,723,17,0,Married,Car,10705,1,Good,,1
+M,369,650,2,3,Married,Car,55361,6,Fair,,1
+M,288,566,4,3,Single,Car,22202,2,Very Poor,,1
+F,645,700,29,1,Married,Car,23844,6,Good,,1
+F,337,727,6,1,Married,Truck,66196,6,Good,,1
+F,81,682,16,1,Married,Truck,11398,8,Good,,0
+F,99,751,14,0,Married,Car,16185,1,Very Good,,1
+M,155,689,3,1,Married,Truck,7460,1,Good,,0
+M,102,836,2,3,Single,Car,12647,5,Exceptional,,0
+M,130,689,8,1,Married,Truck,72513,4,Good,,1
+F,284,710,6,3,Single,Truck,10368,8,Good,,0
+F,140,672,18,0,Single,Car,11378,8,Good,,0
+F,253,592,5,3,Single,Truck,18223,5,Fair,,1
+M,159,676,10,1,Married,Truck,14400,4,Good,,1
+F,145,724,16,1,Single,Car,5543,4,Good,,1
+F,154,780,12,0,Married,Truck,6253,5,Very Good,,0
+M,148,790,5,1,Married,Van,13374,2,Very Good,,0
+F,411,721,16,1,Married,Car,16199,1,Good,,0
+M,112,781,18,0,Married,Utility,6814,7,Very Good,,1
+F,158,320,5,2,Single,Van,10228,8,Very Poor,,1
+M,121,769,16,0,Married,Van,9795,2,Very Good,,1
+F,138,758,17,3,Married,Truck,16730,2,Very Good,,1
+M,182,363,1,2,Single,Car,14497,8,Very Poor,,0
+M,122,753,10,0,Married,Van,11414,5,Very Good,,0
+M,492,392,2,3,Married,Car,13232,4,Very Poor,,0
+F,363,420,8,3,Single,Truck,11586,5,Very Poor,,1
+M,173,658,5,1,Single,Car,12193,5,Fair,,0
+M,274,596,1,2,Married,Car,21122,5,Fair,,1
+M,93,515,4,2,Single,Car,14034,3,Very Poor,,0
+M,132,707,17,0,Married,Van,6985,3,Good,,0
+F,152,728,8,2,Single,Van,10979,7,Good,,1
+M,376,742,3,1,Married,Utility,6572,3,Very Good,,1
+M,94,793,19,0,Single,Utility,14671,3,Very Good,,0
+M,276,648,5,1,Single,Car,12164,2,Fair,,0
+F,337,312,5,2,Single,Truck,14465,7,Very Poor,,1
+F,96,396,6,3,Single,Van,14840,5,Very Poor,,1
+F,157,688,28,1,Single,Car,7481,8,Good,,0
+M,102,797,22,1,Married,Utility,12318,6,Very Good,,0
+M,131,701,6,0,Single,Utility,8633,6,Good,,0
+F,145,681,5,2,Married,Car,27828,5,Good,,0
+M,81,787,11,0,Married,Truck,9442,2,Very Good,,1
+M,111,776,21,1,Married,Truck,8427,3,Very Good,,1
+F,222,617,7,1,Single,Utility,12925,5,Fair,,0
+M,135,805,1,3,Single,Car,13099,1,Exceptional,,1
+M,137,691,3,3,Single,Car,12898,1,Good,,1
+M,99,787,19,0,Married,Van,7178,5,Very Good,,1
+M,146,753,28,0,Married,Van,8104,6,Very Good,,1
+F,160,758,22,0,Married,Car,24382,5,Very Good,,0
+M,262,689,2,3,Single,Utility,13012,2,Good,,1
+M,133,677,11,1,Married,Van,9405,8,Good,,1
+M,90,718,30,0,Married,Car,9975,4,Good,,0
+F,202,654,6,1,Single,Truck,11604,7,Fair,,1
+F,100,694,12,0,Married,Car,14476,2,Good,,1
+M,153,709,28,0,Married,Van,5843,5,Good,,1
+F,173,341,1,1,Married,Car,76751,4,Very Poor,,1
+F,138,684,15,0,Married,Truck,16489,7,Good,,1
+M,121,672,10,0,Married,Van,10863,7,Good,,0
+M,124,761,37,1,Married,Van,13312,4,Very Good,,1
+F,84,721,19,1,Single,Car,9604,5,Good,,1
+F,197,605,7,1,Single,Van,14120,4,Fair,,0
+F,388,585,7,2,Single,Truck,13339,7,Fair,,1
+M,101,534,6,2,Married,Truck,13177,7,Very Poor,,0
+M,80,774,30,1,Married,Van,9689,8,Very Good,,0
+F,255,661,5,0,Single,Utility,13139,3,Fair,,1
+F,129,676,34,0,Married,Truck,9015,6,Good,,0
+F,94,778,9,0,Married,Car,12808,3,Very Good,,1
+M,137,789,3,0,Married,Van,11878,4,Very Good,,0
+F,83,786,22,1,Married,Car,13756,2,Very Good,,1
+M,132,767,19,1,Married,Truck,11073,4,Very Good,,1
+M,136,795,14,1,Married,Van,9475,3,Very Good,,1
+M,213,306,2,3,Married,Car,13419,5,Very Poor,,1
+F,104,762,19,1,Married,Car,6432,5,Very Good,,1
+F,90,798,24,0,Married,Car,19814,5,Very Good,,1
+M,93,749,18,0,Single,Utility,12834,7,Very Good,,1
+M,135,724,4,2,Single,Car,12676,6,Good,,1
+F,358,661,7,2,Single,Truck,14056,5,Fair,,1
+F,116,682,12,0,Married,Car,18662,6,Good,,0
+M,95,671,39,0,Married,Truck,6438,7,Good,,1
+F,280,714,7,0,Married,Car,71461,3,Good,,1
+F,95,786,40,0,Single,Car,13461,4,Very Good,,1
+F,155,692,5,0,Married,Truck,60207,5,Good,,1
+M,113,642,5,3,Single,Car,30004,1,Fair,,0
+F,489,632,2,0,Married,Car,14296,2,Fair,,1
+F,80,552,7,0,Married,Car,49071,1,Very Poor,,1
+M,129,693,37,1,Married,Van,8833,7,Good,,1
+M,91,732,5,1,Married,Utility,88512,3,Good,,0
+F,97,779,35,0,Single,Car,14257,2,Very Good,,1
+F,122,782,6,3,Married,Truck,14097,5,Very Good,,1
+F,152,684,20,1,Married,Car,23929,6,Good,,0
+F,364,543,5,3,Single,Truck,14393,3,Very Poor,,1
+M,115,699,12,1,Married,Van,10543,7,Good,,0
+F,280,459,6,2,Single,Truck,15841,4,Very Poor,,1
+M,189,530,3,0,Married,Van,57363,7,Very Poor,,1
+M,424,589,5,3,Single,Car,24467,7,Fair,,1
+F,417,337,8,3,Single,Truck,12720,5,Very Poor,,1
+M,168,698,7,0,Married,Van,25071,6,Good,,1
+F,147,769,34,0,Married,Car,12808,1,Very Good,,1
+F,235,717,6,3,Single,Truck,11159,6,Good,,1
+F,681,679,31,0,Married,Car,8993,7,Good,,1
+M,435,643,1,2,Married,Car,34181,7,Fair,,1
+M,114,682,22,0,Married,Utility,13917,3,Good,,1
+F,123,697,19,0,Married,Truck,10419,2,Good,,1
+M,102,737,23,1,Married,Truck,14254,1,Good,,0
+F,144,356,7,2,Single,Van,11795,8,Very Poor,,1
+M,115,731,25,0,Married,Truck,12531,3,Good,,1
+F,122,729,16,1,Married,Truck,7866,7,Good,,1
+F,103,711,25,1,Married,Truck,8274,3,Good,,0
+F,375,695,5,3,Single,Truck,12177,5,Good,,1
+M,120,847,1,2,Single,Car,13070,6,Exceptional,,0
+F,428,601,7,3,Single,Utility,14424,8,Fair,,1
+M,89,785,20,0,Single,Utility,9433,4,Very Good,,0
+M,125,753,25,1,Married,Truck,11779,8,Very Good,,1
+F,389,648,6,2,Single,Truck,13724,1,Fair,,0
+M,313,734,8,1,Married,Utility,31289,7,Good,,1
+F,150,771,19,0,Married,Car,21835,5,Very Good,,1
+M,110,760,21,1,Married,Van,13844,4,Very Good,,0
+M,131,758,5,0,Married,Van,5664,6,Very Good,,0
+M,153,659,7,2,Married,Truck,49605,8,Fair,,1
+M,196,693,5,0,Married,Car,32080,6,Good,,1
+F,293,456,5,2,Single,Utility,14981,5,Very Poor,,1
+M,195,838,2,3,Single,Car,13483,7,Exceptional,,0
+M,139,533,3,2,Single,Car,13354,7,Very Poor,,1
+M,145,783,11,1,Married,Truck,12718,7,Very Good,,0
+M,136,784,19,1,Married,Van,5241,1,Very Good,,1
+F,97,711,25,1,Married,Truck,9489,3,Good,,1
+M,448,597,2,3,Married,Car,95796,4,Fair,,0
+M,243,588,1,3,Single,Car,65949,8,Fair,,0
+M,326,381,1,3,Married,Car,23483,2,Very Poor,,1
+F,612,592,1,2,Married,Car,5632,4,Fair,,0
+M,107,790,36,1,Single,Utility,5265,6,Very Good,,0
+M,333,720,3,3,Married,Car,10759,6,Good,,0
+M,125,740,20,1,Married,Van,8435,5,Very Good,,1
+F,139,676,11,0,Married,Truck,12299,8,Good,,1
+M,108,683,18,1,Married,Van,5201,7,Good,,1
+F,107,760,35,3,Married,Truck,17642,2,Very Good,,0
+M,165,695,7,2,Married,Truck,10754,5,Good,,1
+M,86,787,21,1,Married,Van,5573,1,Very Good,,0
+M,96,699,31,1,Married,Utility,13256,4,Good,,1
+M,80,750,22,0,Married,Truck,14760,2,Very Good,,0
+M,118,797,3,1,Single,Utility,5658,5,Very Good,,1
+M,129,764,10,0,Single,Utility,5207,6,Very Good,,1
+F,369,691,34,1,Married,Truck,5523,3,Good,,1
+M,114,771,14,1,Single,Utility,14201,1,Very Good,,1
+F,481,403,8,2,Single,Truck,18654,7,Very Poor,,1
+F,154,715,7,1,Married,Car,27519,8,Good,,1
+F,628,674,8,1,Married,Car,18702,3,Good,,0
+F,181,675,7,1,Married,Truck,77022,8,Good,,1
+M,135,670,22,1,Married,Van,11821,2,Good,,0
+F,500,677,16,1,Married,Car,15534,8,Good,,1
+M,419,639,3,1,Married,Car,13569,7,Fair,,1
+M,150,701,4,2,Single,Car,13235,7,Good,,1
+F,91,799,34,0,Married,Car,6090,4,Very Good,,1
+F,151,684,21,1,Married,Car,14826,1,Good,,1
+M,146,736,13,1,Married,Truck,14891,8,Good,,1
+F,334,635,7,3,Single,Truck,24260,4,Fair,,1
+F,99,679,15,1,Married,Car,11744,3,Good,,1
+M,103,689,5,2,Single,Car,10952,8,Good,,1
+M,347,613,4,0,Single,Utility,13430,6,Fair,,1
+M,424,683,1,3,Single,Car,10186,2,Good,,1
+M,406,720,1,3,Single,Utility,13149,6,Good,,0
+M,368,583,4,1,Married,Car,14679,1,Fair,,0
+F,602,695,9,0,Married,Car,20365,2,Good,,0
+M,114,677,17,1,Married,Van,11851,6,Good,,0
+F,102,638,7,3,Single,Van,70870,3,Fair,,1
+M,188,379,8,2,Married,Truck,13616,3,Very Poor,,1
+M,108,774,17,0,Single,Utility,6595,7,Very Good,,1
+F,115,738,17,2,Married,Car,13384,4,Good,,1
+M,294,423,1,2,Married,Car,14864,7,Very Poor,,1
+M,361,546,1,2,Single,Car,21440,7,Very Poor,,1
+M,155,738,18,1,Married,Truck,11383,7,Good,,0
+M,122,703,1,3,Single,Car,16670,4,Good,,0
+M,601,661,1,0,Married,Van,11537,7,Fair,,1
+F,106,756,28,0,Married,Car,5719,3,Very Good,,0
+F,371,720,5,3,Single,Utility,14981,6,Good,,0
+F,397,687,8,2,Single,Truck,12384,2,Good,,1
+M,146,742,17,1,Married,Truck,8803,6,Very Good,,0
+M,116,798,31,0,Married,Truck,9550,7,Very Good,,1
+M,137,793,17,1,Married,Van,9107,8,Very Good,,1
+M,150,317,5,2,Single,Car,10572,3,Very Poor,,0
+M,131,704,15,1,Married,Utility,6101,6,Good,,1
+F,286,633,8,0,Single,Truck,11587,5,Fair,,0
+F,146,700,15,0,Married,Car,9478,8,Good,,0
+M,416,561,4,3,Married,Car,11604,3,Very Poor,,1
+M,207,517,3,3,Married,Car,12861,7,Very Poor,,1
+M,100,782,3,0,Married,Van,13707,3,Very Good,,1
+F,130,717,25,2,Married,Car,7041,5,Good,,1
+F,335,675,5,2,Single,Truck,13308,5,Good,,0
+M,83,773,32,1,Married,Van,7791,7,Very Good,,1
+F,188,683,7,3,Single,Truck,13700,3,Good,,0
+M,220,485,3,2,Married,Car,14960,1,Very Poor,,1
+F,268,673,6,3,Single,Truck,12392,6,Good,,0
+M,135,684,13,1,Married,Truck,8129,8,Good,,1
+M,255,700,3,2,Married,Car,14430,7,Good,,1
+M,119,759,22,1,Married,Van,8674,6,Very Good,,1
+M,84,834,19,0,Single,Utility,11975,5,Exceptional,,1
+M,118,753,18,1,Married,Van,14072,5,Very Good,,1
+F,120,759,3,0,Married,Truck,9926,2,Very Good,,1
+F,120,680,32,1,Single,Car,8769,7,Good,,0
+M,110,696,12,1,Married,Truck,9991,8,Good,,1
+M,137,743,15,1,Married,Van,7100,1,Very Good,,1
+M,117,739,16,0,Married,Van,9706,1,Good,,1
+F,90,676,10,0,Married,Truck,8578,2,Good,,1
+M,146,475,6,4,Married,Truck,12757,1,Very Poor,,0
+F,109,753,25,1,Single,Car,5253,6,Very Good,,1
+M,86,670,10,0,Married,Van,62488,2,Good,,1
+M,147,702,20,0,Married,Van,11128,6,Good,,1
+M,621,612,2,0,Married,Van,13533,8,Fair,,1
+F,160,719,7,0,Married,Car,46882,7,Good,,1
+F,145,673,34,0,Married,Car,8867,6,Good,,0
+M,84,762,2,4,Single,Utility,5034,6,Very Good,,1
+M,200,697,3,2,Single,Car,10484,6,Good,,1
+M,426,711,5,3,Married,Car,10095,8,Good,,1
+F,298,647,8,0,Single,Truck,11492,1,Fair,,0
+M,113,608,8,3,Married,Truck,42768,8,Fair,,1
+M,107,678,18,1,Married,Van,11543,6,Good,,1
+F,95,762,40,0,Single,Car,5824,4,Very Good,,1
+F,110,758,30,1,Married,Car,22004,3,Very Good,,1
+F,144,674,5,1,Married,Car,22370,3,Good,,1
+M,408,435,1,2,Single,Car,12988,3,Very Poor,,0
+F,298,651,8,2,Single,Truck,22883,6,Fair,,1
+M,89,783,20,0,Single,Utility,13432,6,Very Good,,0
+F,160,725,15,1,Married,Truck,12540,2,Good,,1
+F,347,424,8,2,Single,Truck,12751,8,Very Poor,,0
+F,273,354,7,2,Single,Truck,11902,5,Very Poor,,0
+M,116,717,11,0,Single,Utility,5800,1,Good,,1
+F,163,707,6,1,Married,Car,92849,5,Good,,1
+M,354,604,4,0,Married,Car,14983,3,Fair,,1
+F,565,730,33,1,Single,Car,14072,7,Good,,1
+M,80,777,18,1,Married,Van,13819,2,Very Good,,1
+F,394,300,7,2,Single,Truck,11958,6,Very Poor,,0
+M,185,718,11,2,Married,Truck,10949,4,Good,,0
+M,131,785,34,0,Married,Van,10309,7,Very Good,,1
+M,97,689,5,2,Single,Car,12141,4,Good,,1
+F,669,702,5,1,Married,Truck,21839,6,Good,,1
+F,121,704,19,0,Married,Car,10132,1,Good,,0
+M,104,677,9,1,Married,Truck,11673,6,Good,,0
+M,119,677,33,0,Married,Van,5528,3,Good,,1
+F,115,687,15,0,Married,Car,7555,2,Good,,1
+F,198,719,6,3,Single,Van,10046,2,Good,,1
+F,124,686,10,0,Single,Car,8193,4,Good,,1
+M,188,542,2,2,Single,Car,11570,1,Very Poor,,1
+F,153,713,30,0,Married,Car,11638,3,Good,,0
+F,404,688,8,2,Single,Truck,14929,6,Good,,1
+M,200,602,4,0,Married,Car,13764,1,Fair,,1
+F,120,661,8,2,Single,Van,81184,5,Fair,,0
+M,80,676,14,0,Married,Truck,30767,4,Good,,1
+F,94,749,6,1,Married,Car,13144,4,Very Good,,0
+F,81,709,17,2,Married,Car,5153,7,Good,,0
+M,148,703,9,1,Married,Van,9925,4,Good,,1
+F,394,707,20,3,Married,Truck,19347,6,Good,,1
+F,96,768,21,0,Single,Car,10580,3,Very Good,,1
+M,113,715,24,1,Single,Utility,11222,1,Good,,1
+F,418,505,7,3,Single,Truck,14619,8,Very Poor,,0
+F,263,527,8,2,Single,Truck,14775,7,Very Poor,,1
+M,80,693,13,1,Married,Van,58344,6,Good,,1
+F,102,749,16,1,Married,Car,14988,2,Very Good,,1
+M,115,371,1,3,Single,Car,14998,2,Very Poor,,1
+M,133,750,39,0,Single,Utility,13093,2,Very Good,,1
+M,148,833,1,2,Married,Truck,11840,3,Exceptional,,1
+M,492,660,5,1,Married,Car,11597,3,Fair,,0
+F,683,720,20,1,Married,Car,18004,7,Good,,1
+M,140,750,10,1,Married,Van,14228,8,Very Good,,0
+M,116,749,22,1,Married,Van,13468,6,Very Good,,1
+M,131,774,6,0,Married,Van,13685,5,Very Good,,1
+F,390,725,12,0,Married,Car,19570,8,Good,,0
+F,401,715,23,1,Married,Car,22926,8,Good,,1
+F,89,733,17,0,Married,Truck,13773,8,Good,,0
+F,128,754,7,3,Married,Truck,19534,5,Very Good,,1
+F,96,697,19,0,Married,Truck,9056,6,Good,,1
+F,89,754,16,0,Single,Car,11604,3,Very Good,,0
+M,414,622,1,0,Married,Van,6217,8,Fair,,0
+F,123,710,11,0,Married,Car,5897,4,Good,,0
+F,113,783,5,1,Married,Truck,9248,5,Very Good,,0
+M,140,794,9,0,Married,Van,5603,3,Very Good,,1
+F,104,759,33,0,Married,Car,14801,3,Very Good,,1
+M,185,585,5,1,Single,Car,11574,7,Fair,,1
+M,471,611,3,3,Married,Car,13941,7,Fair,,1
+M,321,352,2,2,Married,Car,17213,1,Very Poor,,1
+M,81,778,18,1,Married,Van,12997,4,Very Good,,0
+M,111,402,3,2,Single,Car,11976,3,Very Poor,,1
+M,132,691,15,1,Married,Van,14228,3,Good,,0
+F,334,316,6,3,Single,Truck,13255,4,Very Poor,,1
+F,92,751,29,1,Married,Car,14591,5,Very Good,,1
+M,97,731,24,1,Married,Truck,9219,2,Good,,0
+M,148,611,2,3,Single,Car,73877,8,Fair,,1
+F,348,700,7,2,Single,Truck,11721,1,Good,,1
+M,134,749,33,1,Married,Truck,9139,3,Very Good,,1
+F,466,613,8,2,Single,Truck,14164,8,Fair,,1
+M,158,784,35,0,Married,Van,5282,5,Very Good,,1
+M,294,586,2,3,Married,Car,88189,1,Fair,,0
+F,201,636,7,0,Single,Truck,12236,5,Fair,,1
+M,152,775,6,1,Married,Van,11999,2,Very Good,,0
+F,395,687,1,0,Married,Car,15173,7,Good,,1
+M,263,514,2,2,Single,Car,14617,6,Very Poor,,1
+F,92,768,33,1,Single,Car,10655,6,Very Good,,1
+F,289,680,8,3,Single,Truck,11038,6,Good,,0
+F,113,676,7,1,Single,Car,73376,4,Good,,1
+M,124,779,20,0,Married,Van,8262,6,Very Good,,1
+M,191,613,4,1,Single,Car,10930,8,Fair,,0
+M,200,616,5,1,Married,Car,12671,2,Fair,,1
+F,413,731,8,2,Single,Truck,13333,5,Good,,1
+M,237,647,4,1,Married,Car,10099,7,Fair,,1
+F,92,737,21,0,Married,Truck,9340,4,Good,,1
+F,154,758,16,0,Married,Truck,8223,6,Very Good,,1
+M,257,568,2,1,Married,Utility,37217,6,Very Poor,,0
+M,114,683,22,1,Married,Truck,10114,5,Good,,0
+F,148,728,23,0,Married,Truck,7942,1,Good,,0
+F,87,770,22,0,Single,Car,6685,2,Very Good,,0
+F,158,699,16,0,Married,Car,13743,4,Good,,0
+M,113,643,1,3,Single,Car,92802,3,Fair,,1
+M,157,673,37,1,Married,Van,10806,5,Good,,1
+F,359,687,27,1,Married,Car,21893,4,Good,,1
+M,343,711,4,1,Married,Van,48474,2,Good,,1
+M,193,618,5,1,Married,Truck,14117,6,Fair,,1
+F,417,692,33,1,Married,Car,15920,6,Good,,1
+F,126,686,16,0,Married,Car,14309,6,Good,,0
+F,665,589,2,0,Married,Car,5580,6,Fair,,1
+F,102,679,22,1,Married,Truck,6205,4,Good,,1
+M,105,834,16,1,Single,Utility,13688,4,Exceptional,,1
+M,456,485,4,3,Married,Car,12155,1,Very Poor,,1
+M,200,587,1,2,Single,Car,89940,5,Fair,,0
+F,150,702,11,1,Single,Car,13308,4,Good,,0
+M,215,666,5,0,Married,Car,11286,1,Fair,,1
+M,133,687,11,0,Married,Truck,5758,7,Good,,1
+M,116,676,21,1,Married,Truck,9504,3,Good,,1
+F,554,738,39,0,Married,Car,18674,8,Good,,0
+F,134,703,40,0,Married,Car,8183,6,Good,,1
+M,102,776,14,1,Single,Utility,13756,8,Very Good,,1
+M,483,670,5,3,Single,Utility,13489,8,Good,,1
+M,115,729,39,1,Married,Car,6702,6,Good,,1
+M,136,742,19,0,Married,Van,11607,6,Very Good,,0
+F,123,706,29,1,Married,Car,13635,3,Good,,0
+M,325,647,2,2,Married,Car,35507,3,Fair,,0
+F,105,794,19,1,Married,Truck,7405,4,Very Good,,1
+F,511,729,20,1,Married,Car,19482,8,Good,,1
+M,183,714,6,2,Married,Truck,10502,4,Good,,1
+M,169,608,5,1,Single,Car,13066,7,Fair,,1
+M,92,696,11,0,Single,Utility,11269,2,Good,,1
+M,114,689,19,1,Married,Van,7988,7,Good,,1
+F,147,790,14,1,Married,Truck,7200,2,Very Good,,1
+M,115,753,30,1,Married,Utility,7382,1,Very Good,,1
+M,156,770,14,1,Married,Van,8788,2,Very Good,,1
+M,195,704,8,2,Married,Truck,12164,7,Good,,0
+F,404,612,6,2,Single,Utility,10482,8,Fair,,0
+F,487,716,2,0,Married,Car,18342,4,Good,,1
+F,261,676,5,1,Married,Car,48616,3,Good,,1
+M,214,806,2,2,Married,Car,11296,3,Exceptional,,0
+M,105,674,5,2,Single,Car,10034,1,Good,,1
+M,83,842,10,0,Single,Utility,11043,4,Exceptional,,1
+F,80,772,20,1,Single,Car,7276,2,Very Good,,1
+M,87,576,1,0,Married,Van,46359,3,Very Poor,,1
+M,341,346,5,3,Married,Car,14978,6,Very Poor,,0
+F,133,740,19,1,Married,Car,8931,6,Very Good,,0
+M,93,684,7,1,Single,Utility,7902,4,Good,,0
+M,125,758,15,0,Married,Truck,13652,3,Very Good,,1
+M,461,647,1,0,Married,Van,11778,8,Fair,,1
+M,89,733,22,0,Married,Van,7001,6,Good,,0
+F,148,670,19,1,Single,Car,7766,1,Good,,1
+M,113,748,11,1,Married,Utility,14160,5,Very Good,,1
+M,156,788,8,0,Single,Utility,8233,8,Very Good,,1
+F,140,769,24,1,Single,Car,14259,6,Very Good,,1
+F,146,644,8,2,Single,Van,82811,5,Fair,,0
+M,82,780,19,0,Single,Utility,9884,2,Very Good,,1
+F,145,695,14,0,Married,Car,5900,2,Good,,0
+M,196,682,1,3,Single,Car,20109,1,Good,,1
+F,390,605,5,3,Single,Truck,14726,3,Fair,,0
+M,172,735,4,3,Single,Car,11482,7,Good,,1
+F,81,687,27,1,Single,Car,5465,2,Good,,1
+M,185,645,7,1,Married,Truck,12907,8,Fair,,1
+F,349,731,5,2,Single,Truck,10226,3,Good,,1
+M,122,780,19,1,Single,Utility,10916,6,Very Good,,1
+M,95,734,13,1,Married,Van,14374,1,Good,,1
+M,128,790,20,0,Married,Truck,9833,5,Very Good,,1
+M,407,724,1,3,Married,Car,12389,2,Good,,1
+M,326,616,4,1,Single,Car,10972,1,Fair,,1
+F,483,702,15,3,Married,Truck,16361,8,Good,,1
+M,120,773,9,0,Single,Utility,12863,4,Very Good,,1
+F,132,759,21,1,Married,Truck,5134,8,Very Good,,1
+F,138,693,18,1,Married,Car,9519,8,Good,,1
+F,182,696,7,3,Single,Van,13132,2,Good,,1
+M,149,677,31,1,Married,Van,13228,2,Good,,0
+M,305,726,3,3,Married,Car,12842,3,Good,,1
+M,129,704,15,0,Married,Truck,14324,2,Good,,0
+M,82,841,10,1,Single,Utility,8132,6,Exceptional,,0
+F,125,779,8,0,Single,Car,11581,3,Very Good,,1
+M,133,724,19,4,Single,Utility,12214,4,Good,,1
+F,255,632,7,0,Single,Truck,14480,1,Fair,,1
+F,139,779,13,1,Married,Car,12748,8,Very Good,,0
+F,108,776,12,1,Married,Car,9762,7,Very Good,,0
+M,158,797,9,0,Married,Van,6888,7,Very Good,,1
+F,156,747,5,0,Single,Car,5604,1,Very Good,,0
+M,160,783,3,0,Single,Utility,9029,3,Very Good,,1
+F,110,713,20,1,Married,Truck,5033,7,Good,,0
+F,153,758,15,0,Married,Car,11698,1,Very Good,,1
+F,101,685,13,0,Married,Car,11615,3,Good,,1
+M,153,759,21,0,Married,Van,6457,1,Very Good,,1
+F,375,724,7,2,Single,Truck,14945,1,Good,,1
+M,403,835,3,2,Married,Car,20522,4,Exceptional,,0
+M,113,754,34,1,Married,Utility,11524,7,Very Good,,0
+M,463,608,4,1,Single,Utility,14425,1,Fair,,1
+M,128,689,32,0,Married,Van,14417,8,Good,,1
+F,146,788,3,1,Married,Car,13470,3,Very Good,,1
+M,150,620,3,2,Single,Car,36906,7,Fair,,1
+M,159,791,9,1,Married,Van,14462,1,Very Good,,1
+M,258,451,3,3,Married,Car,12878,1,Very Poor,,0
+M,238,498,5,2,Married,Car,17552,6,Very Poor,,1
+M,93,682,10,1,Married,Van,34968,7,Good,,1
+M,192,374,5,3,Married,Truck,12322,3,Very Poor,,1
+F,308,606,7,3,Single,Truck,20798,2,Fair,,1
+M,156,676,5,0,Married,Utility,13220,1,Good,,1
+F,91,749,29,0,Married,Car,9233,8,Very Good,,1
+M,141,731,6,3,Married,Truck,11633,7,Good,,1
+F,314,686,6,2,Single,Truck,13686,1,Good,,1
+F,144,744,20,1,Married,Truck,7284,5,Very Good,,1
+F,106,753,17,0,Married,Car,8498,6,Very Good,,0
+F,82,526,1,2,Married,Car,57260,5,Very Poor,,1
+F,128,795,21,1,Married,Car,13547,3,Very Good,,1
+M,88,754,18,0,Married,Van,13634,5,Very Good,,1
+F,449,617,7,3,Single,Truck,12991,6,Fair,,1
+F,135,777,34,0,Married,Truck,17387,4,Very Good,,1
+M,87,684,20,1,Single,Utility,6610,8,Good,,1
+M,122,722,10,1,Married,Truck,12045,6,Good,,1
+M,136,745,7,1,Married,Van,6024,5,Very Good,,0
+M,96,764,16,0,Married,Utility,10927,5,Very Good,,1
+M,82,720,21,0,Married,Utility,14172,1,Good,,0
+F,112,691,11,0,Married,Car,13232,2,Good,,0
+F,496,502,6,3,Single,Truck,10359,3,Very Poor,,1
+F,582,716,40,0,Married,Truck,21865,1,Good,,1
+M,140,725,24,0,Married,Van,10166,4,Good,,1
+M,315,553,1,0,Married,Van,87116,2,Very Poor,,0
+F,103,767,31,0,Married,Car,23569,3,Very Good,,0
+F,99,777,15,0,Married,Truck,7924,3,Very Good,,1
+F,411,693,5,0,Married,Car,17246,1,Good,,1
+F,465,643,8,2,Single,Truck,11828,5,Fair,,0
+M,132,847,1,2,Single,Car,11549,2,Exceptional,,1
+M,268,553,2,0,Married,Truck,54524,1,Very Poor,,0
+F,231,820,8,2,Single,Truck,16483,7,Exceptional,,1
+M,153,787,10,0,Single,Utility,7156,2,Very Good,,1
+F,125,789,21,0,Married,Car,23166,1,Very Good,,0
+M,117,656,4,2,Single,Car,96015,5,Fair,,0
+F,334,656,7,1,Single,Truck,14501,6,Fair,,1
+F,349,664,5,1,Single,Truck,11060,8,Fair,,1
+M,349,679,3,1,Married,Car,12266,3,Good,,1
+F,148,778,10,1,Married,Truck,10231,6,Very Good,,1
+F,85,749,24,0,Married,Car,17612,7,Very Good,,0
+M,127,684,3,3,Single,Car,10980,7,Good,,1
+M,124,670,10,0,Married,Truck,10820,6,Good,,1
+M,97,717,5,2,Single,Car,14354,7,Good,,0
+F,380,696,14,0,Married,Car,16805,2,Good,,0
+F,697,725,33,0,Single,Car,12394,5,Good,,0
+M,433,626,1,3,Married,Car,32155,4,Fair,,0
+F,97,799,8,1,Married,Car,5106,2,Very Good,,1
+F,482,711,7,3,Single,Truck,11859,4,Good,,0
+M,151,740,11,0,Married,Utility,8572,4,Very Good,,1
+M,454,696,1,2,Single,Car,11294,6,Good,,1
+M,121,678,13,1,Married,Van,12809,2,Good,,0
+M,141,568,5,2,Single,Car,20051,6,Very Poor,,1
+F,87,763,25,3,Married,Truck,21333,1,Very Good,,1
+F,134,737,24,0,Married,Truck,13317,5,Good,,1
+M,82,793,10,1,Married,Utility,14615,5,Very Good,,1
+M,412,708,5,2,Married,Car,13413,7,Good,,0
+M,88,798,9,0,Married,Utility,7698,3,Very Good,,0
+M,119,783,27,0,Married,Truck,13886,4,Very Good,,1
+M,85,518,5,0,Married,Van,80791,1,Very Poor,,0
+M,106,618,4,2,Single,Car,78101,6,Fair,,1
+M,144,799,20,1,Single,Utility,9558,2,Very Good,,0
+M,368,616,2,3,Married,Car,47610,7,Fair,,1
+M,276,837,5,3,Married,Car,19291,1,Exceptional,,1
+F,316,732,5,3,Single,Truck,11488,1,Good,,1
+M,86,729,35,0,Married,Van,9870,2,Good,,1
+F,191,683,5,3,Single,Van,14376,8,Good,,0
+F,416,677,8,3,Single,Truck,13120,5,Good,,1
+M,629,752,4,1,Single,Utility,10822,8,Very Good,,1
+M,101,742,21,1,Married,Van,8784,1,Very Good,,1
+F,114,779,12,1,Married,Car,11243,5,Very Good,,1
+M,120,706,15,1,Married,Truck,10360,5,Good,,1
+M,84,760,7,0,Single,Utility,11470,7,Very Good,,1

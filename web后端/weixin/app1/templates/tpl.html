@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>模板语法的学习</h1>
+<div>{{ n1 }}</div>
+<div>{{ n2 }}</div>
+<div>{{ n2.0 }}</div>
+<div>{{ n2.1 }}</div>
+<div>{{ n2.2 }}</div>
+
+<div>
+    {% for item in n2 %}
+        <span>{{ item }}</span>
+    {% endfor %}
+</div>
+<hr/>
+{{ n3 }}
+{{ n3.name }}
+{{ n3.salary }}
+{{ n3.role }}
+
+<ul>
+    {% for item in n3.values %}
+        <li>{{ item }}</li>
+    {% endfor %}
+</ul>
+<ul>
+    {% for k,v in n3.items %}
+        <li>{{ k }}={{ v }}</li>
+    {% endfor %}
+</ul>
+
+<hr/>
+{% if n1 == '洛潆' %}
+    <h1>kjndvkdms</h1>
+{% else %}
+    <h1>465346</h1>
+{% endif %}
+</body>
+</html>
