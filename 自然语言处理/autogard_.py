@@ -16,3 +16,5 @@ print(y.grad_fn)
 z=y*y*3
 out=z.mean()
 print(z,out)
+
+#关于方法.requires_grad_():该方法可以原地改变Tensor的属性.requires_grad的值，如果没有主动设定默认为False
